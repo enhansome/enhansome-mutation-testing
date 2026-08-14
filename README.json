@@ -1,0 +1,888 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Alloy",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MuAlloy",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MuAlloy papers",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Alloy",
+                    "last_commit": "2018-06-14T16:07:10Z",
+                    "owner": "kaiyuanw",
+                    "repo": "MuAlloy",
+                    "stars": 8
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "language": "Alloy",
+                "last_commit": "2018-06-14T16:07:10Z",
+                "owner": "kaiyuanw",
+                "repo": "MuAlloy",
+                "stars": 8
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "C/C++",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mull-project/mull",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-07-31T17:32:40Z",
+                "owner": "mull-project",
+                "repo": "mull",
+                "stars": 831
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mutate_cpp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2024-06-30T18:24:14Z",
+                "owner": "nlohmann",
+                "repo": "mutate_cpp",
+                "stars": 193
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dextool Mutate",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "D",
+                "last_commit": "2026-04-20T13:36:52Z",
+                "owner": "joakim-brannstrom",
+                "repo": "dextool",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MART",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2022-07-25T11:55:40Z",
+                "owner": "thierry-tct",
+                "repo": "mart",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Frama-C plugin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "OCaml",
+                "last_commit": "2018-10-31T13:20:37Z",
+                "owner": "gpetiot",
+                "repo": "Frama-C-Mutation",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MUSIC",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-04-24T06:04:45Z",
+                "owner": "swtv-kaist",
+                "repo": "MUSIC",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SRCIROR",
+              "description": "A mutation tool for source and IR",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2018-09-06T13:59:22Z",
+                "owner": "TestingResearchIllinois",
+                "repo": "srciror",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "accmut",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2018-01-25T16:37:07Z",
+                "owner": "wangbo15",
+                "repo": "accmut",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "C#",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "stryker-mutator/stryker-net",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2026-08-13T19:43:40Z",
+                "owner": "stryker-mutator",
+                "repo": "stryker-net",
+                "stars": 2052
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Testura.Mutation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2022-12-08T09:38:02Z",
+                "owner": "Testura",
+                "repo": "Testura.Mutation",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ComparetheMarket/fettle",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C#",
+                "last_commit": "2021-03-23T11:24:41Z",
+                "owner": "ComparetheMarket",
+                "repo": "fettle",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Faultify",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2021-12-06T07:36:37Z",
+                "owner": "Faultify",
+                "repo": "Faultify",
+                "stars": 21
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Clojure",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mutant",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Clojure",
+                "last_commit": "2017-03-11T09:10:54Z",
+                "owner": "jstepien",
+                "repo": "mutant",
+                "stars": 105
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Crystal",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "crytic",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Crystal",
+                "last_commit": "2025-11-20T16:22:26Z",
+                "owner": "hanneskaeufler",
+                "repo": "crytic",
+                "stars": 69
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Elixir",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JordiPolo/mutation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Elixir",
+                "last_commit": "2017-01-11T07:05:32Z",
+                "owner": "JordiPolo",
+                "repo": "mutation",
+                "stars": 21
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Erlang",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "parsifal-47/muterl",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-11-04T19:38:14Z",
+                "owner": "parsifal-47",
+                "repo": "muterl",
+                "stars": 15
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Go",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "go-gremlins",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-06-26T02:32:33Z",
+                "owner": "go-gremlins",
+                "repo": "gremlins",
+                "stars": 383
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ooze",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-04T09:04:44Z",
+                "owner": "gtramontina",
+                "repo": "ooze",
+                "stars": 284
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jonbaldie/go-mutesting",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-06T08:16:16Z",
+                "owner": "jonbaldie",
+                "repo": "go-mutesting",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Haskell",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rudymatela/fitspec",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Haskell",
+                "last_commit": "2025-01-30T17:07:40Z",
+                "owner": "rudymatela",
+                "repo": "fitspec",
+                "stars": 78
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Java/JVM",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hcoles/pitest",
+              "description": "* PIT : A Practical Mutation Testing Tool for Java (Demo) * An Experimental Evaluation of PIT’s Mutation Operators",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-08-07T16:44:17Z",
+                "owner": "hcoles",
+                "repo": "pitest",
+                "stars": 1845
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aliparsai/LittleDarwin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-31T09:29:23Z",
+                "owner": "aliparsai",
+                "repo": "LittleDarwin",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "metamutator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2022-08-13T09:45:38Z",
+                "owner": "SpoonLabs",
+                "repo": "metamutator",
+                "stars": 19
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "JavaScript",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "stryker-mutator/stryker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T22:48:07Z",
+                "owner": "stryker-mutator",
+                "repo": "stryker-js",
+                "stars": 3008
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Kotlin",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mutant-kraken",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2025-11-06T17:11:52Z",
+                "owner": "JosueMolinaMorales",
+                "repo": "mutant-kraken",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mutflow",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2026-08-11T19:16:19Z",
+                "owner": "anschnapp",
+                "repo": "mutflow",
+                "stars": 22
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Python",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "boxed/mutmut",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-09T15:46:58Z",
+                "owner": "boxed",
+                "repo": "mutmut",
+                "stars": 1389
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sixty-north/cosmic-ray",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-09T14:57:30Z",
+                "owner": "sixty-north",
+                "repo": "cosmic-ray",
+                "stars": 647
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "R",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jakubsob/muttest",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "R",
+                "last_commit": "2026-07-21T12:36:16Z",
+                "owner": "jakubsob",
+                "repo": "muttest",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PRL-PRG/mutator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "R",
+                "last_commit": "2026-08-04T00:06:56Z",
+                "owner": "PRL-PRG",
+                "repo": "mutator",
+                "stars": 9
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Ruby",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mbj/mutant",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-08-03T21:54:14Z",
+                "owner": "mbj",
+                "repo": "mutant",
+                "stars": 2179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "backus/mutest",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Ruby",
+                "last_commit": "2020-08-23T00:42:01Z",
+                "owner": "dgollahon",
+                "repo": "mutest",
+                "stars": 70
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Rust",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sourcefrog/cargo-mutants",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-07-06T00:29:04Z",
+                "owner": "sourcefrog",
+                "repo": "cargo-mutants",
+                "stars": 1254
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "llogiq/mutagen",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2023-05-29T04:59:10Z",
+                "owner": "llogiq",
+                "repo": "mutagen",
+                "stars": 642
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Scala",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sugakandrey/scalamu",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Scala",
+                "last_commit": "2017-12-11T15:49:45Z",
+                "owner": "sugakandrey",
+                "repo": "scalamu",
+                "stars": 44
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Smalltalk",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pavel-krivanek/mutalk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Smalltalk",
+                "last_commit": "2026-04-13T09:49:46Z",
+                "owner": "pharo-contributions",
+                "repo": "mutalk",
+                "stars": 25
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Simulink",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MUT4SLX",
+              "description": "An open-source, model-based mutation testing tool for Simulink and Stateflow (MATLAB) models. Applies principles of shift-left testing.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Reproduction Package",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "HTML",
+                    "last_commit": "2025-04-29T11:03:11Z",
+                    "owner": "haliliceylan",
+                    "repo": "MUT4SLX",
+                    "stars": 6
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2025-04-29T11:03:11Z",
+                "owner": "haliliceylan",
+                "repo": "MUT4SLX",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Solidity / Smart Contracts",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Certora/gambit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-12T19:15:15Z",
+                "owner": "Certora",
+                "repo": "gambit",
+                "stars": 208
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JoranHonig/vertigo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-11-21T01:12:29Z",
+                "owner": "JoranHonig",
+                "repo": "vertigo",
+                "stars": 207
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RareSkills/vertigo-rs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-09-05T08:15:41Z",
+                "owner": "RareSkills",
+                "repo": "vertigo-rs",
+                "stars": 128
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Swift",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "muter-mutation-testing/muter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Swift",
+                "last_commit": "2026-07-21T16:15:30Z",
+                "owner": "muter-mutation-testing",
+                "repo": "muter",
+                "stars": 558
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "OCaml",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mutaml",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "OCaml",
+                "last_commit": "2025-11-24T23:41:59Z",
+                "owner": "jmid",
+                "repo": "mutaml",
+                "stars": 75
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Lean",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mutate.lean",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lean",
+                "last_commit": "2026-06-24T08:32:01Z",
+                "owner": "jubnzv",
+                "repo": "Mutate.lean",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Other",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "codeintegrity-ai/mutahunter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-04-17T15:46:03Z",
+                "owner": "codeintegrity-ai",
+                "repo": "mutahunter",
+                "stars": 299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "agroce/universalmutator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-20T18:55:49Z",
+                "owner": "agroce",
+                "repo": "universalmutator",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "squaresLab/boggart",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-01-09T20:47:57Z",
+                "owner": "squaresLab",
+                "repo": "boggart",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bough",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-04-10T22:02:42Z",
+                "owner": "CodeEnPlace",
+                "repo": "bough",
+                "stars": 1
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Existing libraries"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T04:29:19.777Z",
+    "original_repository": "theofidry/awesome-mutation-testing",
+    "original_repository_sha": "672a097c6e97ef236f98d327466cae532ff9c2fe",
+    "enhanced_repository": "enhansome/enhansome-mutation-testing",
+    "enhanced_repository_description": null,
+    "title": "Awesome Mutation testing with stars"
+  }
+}
