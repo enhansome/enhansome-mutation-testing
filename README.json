@@ -174,7 +174,7 @@
                 "last_commit": "2026-08-15T05:58:34Z",
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2053
+                "stars": 2054
               }
             },
             {
@@ -321,7 +321,7 @@
                 "last_commit": "2026-06-26T02:32:33Z",
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 386
+                "stars": 387
               }
             },
             {
@@ -391,7 +391,7 @@
                 "last_commit": "2026-08-14T20:57:17Z",
                 "owner": "hcoles",
                 "repo": "pitest",
-                "stars": 1845
+                "stars": 1846
               }
             },
             {
@@ -440,7 +440,7 @@
                 "last_commit": "2026-08-15T21:41:40Z",
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3014
+                "stars": 3017
               }
             }
           ]
@@ -496,7 +496,7 @@
                 "last_commit": "2026-08-09T15:46:58Z",
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1391
+                "stars": 1392
               }
             },
             {
@@ -510,7 +510,7 @@
                 "last_commit": "2026-08-09T14:57:30Z",
                 "owner": "sixty-north",
                 "repo": "cosmic-ray",
-                "stars": 648
+                "stars": 649
               }
             }
           ]
@@ -566,7 +566,7 @@
                 "last_commit": "2026-08-03T21:54:14Z",
                 "owner": "mbj",
                 "repo": "mutant",
-                "stars": 2179
+                "stars": 2180
               }
             },
             {
@@ -598,10 +598,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-07-06T00:29:04Z",
+                "last_commit": "2026-08-17T03:05:52Z",
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1256
+                "stars": 1257
               }
             },
             {
@@ -878,7 +878,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:33:23.389Z",
+    "last_updated": "2026-08-17T03:34:04.569Z",
     "original_repository": "theofidry/awesome-mutation-testing",
     "original_repository_sha": "672a097c6e97ef236f98d327466cae532ff9c2fe",
     "enhanced_repository": "enhansome/enhansome-mutation-testing",
