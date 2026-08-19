@@ -36,7 +36,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [MuCPP](https://neptuno.uca.es/redmine/projects/mucpp-mutation-tool/wiki)
     * [Assessment of Class Mutation Operators for C++ with the MuCPP Mutation System](https://pdfs.semanticscholar.org/05d5/2ba68ed4ba8505cc92e4f27ad68c1b944842.pdf)
 * C#
-  * [stryker-mutator/stryker-net](https://github.com/stryker-mutator/stryker-net) ⭐ 2,056 | 🐛 189 | 🌐 C# | 📅 2026-08-19
+  * [stryker-mutator/stryker-net](https://github.com/stryker-mutator/stryker-net) ⭐ 2,058 | 🐛 188 | 🌐 C# | 📅 2026-08-19
   * [Testura.Mutation](https://github.com/Testura/Testura.Mutation) ⭐ 105 | 🐛 23 | 🌐 C# | 📅 2022-12-08
   * [ComparetheMarket/fettle](https://github.com/ComparetheMarket/fettle) ⚠️ Archived
   * [Faultify](https://github.com/Faultify/Faultify) ⭐ 21 | 🐛 8 | 🌐 C# | 📅 2021-12-06
@@ -49,8 +49,8 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 * Erlang
   * [parsifal-47/muterl](https://github.com/parsifal-47/muterl) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2022-11-04
 * Go
-  * [go-gremlins](https://github.com/go-gremlins/gremlins) ⭐ 389 | 🐛 43 | 🌐 Go | 📅 2026-06-26
-  * [Ooze](https://github.com/gtramontina/ooze) ⭐ 284 | 🐛 9 | 🌐 Go | 📅 2026-08-19
+  * [go-gremlins](https://github.com/go-gremlins/gremlins) ⭐ 390 | 🐛 43 | 🌐 Go | 📅 2026-06-26
+  * [Ooze](https://github.com/gtramontina/ooze) ⭐ 284 | 🐛 5 | 🌐 Go | 📅 2026-08-19
   * [jonbaldie/go-mutesting](https://github.com/jonbaldie/go-mutesting) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2026-08-06
 * Haskell
   * [rudymatela/fitspec](https://github.com/rudymatela/fitspec) ⭐ 78 | 🐛 0 | 🌐 Haskell | 📅 2025-01-30
@@ -68,7 +68,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [Major](http://mutation-testing.org)
     * [Publications related to the Major mutation framework](http://mutation-testing.org/publ/)
 * JavaScript
-  * [stryker-mutator/stryker](https://github.com/stryker-mutator/stryker) ⭐ 3,022 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-15
+  * [stryker-mutator/stryker](https://github.com/stryker-mutator/stryker) ⭐ 3,024 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-15
 * Kotlin
   * [mutant-kraken](https://github.com/JosueMolinaMorales/mutant-kraken) ⭐ 29 | 🐛 1 | 🌐 Rust | 📅 2025-11-06
   * [mutflow](https://github.com/anschnapp/mutflow) ⭐ 23 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-11
@@ -76,7 +76,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [infection/infection](https://github.com/infection)
   * [PEST PHP](https://pestphp.com/docs/mutation-testing)
 * Python
-  * [boxed/mutmut](https://github.com/boxed/mutmut) ⭐ 1,393 | 🐛 46 | 🌐 Python | 📅 2026-08-17
+  * [boxed/mutmut](https://github.com/boxed/mutmut) ⭐ 1,394 | 🐛 47 | 🌐 Python | 📅 2026-08-17
   * [sixty-north/cosmic-ray](https://github.com/sixty-north/cosmic-ray) ⭐ 651 | 🐛 52 | 🌐 Python | 📅 2026-08-09
 * R
   * [jakubsob/muttest](https://github.com/jakubsob/muttest) ⭐ 26 | 🐛 2 | 🌐 R | 📅 2026-07-21
@@ -86,7 +86,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
     * [Kill all the mutants - a deep dive into mutation testing and how the Mutant gem works](https://troessner.svbtle.com/kill-all-the-mutants-a-deep-dive-into-mutation-testing-and-how-the-mutant-gem-works)
   * [backus/mutest](https://github.com/backus/mutest) ⚠️ Archived
 * Rust
-  * [sourcefrog/cargo-mutants](https://github.com/sourcefrog/cargo-mutants) ⭐ 1,259 | 🐛 99 | 🌐 Rust | 📅 2026-08-17
+  * [sourcefrog/cargo-mutants](https://github.com/sourcefrog/cargo-mutants) ⭐ 1,261 | 🐛 99 | 🌐 Rust | 📅 2026-08-17
   * [llogiq/mutagen](https://github.com/llogiq/mutagen) ⭐ 642 | 🐛 39 | 🌐 Rust | 📅 2023-05-29
 * Scala
   * [sugakandrey/scalamu](https://github.com/sugakandrey/scalamu) ⭐ 44 | 🐛 4 | 🌐 Scala | 📅 2017-12-11

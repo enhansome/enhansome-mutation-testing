@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -20,6 +20,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 110132017,
                     "language": "Alloy",
                     "last_commit": "2018-06-14T16:07:10Z",
                     "owner": "kaiyuanw",
@@ -30,6 +31,7 @@
               ],
               "repo_info": {
                 "archived": false,
+                "id": 110132017,
                 "language": "Alloy",
                 "last_commit": "2018-06-14T16:07:10Z",
                 "owner": "kaiyuanw",
@@ -51,6 +53,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 58879166,
                 "language": "C++",
                 "last_commit": "2026-07-31T17:32:40Z",
                 "owner": "mull-project",
@@ -65,6 +68,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 112001014,
                 "language": "CSS",
                 "last_commit": "2024-06-30T18:24:14Z",
                 "owner": "nlohmann",
@@ -79,6 +83,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 43734144,
                 "language": "D",
                 "last_commit": "2026-04-20T13:36:52Z",
                 "owner": "joakim-brannstrom",
@@ -93,6 +98,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 75468803,
                 "language": "C++",
                 "last_commit": "2022-07-25T11:55:40Z",
                 "owner": "thierry-tct",
@@ -107,6 +113,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 123946452,
                 "language": "OCaml",
                 "last_commit": "2018-10-31T13:20:37Z",
                 "owner": "gpetiot",
@@ -121,6 +128,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 96863444,
                 "language": "C++",
                 "last_commit": "2026-04-24T06:04:45Z",
                 "owner": "swtv-kaist",
@@ -135,6 +143,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 134317194,
                 "language": "C++",
                 "last_commit": "2018-09-06T13:59:22Z",
                 "owner": "TestingResearchIllinois",
@@ -149,6 +158,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 44731025,
                 "language": "C++",
                 "last_commit": "2018-01-25T16:37:07Z",
                 "owner": "wangbo15",
@@ -170,11 +180,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 136282301,
                 "language": "C#",
-                "last_commit": "2026-08-19T01:55:23Z",
+                "last_commit": "2026-08-19T07:05:52Z",
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2056
+                "stars": 2058
               }
             },
             {
@@ -184,6 +195,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 187077455,
                 "language": "C#",
                 "last_commit": "2022-12-08T09:38:02Z",
                 "owner": "Testura",
@@ -198,6 +210,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 120328493,
                 "language": "C#",
                 "last_commit": "2021-03-23T11:24:41Z",
                 "owner": "ComparetheMarket",
@@ -212,6 +225,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 329580441,
                 "language": "C#",
                 "last_commit": "2021-12-06T07:36:37Z",
                 "owner": "Faultify",
@@ -233,6 +247,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 58925099,
                 "language": "Clojure",
                 "last_commit": "2017-03-11T09:10:54Z",
                 "owner": "jstepien",
@@ -254,6 +269,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 153008292,
                 "language": "Crystal",
                 "last_commit": "2025-11-20T16:22:26Z",
                 "owner": "hanneskaeufler",
@@ -275,6 +291,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 78596151,
                 "language": "Elixir",
                 "last_commit": "2017-01-11T07:05:32Z",
                 "owner": "JordiPolo",
@@ -296,6 +313,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 77288652,
                 "language": "Python",
                 "last_commit": "2022-11-04T19:38:14Z",
                 "owner": "parsifal-47",
@@ -317,11 +335,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 506503567,
                 "language": "Go",
                 "last_commit": "2026-06-26T02:32:33Z",
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 389
+                "stars": 390
               }
             },
             {
@@ -331,8 +350,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 570722499,
                 "language": "Go",
-                "last_commit": "2026-08-19T02:57:29Z",
+                "last_commit": "2026-08-19T12:35:08Z",
                 "owner": "gtramontina",
                 "repo": "ooze",
                 "stars": 284
@@ -345,6 +365,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1238659541,
                 "language": "Go",
                 "last_commit": "2026-08-06T08:16:16Z",
                 "owner": "jonbaldie",
@@ -366,6 +387,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 37726036,
                 "language": "Haskell",
                 "last_commit": "2025-01-30T17:07:40Z",
                 "owner": "rudymatela",
@@ -387,6 +409,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 15717393,
                 "language": "Java",
                 "last_commit": "2026-08-14T20:57:17Z",
                 "owner": "hcoles",
@@ -401,6 +424,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 38849733,
                 "language": "Python",
                 "last_commit": "2026-05-31T09:29:23Z",
                 "owner": "aliparsai",
@@ -415,6 +439,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 46285369,
                 "language": "Java",
                 "last_commit": "2022-08-13T09:45:38Z",
                 "owner": "SpoonLabs",
@@ -436,11 +461,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 51588320,
                 "language": "TypeScript",
                 "last_commit": "2026-08-15T21:41:40Z",
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3022
+                "stars": 3024
               }
             }
           ]
@@ -457,6 +483,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 603864986,
                 "language": "Rust",
                 "last_commit": "2025-11-06T17:11:52Z",
                 "owner": "JosueMolinaMorales",
@@ -471,6 +498,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1136514018,
                 "language": "Kotlin",
                 "last_commit": "2026-08-11T19:16:19Z",
                 "owner": "anschnapp",
@@ -492,11 +520,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 73606074,
                 "language": "Python",
                 "last_commit": "2026-08-17T18:29:43Z",
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1393
+                "stars": 1394
               }
             },
             {
@@ -506,6 +535,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 34157278,
                 "language": "Python",
                 "last_commit": "2026-08-09T14:57:30Z",
                 "owner": "sixty-north",
@@ -527,6 +557,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 961415566,
                 "language": "R",
                 "last_commit": "2026-07-21T12:36:16Z",
                 "owner": "jakubsob",
@@ -541,6 +572,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 886327982,
                 "language": "R",
                 "last_commit": "2026-08-04T00:06:56Z",
                 "owner": "PRL-PRG",
@@ -562,6 +594,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 5152718,
                 "language": "Ruby",
                 "last_commit": "2026-08-03T21:54:14Z",
                 "owner": "mbj",
@@ -576,6 +609,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 80176976,
                 "language": "Ruby",
                 "last_commit": "2020-08-23T00:42:01Z",
                 "owner": "dgollahon",
@@ -597,11 +631,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 404409118,
                 "language": "Rust",
                 "last_commit": "2026-08-17T03:05:52Z",
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1259
+                "stars": 1261
               }
             },
             {
@@ -611,6 +646,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 121277752,
                 "language": "Rust",
                 "last_commit": "2023-05-29T04:59:10Z",
                 "owner": "llogiq",
@@ -632,6 +668,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 86269540,
                 "language": "Scala",
                 "last_commit": "2017-12-11T15:49:45Z",
                 "owner": "sugakandrey",
@@ -653,6 +690,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 92093362,
                 "language": "Smalltalk",
                 "last_commit": "2026-04-13T09:49:46Z",
                 "owner": "pharo-contributions",
@@ -679,6 +717,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 644449906,
                     "language": "HTML",
                     "last_commit": "2025-04-29T11:03:11Z",
                     "owner": "haliliceylan",
@@ -689,6 +728,7 @@
               ],
               "repo_info": {
                 "archived": false,
+                "id": 644449906,
                 "language": "HTML",
                 "last_commit": "2025-04-29T11:03:11Z",
                 "owner": "haliliceylan",
@@ -710,6 +750,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 566004537,
                 "language": "Rust",
                 "last_commit": "2026-08-12T19:15:15Z",
                 "owner": "Certora",
@@ -724,6 +765,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 202979470,
                 "language": "Python",
                 "last_commit": "2023-11-21T01:12:29Z",
                 "owner": "JoranHonig",
@@ -738,6 +780,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 610146026,
                 "language": "Python",
                 "last_commit": "2024-09-05T08:15:41Z",
                 "owner": "RareSkills",
@@ -759,6 +802,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 147972300,
                 "language": "Swift",
                 "last_commit": "2026-07-21T16:15:30Z",
                 "owner": "muter-mutation-testing",
@@ -780,6 +824,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 420277722,
                 "language": "OCaml",
                 "last_commit": "2025-11-24T23:41:59Z",
                 "owner": "jmid",
@@ -801,6 +846,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1265057351,
                 "language": "Lean",
                 "last_commit": "2026-06-24T08:32:01Z",
                 "owner": "jubnzv",
@@ -822,6 +868,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 818429323,
                 "language": "Python",
                 "last_commit": "2025-04-17T15:46:03Z",
                 "owner": "codeintegrity-ai",
@@ -836,6 +883,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 109420715,
                 "language": "Python",
                 "last_commit": "2026-05-20T18:55:49Z",
                 "owner": "agroce",
@@ -850,6 +898,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 113636045,
                 "language": "Python",
                 "last_commit": "2019-01-09T20:47:57Z",
                 "owner": "squaresLab",
@@ -864,6 +913,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1175601213,
                 "language": "Rust",
                 "last_commit": "2026-04-10T22:02:42Z",
                 "owner": "CodeEnPlace",
@@ -878,8 +928,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:30:13.626Z",
+    "last_updated": "2026-08-19T12:43:41.852Z",
     "original_repository": "theofidry/awesome-mutation-testing",
+    "original_repository_id": 93941603,
     "original_repository_sha": "672a097c6e97ef236f98d327466cae532ff9c2fe",
     "enhanced_repository": "enhansome/enhansome-mutation-testing",
     "enhanced_repository_description": null,
