@@ -182,10 +182,10 @@
                 "archived": false,
                 "id": 136282301,
                 "language": "C#",
-                "last_commit": "2026-08-21T00:48:20Z",
+                "last_commit": "2026-08-21T18:49:53Z",
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2060
+                "stars": 2061
               }
             },
             {
@@ -352,7 +352,7 @@
                 "archived": false,
                 "id": 570722499,
                 "language": "Go",
-                "last_commit": "2026-08-20T09:02:55Z",
+                "last_commit": "2026-08-21T07:04:59Z",
                 "owner": "gtramontina",
                 "repo": "ooze",
                 "stars": 284
@@ -414,7 +414,7 @@
                 "last_commit": "2026-08-14T20:57:17Z",
                 "owner": "hcoles",
                 "repo": "pitest",
-                "stars": 1848
+                "stars": 1849
               }
             },
             {
@@ -466,7 +466,7 @@
                 "last_commit": "2026-08-15T21:41:40Z",
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3032
+                "stars": 3034
               }
             }
           ]
@@ -488,7 +488,7 @@
                 "last_commit": "2025-11-06T17:11:52Z",
                 "owner": "JosueMolinaMorales",
                 "repo": "mutant-kraken",
-                "stars": 29
+                "stars": 30
               }
             },
             {
@@ -525,7 +525,7 @@
                 "last_commit": "2026-08-17T18:29:43Z",
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1397
+                "stars": 1398
               }
             },
             {
@@ -636,7 +636,7 @@
                 "last_commit": "2026-08-17T03:05:52Z",
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1262
+                "stars": 1263
               }
             },
             {
@@ -770,7 +770,7 @@
                 "last_commit": "2023-11-21T01:12:29Z",
                 "owner": "JoranHonig",
                 "repo": "vertigo",
-                "stars": 207
+                "stars": 208
               }
             },
             {
@@ -928,7 +928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:36:27.700Z",
+    "last_updated": "2026-08-22T03:26:09.288Z",
     "original_repository": "theofidry/awesome-mutation-testing",
     "original_repository_id": 93941603,
     "original_repository_sha": "672a097c6e97ef236f98d327466cae532ff9c2fe",
