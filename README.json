@@ -182,10 +182,10 @@
                 "archived": false,
                 "id": 136282301,
                 "language": "C#",
-                "last_commit": "2026-08-24T02:05:45Z",
+                "last_commit": "2026-08-24T12:58:48Z",
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2063
+                "stars": 2062
               }
             },
             {
@@ -352,7 +352,7 @@
                 "archived": false,
                 "id": 570722499,
                 "language": "Go",
-                "last_commit": "2026-08-23T21:12:32Z",
+                "last_commit": "2026-08-24T13:57:09Z",
                 "owner": "gtramontina",
                 "repo": "ooze",
                 "stars": 284
@@ -463,10 +463,10 @@
                 "archived": false,
                 "id": 51588320,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T02:02:16Z",
+                "last_commit": "2026-08-24T07:03:28Z",
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3042
+                "stars": 3043
               }
             }
           ]
@@ -525,7 +525,7 @@
                 "last_commit": "2026-08-17T18:29:43Z",
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1399
+                "stars": 1400
               }
             },
             {
@@ -596,7 +596,7 @@
                 "archived": false,
                 "id": 5152718,
                 "language": "Ruby",
-                "last_commit": "2026-08-03T21:54:14Z",
+                "last_commit": "2026-08-24T03:51:55Z",
                 "owner": "mbj",
                 "repo": "mutant",
                 "stars": 2185
@@ -636,7 +636,7 @@
                 "last_commit": "2026-08-23T15:20:59Z",
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1267
+                "stars": 1269
               }
             },
             {
@@ -925,10 +925,73 @@
         }
       ],
       "title": "Existing libraries"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sqrlab/VisMAn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10456891,
+            "language": "Java",
+            "last_commit": "2013-08-14T20:34:34Z",
+            "owner": "seer-lab",
+            "repo": "VisMAn",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Visualization Tool"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "atodorov/mutation-testing-in-patterns",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65906941,
+            "language": "Python",
+            "last_commit": "2018-12-14T20:28:21Z",
+            "owner": "atodorov",
+            "repo": "mutation-testing-in-patterns",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Friendly resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Introduction to Mutation Testing with PIT (Java)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 260514186,
+            "language": "C#",
+            "last_commit": "2026-08-01T06:53:42Z",
+            "owner": "sualeh",
+            "repo": "introduction-to-mutation-testing",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Tutorials"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:39:04.608Z",
+    "last_updated": "2026-08-24T14:27:11.776Z",
     "original_repository": "theofidry/awesome-mutation-testing",
     "original_repository_id": 93941603,
     "original_repository_sha": "672a097c6e97ef236f98d327466cae532ff9c2fe",
