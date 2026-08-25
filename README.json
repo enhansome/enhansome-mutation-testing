@@ -58,7 +58,7 @@
                 "last_commit": "2026-07-31T17:32:40Z",
                 "owner": "mull-project",
                 "repo": "mull",
-                "stars": 831
+                "stars": 832
               }
             },
             {
@@ -73,7 +73,7 @@
                 "last_commit": "2024-06-30T18:24:14Z",
                 "owner": "nlohmann",
                 "repo": "mutate_cpp",
-                "stars": 193
+                "stars": 194
               }
             },
             {
@@ -88,7 +88,7 @@
                 "last_commit": "2026-04-20T13:36:52Z",
                 "owner": "joakim-brannstrom",
                 "repo": "dextool",
-                "stars": 111
+                "stars": 112
               }
             },
             {
@@ -182,10 +182,10 @@
                 "archived": false,
                 "id": 136282301,
                 "language": "C#",
-                "last_commit": "2026-08-24T12:58:48Z",
+                "last_commit": "2026-08-24T21:06:07Z",
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2062
+                "stars": 2063
               }
             },
             {
@@ -352,7 +352,7 @@
                 "archived": false,
                 "id": 570722499,
                 "language": "Go",
-                "last_commit": "2026-08-24T13:57:09Z",
+                "last_commit": "2026-08-25T03:30:32Z",
                 "owner": "gtramontina",
                 "repo": "ooze",
                 "stars": 284
@@ -411,7 +411,7 @@
                 "archived": false,
                 "id": 15717393,
                 "language": "Java",
-                "last_commit": "2026-08-14T20:57:17Z",
+                "last_commit": "2026-08-24T21:19:08Z",
                 "owner": "hcoles",
                 "repo": "pitest",
                 "stars": 1849
@@ -500,10 +500,10 @@
                 "archived": false,
                 "id": 1136514018,
                 "language": "Kotlin",
-                "last_commit": "2026-08-11T19:16:19Z",
+                "last_commit": "2026-08-24T19:49:06Z",
                 "owner": "anschnapp",
                 "repo": "mutflow",
-                "stars": 23
+                "stars": 24
               }
             }
           ]
@@ -525,7 +525,7 @@
                 "last_commit": "2026-08-17T18:29:43Z",
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1400
+                "stars": 1401
               }
             },
             {
@@ -599,7 +599,7 @@
                 "last_commit": "2026-08-24T03:51:55Z",
                 "owner": "mbj",
                 "repo": "mutant",
-                "stars": 2185
+                "stars": 2186
               }
             },
             {
@@ -636,7 +636,7 @@
                 "last_commit": "2026-08-23T15:20:59Z",
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1269
+                "stars": 1270
               }
             },
             {
@@ -807,7 +807,7 @@
                 "last_commit": "2026-07-21T16:15:30Z",
                 "owner": "muter-mutation-testing",
                 "repo": "muter",
-                "stars": 558
+                "stars": 559
               }
             }
           ]
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:27:11.776Z",
+    "last_updated": "2026-08-25T03:32:09.559Z",
     "original_repository": "theofidry/awesome-mutation-testing",
     "original_repository_id": 93941603,
     "original_repository_sha": "672a097c6e97ef236f98d327466cae532ff9c2fe",
