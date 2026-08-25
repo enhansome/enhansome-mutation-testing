@@ -68,7 +68,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [Major](http://mutation-testing.org)
     * [Publications related to the Major mutation framework](http://mutation-testing.org/publ/)
 * JavaScript
-  * [stryker-mutator/stryker](https://github.com/stryker-mutator/stryker) ⭐ 3,043 | 🐛 94 | 🌐 TypeScript | 📅 2026-08-24
+  * [stryker-mutator/stryker](https://github.com/stryker-mutator/stryker) ⭐ 3,044 | 🐛 94 | 🌐 TypeScript | 📅 2026-08-24
 * Kotlin
   * [mutant-kraken](https://github.com/JosueMolinaMorales/mutant-kraken) ⭐ 30 | 🐛 1 | 🌐 Rust | 📅 2025-11-06
   * [mutflow](https://github.com/anschnapp/mutflow) ⭐ 24 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-24
@@ -76,7 +76,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [infection/infection](https://github.com/infection)
   * [PEST PHP](https://pestphp.com/docs/mutation-testing)
 * Python
-  * [boxed/mutmut](https://github.com/boxed/mutmut) ⭐ 1,401 | 🐛 48 | 🌐 Python | 📅 2026-08-17
+  * [boxed/mutmut](https://github.com/boxed/mutmut) ⭐ 1,402 | 🐛 48 | 🌐 Python | 📅 2026-08-17
   * [sixty-north/cosmic-ray](https://github.com/sixty-north/cosmic-ray) ⭐ 653 | 🐛 52 | 🌐 Python | 📅 2026-08-09
 * R
   * [jakubsob/muttest](https://github.com/jakubsob/muttest) ⭐ 26 | 🐛 2 | 🌐 R | 📅 2026-07-21

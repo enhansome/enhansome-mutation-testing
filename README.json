@@ -352,7 +352,7 @@
                 "archived": false,
                 "id": 570722499,
                 "language": "Go",
-                "last_commit": "2026-08-25T03:30:32Z",
+                "last_commit": "2026-08-25T05:03:45Z",
                 "owner": "gtramontina",
                 "repo": "ooze",
                 "stars": 284
@@ -466,7 +466,7 @@
                 "last_commit": "2026-08-24T07:03:28Z",
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3043
+                "stars": 3044
               }
             }
           ]
@@ -525,7 +525,7 @@
                 "last_commit": "2026-08-17T18:29:43Z",
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1401
+                "stars": 1402
               }
             },
             {
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:32:09.559Z",
+    "last_updated": "2026-08-25T06:21:11.535Z",
     "original_repository": "theofidry/awesome-mutation-testing",
     "original_repository_id": 93941603,
     "original_repository_sha": "672a097c6e97ef236f98d327466cae532ff9c2fe",
