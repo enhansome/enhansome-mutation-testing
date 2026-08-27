@@ -36,7 +36,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [MuCPP](https://neptuno.uca.es/redmine/projects/mucpp-mutation-tool/wiki)
     * [Assessment of Class Mutation Operators for C++ with the MuCPP Mutation System](https://pdfs.semanticscholar.org/05d5/2ba68ed4ba8505cc92e4f27ad68c1b944842.pdf)
 * C#
-  * [stryker-mutator/stryker-net](https://github.com/stryker-mutator/stryker-net) ⭐ 2,065 | 🐛 191 | 🌐 C# | 📅 2026-08-27
+  * [stryker-mutator/stryker-net](https://github.com/stryker-mutator/stryker-net) ⭐ 2,065 | 🐛 192 | 🌐 C# | 📅 2026-08-27
   * [Testura.Mutation](https://github.com/Testura/Testura.Mutation) ⭐ 106 | 🐛 23 | 🌐 C# | 📅 2022-12-08
   * [ComparetheMarket/fettle](https://github.com/ComparetheMarket/fettle) ⚠️ Archived
   * [Faultify](https://github.com/Faultify/Faultify) ⭐ 21 | 🐛 8 | 🌐 C# | 📅 2021-12-06
@@ -56,7 +56,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [rudymatela/fitspec](https://github.com/rudymatela/fitspec) ⭐ 78 | 🐛 0 | 🌐 Haskell | 📅 2025-01-30
   * [mucheck](https://hackage.haskell.org/package/MuCheck)
 * Java/JVM
-  * [hcoles/pitest](https://github.com/hcoles/pitest) ⭐ 1,852 | 🐛 321 | 🌐 Java | 📅 2026-08-27
+  * [hcoles/pitest](https://github.com/hcoles/pitest) ⭐ 1,853 | 🐛 321 | 🌐 Java | 📅 2026-08-27
     \* [PIT : A Practical Mutation Testing Tool for Java (Demo)](https://dl.acm.org/citation.cfm?id=2948707)
     \* [An Experimental Evaluation of PIT’s Mutation Operators](http://www.diva-portal.org/smash/get/diva2:1161760/FULLTEXT01.pdf)
     * [Introduction to Mutation Testing](https://blog.frankel.ch/introduction-to-mutation-testing/)
@@ -69,6 +69,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
     * [Publications related to the Major mutation framework](http://mutation-testing.org/publ/)
 * JavaScript
   * [stryker-mutator/stryker](https://github.com/stryker-mutator/stryker) ⭐ 3,052 | 🐛 100 | 🌐 TypeScript | 📅 2026-08-27
+  * [T4LEL/testtruth](https://github.com/T4LEL/testtruth) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-26 - Scores the same mutants against the old and new test files of a git diff, so a pull request that weakens the tests cannot hide behind green CI (TypeScript/JavaScript).
 * Kotlin
   * [mutant-kraken](https://github.com/JosueMolinaMorales/mutant-kraken) ⭐ 30 | 🐛 1 | 🌐 Rust | 📅 2025-11-06
   * [mutflow](https://github.com/anschnapp/mutflow) ⭐ 24 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-25

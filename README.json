@@ -182,7 +182,7 @@
                 "archived": false,
                 "id": 136282301,
                 "language": "C#",
-                "last_commit": "2026-08-27T09:05:13Z",
+                "last_commit": "2026-08-27T12:57:07Z",
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
                 "stars": 2065
@@ -414,7 +414,7 @@
                 "last_commit": "2026-08-27T09:35:46Z",
                 "owner": "hcoles",
                 "repo": "pitest",
-                "stars": 1852
+                "stars": 1853
               }
             },
             {
@@ -467,6 +467,21 @@
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
                 "stars": 3052
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "T4LEL/testtruth",
+              "description": "Scores the same mutants against the old and new test files of a git diff, so a pull request that weakens the tests cannot hide behind green CI (TypeScript/JavaScript).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1347438586,
+                "language": "TypeScript",
+                "last_commit": "2026-08-26T17:13:48Z",
+                "owner": "T4LEL",
+                "repo": "testtruth",
+                "stars": 0
               }
             }
           ]
@@ -991,17 +1006,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:51:10.191Z",
+    "last_updated": "2026-08-27T13:06:15.069Z",
     "original_repository_info": {
       "archived": false,
       "id": 93941603,
       "language": null,
-      "last_commit": "2026-08-06T10:39:32Z",
+      "last_commit": "2026-08-27T13:01:32Z",
       "owner": "theofidry",
       "repo": "awesome-mutation-testing",
       "stars": 470
     },
-    "original_repository_sha": "672a097c6e97ef236f98d327466cae532ff9c2fe",
+    "original_repository_sha": "baeedd11d683578e22c5e7e7f32ebe5601d01f00",
     "enhanced_repository": "enhansome/enhansome-mutation-testing",
     "enhanced_repository_description": null,
     "title": "Awesome Mutation testing with stars"
