@@ -182,10 +182,10 @@
                 "archived": false,
                 "id": 136282301,
                 "language": "C#",
-                "last_commit": "2026-08-25T21:17:16Z",
+                "last_commit": "2026-08-27T09:05:13Z",
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2063
+                "stars": 2065
               }
             },
             {
@@ -340,7 +340,7 @@
                 "last_commit": "2026-06-26T02:32:33Z",
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 392
+                "stars": 393
               }
             },
             {
@@ -352,10 +352,10 @@
                 "archived": false,
                 "id": 570722499,
                 "language": "Go",
-                "last_commit": "2026-08-26T02:23:25Z",
+                "last_commit": "2026-08-27T01:21:45Z",
                 "owner": "gtramontina",
                 "repo": "ooze",
-                "stars": 284
+                "stars": 286
               }
             },
             {
@@ -367,7 +367,7 @@
                 "archived": false,
                 "id": 1238659541,
                 "language": "Go",
-                "last_commit": "2026-08-20T12:57:47Z",
+                "last_commit": "2026-08-27T09:54:56Z",
                 "owner": "jonbaldie",
                 "repo": "go-mutesting",
                 "stars": 4
@@ -411,10 +411,10 @@
                 "archived": false,
                 "id": 15717393,
                 "language": "Java",
-                "last_commit": "2026-08-25T15:44:05Z",
+                "last_commit": "2026-08-27T09:35:46Z",
                 "owner": "hcoles",
                 "repo": "pitest",
-                "stars": 1850
+                "stars": 1852
               }
             },
             {
@@ -463,10 +463,10 @@
                 "archived": false,
                 "id": 51588320,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T03:15:29Z",
+                "last_commit": "2026-08-27T06:52:37Z",
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3045
+                "stars": 3052
               }
             }
           ]
@@ -525,7 +525,7 @@
                 "last_commit": "2026-08-17T18:29:43Z",
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1404
+                "stars": 1407
               }
             },
             {
@@ -540,7 +540,7 @@
                 "last_commit": "2026-08-09T14:57:30Z",
                 "owner": "sixty-north",
                 "repo": "cosmic-ray",
-                "stars": 653
+                "stars": 654
               }
             }
           ]
@@ -636,7 +636,7 @@
                 "last_commit": "2026-08-23T15:20:59Z",
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1272
+                "stars": 1274
               }
             },
             {
@@ -991,9 +991,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:39:51.563Z",
-    "original_repository": "theofidry/awesome-mutation-testing",
-    "original_repository_id": 93941603,
+    "last_updated": "2026-08-27T11:51:10.191Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 93941603,
+      "language": null,
+      "last_commit": "2026-08-06T10:39:32Z",
+      "owner": "theofidry",
+      "repo": "awesome-mutation-testing",
+      "stars": 470
+    },
     "original_repository_sha": "672a097c6e97ef236f98d327466cae532ff9c2fe",
     "enhanced_repository": "enhansome/enhansome-mutation-testing",
     "enhanced_repository_description": null,
