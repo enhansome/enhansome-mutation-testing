@@ -26,7 +26,8 @@
                     "owner": "kaiyuanw",
                     "repo": "MuAlloy",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:35:54.671Z"
                 }
               ],
               "repo_info": {
@@ -37,7 +38,8 @@
                 "owner": "kaiyuanw",
                 "repo": "MuAlloy",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -58,8 +60,9 @@
                 "last_commit": "2026-07-31T17:32:40Z",
                 "owner": "mull-project",
                 "repo": "mull",
-                "stars": 832
-              }
+                "stars": 833
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -74,7 +77,8 @@
                 "owner": "nlohmann",
                 "repo": "mutate_cpp",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -89,7 +93,8 @@
                 "owner": "joakim-brannstrom",
                 "repo": "dextool",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -104,7 +109,8 @@
                 "owner": "thierry-tct",
                 "repo": "mart",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -119,7 +125,8 @@
                 "owner": "gpetiot",
                 "repo": "Frama-C-Mutation",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -134,7 +141,8 @@
                 "owner": "swtv-kaist",
                 "repo": "MUSIC",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -149,7 +157,8 @@
                 "owner": "TestingResearchIllinois",
                 "repo": "srciror",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -164,7 +173,8 @@
                 "owner": "wangbo15",
                 "repo": "accmut",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -182,11 +192,12 @@
                 "archived": false,
                 "id": 136282301,
                 "language": "C#",
-                "last_commit": "2026-08-27T12:57:07Z",
+                "last_commit": "2026-08-28T11:44:06Z",
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
                 "stars": 2065
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -201,7 +212,8 @@
                 "owner": "Testura",
                 "repo": "Testura.Mutation",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -216,7 +228,8 @@
                 "owner": "ComparetheMarket",
                 "repo": "fettle",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -231,7 +244,8 @@
                 "owner": "Faultify",
                 "repo": "Faultify",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -253,7 +267,8 @@
                 "owner": "jstepien",
                 "repo": "mutant",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -275,7 +290,8 @@
                 "owner": "hanneskaeufler",
                 "repo": "crytic",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -297,7 +313,8 @@
                 "owner": "JordiPolo",
                 "repo": "mutation",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -319,7 +336,8 @@
                 "owner": "parsifal-47",
                 "repo": "muterl",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -340,8 +358,9 @@
                 "last_commit": "2026-06-26T02:32:33Z",
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 393
-              }
+                "stars": 395
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -352,11 +371,12 @@
                 "archived": false,
                 "id": 570722499,
                 "language": "Go",
-                "last_commit": "2026-08-27T01:21:45Z",
+                "last_commit": "2026-08-28T09:32:42Z",
                 "owner": "gtramontina",
                 "repo": "ooze",
                 "stars": 286
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -367,11 +387,12 @@
                 "archived": false,
                 "id": 1238659541,
                 "language": "Go",
-                "last_commit": "2026-08-27T09:54:56Z",
+                "last_commit": "2026-08-27T16:19:23Z",
                 "owner": "jonbaldie",
                 "repo": "go-mutesting",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -393,7 +414,8 @@
                 "owner": "rudymatela",
                 "repo": "fitspec",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -411,11 +433,12 @@
                 "archived": false,
                 "id": 15717393,
                 "language": "Java",
-                "last_commit": "2026-08-27T09:35:46Z",
+                "last_commit": "2026-08-27T13:41:41Z",
                 "owner": "hcoles",
                 "repo": "pitest",
-                "stars": 1853
-              }
+                "stars": 1855
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -430,7 +453,8 @@
                 "owner": "aliparsai",
                 "repo": "LittleDarwin",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -445,7 +469,8 @@
                 "owner": "SpoonLabs",
                 "repo": "metamutator",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -463,11 +488,12 @@
                 "archived": false,
                 "id": 51588320,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T06:52:37Z",
+                "last_commit": "2026-08-28T13:46:59Z",
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3052
-              }
+                "stars": 3060
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -482,7 +508,8 @@
                 "owner": "T4LEL",
                 "repo": "testtruth",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -504,7 +531,8 @@
                 "owner": "JosueMolinaMorales",
                 "repo": "mutant-kraken",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -515,11 +543,12 @@
                 "archived": false,
                 "id": 1136514018,
                 "language": "Kotlin",
-                "last_commit": "2026-08-25T16:58:48Z",
+                "last_commit": "2026-08-27T20:42:26Z",
                 "owner": "anschnapp",
                 "repo": "mutflow",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -540,8 +569,9 @@
                 "last_commit": "2026-08-17T18:29:43Z",
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1407
-              }
+                "stars": 1409
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -556,7 +586,8 @@
                 "owner": "sixty-north",
                 "repo": "cosmic-ray",
                 "stars": 654
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -578,7 +609,8 @@
                 "owner": "jakubsob",
                 "repo": "muttest",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -593,7 +625,8 @@
                 "owner": "PRL-PRG",
                 "repo": "mutator",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -615,7 +648,8 @@
                 "owner": "mbj",
                 "repo": "mutant",
                 "stars": 2186
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -630,7 +664,8 @@
                 "owner": "dgollahon",
                 "repo": "mutest",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -651,8 +686,9 @@
                 "last_commit": "2026-08-23T15:20:59Z",
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1274
-              }
+                "stars": 1275
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -667,7 +703,8 @@
                 "owner": "llogiq",
                 "repo": "mutagen",
                 "stars": 642
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -689,7 +726,8 @@
                 "owner": "sugakandrey",
                 "repo": "scalamu",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -711,7 +749,8 @@
                 "owner": "pharo-contributions",
                 "repo": "mutalk",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -738,7 +777,8 @@
                     "owner": "haliliceylan",
                     "repo": "MUT4SLX",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:35:54.671Z"
                 }
               ],
               "repo_info": {
@@ -749,7 +789,8 @@
                 "owner": "haliliceylan",
                 "repo": "MUT4SLX",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -771,7 +812,8 @@
                 "owner": "Certora",
                 "repo": "gambit",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -786,7 +828,8 @@
                 "owner": "JoranHonig",
                 "repo": "vertigo",
                 "stars": 208
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -801,7 +844,8 @@
                 "owner": "RareSkills",
                 "repo": "vertigo-rs",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -822,8 +866,9 @@
                 "last_commit": "2026-07-21T16:15:30Z",
                 "owner": "muter-mutation-testing",
                 "repo": "muter",
-                "stars": 559
-              }
+                "stars": 561
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -845,7 +890,8 @@
                 "owner": "jmid",
                 "repo": "mutaml",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -867,7 +913,8 @@
                 "owner": "jubnzv",
                 "repo": "Mutate.lean",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         },
@@ -889,7 +936,8 @@
                 "owner": "codeintegrity-ai",
                 "repo": "mutahunter",
                 "stars": 299
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -904,7 +952,8 @@
                 "owner": "agroce",
                 "repo": "universalmutator",
                 "stars": 162
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -919,7 +968,8 @@
                 "owner": "squaresLab",
                 "repo": "boggart",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             },
             {
               "node_type": "item",
@@ -934,7 +984,8 @@
                 "owner": "CodeEnPlace",
                 "repo": "bough",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
             }
           ]
         }
@@ -957,7 +1008,8 @@
             "owner": "seer-lab",
             "repo": "VisMAn",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:35:54.671Z"
         }
       ],
       "title": "Visualization Tool"
@@ -978,7 +1030,8 @@
             "owner": "atodorov",
             "repo": "mutation-testing-in-patterns",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T14:35:54.671Z"
         }
       ],
       "title": "Friendly resources"
@@ -999,14 +1052,15 @@
             "owner": "sualeh",
             "repo": "introduction-to-mutation-testing",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T14:35:54.671Z"
         }
       ],
       "title": "Tutorials"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:06:15.069Z",
+    "last_updated": "2026-08-28T14:35:54.671Z",
     "original_repository_info": {
       "archived": false,
       "id": 93941603,
@@ -1014,7 +1068,7 @@
       "last_commit": "2026-08-27T13:01:32Z",
       "owner": "theofidry",
       "repo": "awesome-mutation-testing",
-      "stars": 470
+      "stars": 469
     },
     "original_repository_sha": "baeedd11d683578e22c5e7e7f32ebe5601d01f00",
     "enhanced_repository": "enhansome/enhansome-mutation-testing",
