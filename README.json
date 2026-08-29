@@ -20,24 +20,50 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Mutation Testing Framework for Alloy",
+                    "homepage": null,
                     "id": 110132017,
                     "language": "Alloy",
+                    "license": "MIT",
                     "last_commit": "2018-06-14T16:07:10Z",
+                    "open_issues": 0,
                     "owner": "kaiyuanw",
                     "repo": "MuAlloy",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "alloy",
+                      "bash",
+                      "gradle",
+                      "java",
+                      "mutation-testing",
+                      "sat-solver",
+                      "test-generation"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:35:54.671Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "A Mutation Testing Framework for Alloy",
+                "homepage": null,
                 "id": 110132017,
                 "language": "Alloy",
+                "license": "MIT",
                 "last_commit": "2018-06-14T16:07:10Z",
+                "open_issues": 0,
                 "owner": "kaiyuanw",
                 "repo": "MuAlloy",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "alloy",
+                  "bash",
+                  "gradle",
+                  "java",
+                  "mutation-testing",
+                  "sat-solver",
+                  "test-generation"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -55,12 +81,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Practical mutation testing and fault injection for C and C++",
+                "homepage": "https://mull-project.com",
                 "id": 58879166,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-31T17:32:40Z",
+                "open_issues": 23,
                 "owner": "mull-project",
                 "repo": "mull",
-                "stars": 833
+                "stars": 833,
+                "topics": [
+                  "c",
+                  "c-plus-plus",
+                  "fault-injection",
+                  "jit",
+                  "llvm",
+                  "mutation-analysis",
+                  "mutation-testing",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -71,12 +111,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ Mutation Test Environment",
+                "homepage": null,
                 "id": 112001014,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2024-06-30T18:24:14Z",
+                "open_issues": 10,
                 "owner": "nlohmann",
                 "repo": "mutate_cpp",
-                "stars": 194
+                "stars": 194,
+                "topics": [
+                  "c-plus-plus",
+                  "mutation-testing"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -87,12 +135,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Suite of C/C++ tooling built on LLVM/Clang",
+                "homepage": "http://joakim-brannstrom.github.io/dextool/",
                 "id": 43734144,
                 "language": "D",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-20T13:36:52Z",
+                "open_issues": 16,
                 "owner": "joakim-brannstrom",
                 "repo": "dextool",
-                "stars": 112
+                "stars": 112,
+                "topics": [
+                  "clang",
+                  "cpp",
+                  "d",
+                  "googletest",
+                  "mccabe",
+                  "mock",
+                  "mutation-testing",
+                  "staticcodeanalysis",
+                  "test",
+                  "test-double",
+                  "testdouble"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -103,12 +168,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLVM Mutation Artisan (MART) is a configurable mutation testing framework based on LLVM",
+                "homepage": "https://thierry-tct.github.io/mart",
                 "id": 75468803,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-07-25T11:55:40Z",
+                "open_issues": 0,
                 "owner": "thierry-tct",
                 "repo": "mart",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "c",
+                  "cpp",
+                  "dlang",
+                  "llvm",
+                  "llvm-bitcode",
+                  "meta-mutant",
+                  "mutation",
+                  "mutation-analysis",
+                  "mutation-testing",
+                  "objective-c",
+                  "schemata",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -119,12 +202,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Generation of mutant programs",
+                "homepage": null,
                 "id": 123946452,
                 "language": "OCaml",
+                "license": null,
                 "last_commit": "2018-10-31T13:20:37Z",
+                "open_issues": 0,
                 "owner": "gpetiot",
                 "repo": "Frama-C-Mutation",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "acsl",
+                  "frama-c"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -135,12 +226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MUSIC: MUtation analySIs tool with High Configurability and Extensibility",
+                "homepage": null,
                 "id": 96863444,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-24T06:04:45Z",
+                "open_issues": 3,
                 "owner": "swtv-kaist",
                 "repo": "MUSIC",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -151,12 +247,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A mutation tool for source and IR",
+                "homepage": null,
                 "id": 134317194,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2018-09-06T13:59:22Z",
+                "open_issues": 2,
                 "owner": "TestingResearchIllinois",
                 "repo": "srciror",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -167,12 +268,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accmut is a framework for acclerating mutation testing, which is based on LLVM-IR.",
+                "homepage": null,
                 "id": 44731025,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2018-01-25T16:37:07Z",
+                "open_issues": 0,
                 "owner": "wangbo15",
                 "repo": "accmut",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "llvm-ir",
+                  "mutation-testing"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -190,12 +299,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutation testing for .NET core and .NET framework!",
+                "homepage": "https://stryker-mutator.io",
                 "id": 136282301,
                 "language": "C#",
-                "last_commit": "2026-08-28T11:44:06Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T22:38:51Z",
+                "open_issues": 193,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2065
+                "stars": 2065,
+                "topics": [
+                  "dotnet-core",
+                  "dotnet-framework",
+                  "dotnet-stryker",
+                  "hacktoberfest",
+                  "mutation-testing",
+                  "stryker"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -206,12 +327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutation testing tool for C# .NET",
+                "homepage": null,
                 "id": 187077455,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-12-08T09:38:02Z",
+                "open_issues": 23,
                 "owner": "Testura",
                 "repo": "Testura.Mutation",
-                "stars": 106
+                "stars": 106,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -222,12 +348,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An experimental mutation testing tool for C# code :bug::mag:",
+                "homepage": null,
                 "id": 120328493,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2021-03-23T11:24:41Z",
+                "open_issues": 9,
                 "owner": "ComparetheMarket",
                 "repo": "fettle",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "csharp",
+                  "mutation-testing"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -238,12 +372,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Byte Code Dotnet Mutation Utility",
+                "homepage": null,
                 "id": 329580441,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2021-12-06T07:36:37Z",
+                "open_issues": 8,
                 "owner": "Faultify",
                 "repo": "Faultify",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "byte",
+                  "bytecode",
+                  "mutation-coverage",
+                  "mutation-test",
+                  "mutation-testing",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -261,12 +407,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Mutation testing for Clojure",
+                "homepage": null,
                 "id": 58925099,
                 "language": "Clojure",
+                "license": null,
                 "last_commit": "2017-03-11T09:10:54Z",
+                "open_issues": 8,
                 "owner": "jstepien",
                 "repo": "mutant",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -284,12 +435,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutation testing for crystal.",
+                "homepage": "https://hanneskaeufler.github.io/crytic",
                 "id": 153008292,
                 "language": "Crystal",
+                "license": "MIT",
                 "last_commit": "2025-11-20T16:22:26Z",
+                "open_issues": 5,
                 "owner": "hanneskaeufler",
                 "repo": "crytic",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "crystal",
+                  "crystal-language",
+                  "hacktoberfest",
+                  "mutation-testing",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -307,12 +469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutant testing for Elixir",
+                "homepage": null,
                 "id": 78596151,
                 "language": "Elixir",
+                "license": "NOASSERTION",
                 "last_commit": "2017-01-11T07:05:32Z",
+                "open_issues": 0,
                 "owner": "JordiPolo",
                 "repo": "mutation",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -330,12 +497,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutation checker for Erlang",
+                "homepage": null,
                 "id": 77288652,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-04T19:38:14Z",
+                "open_issues": 0,
                 "owner": "parsifal-47",
                 "repo": "muterl",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -353,12 +525,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A mutation testing tool for Go.",
+                "homepage": "https://gremlins.dev",
                 "id": 506503567,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-26T02:32:33Z",
+                "open_issues": 43,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 395
+                "stars": 397,
+                "topics": [
+                  "go",
+                  "golang",
+                  "mutation-testing",
+                  "testing",
+                  "testing-techniques",
+                  "testing-tools"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -369,12 +553,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧬 Go Mutation Testing",
+                "homepage": null,
                 "id": 570722499,
                 "language": "Go",
-                "last_commit": "2026-08-28T09:32:42Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:46:15Z",
+                "open_issues": 12,
                 "owner": "gtramontina",
                 "repo": "ooze",
-                "stars": 286
+                "stars": 286,
+                "topics": [
+                  "go",
+                  "golang",
+                  "golang-library",
+                  "golang-tools",
+                  "gotest",
+                  "mutation",
+                  "mutation-testing",
+                  "test",
+                  "testing",
+                  "testing-tool",
+                  "testing-tools"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -385,12 +586,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutation testing for Go source code. ",
+                "homepage": "https://jonbaldie.github.io/go-mutesting/",
                 "id": 1238659541,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-27T16:19:23Z",
+                "open_issues": 0,
                 "owner": "jonbaldie",
                 "repo": "go-mutesting",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -408,12 +614,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "refine properties for testing Haskell programs",
+                "homepage": "https://hackage.haskell.org/package/fitspec",
                 "id": 37726036,
                 "language": "Haskell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-01-30T17:07:40Z",
+                "open_issues": 0,
                 "owner": "rudymatela",
                 "repo": "fitspec",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "enumerative-testing",
+                  "leancheck",
+                  "mutation-testing",
+                  "property-based-testing",
+                  "property-refinement",
+                  "property-testing"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -431,12 +649,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "State of the art mutation testing system for the JVM",
+                "homepage": null,
                 "id": 15717393,
                 "language": "Java",
-                "last_commit": "2026-08-27T13:41:41Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:39:03Z",
+                "open_issues": 318,
                 "owner": "hcoles",
                 "repo": "pitest",
-                "stars": 1855
+                "stars": 1856,
+                "topics": [
+                  "coverage",
+                  "java",
+                  "junit",
+                  "mutation-analysis",
+                  "mutation-testing",
+                  "testing",
+                  "testng"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -447,12 +678,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java Mutation Testing Framework Written in Python",
+                "homepage": "https://www.parsai.net",
                 "id": 38849733,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-31T09:29:23Z",
+                "open_issues": 11,
                 "owner": "aliparsai",
                 "repo": "LittleDarwin",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -463,12 +699,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a mutation testing engine for Java based on mutant schemata / metamutants / metaprogramming",
+                "homepage": null,
                 "id": 46285369,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2022-08-13T09:45:38Z",
+                "open_issues": 1,
                 "owner": "SpoonLabs",
                 "repo": "metamutator",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -486,12 +727,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutation testing for JavaScript and friends",
+                "homepage": "https://stryker-mutator.io",
                 "id": 51588320,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:46:59Z",
+                "open_issues": 99,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3060
+                "stars": 3060,
+                "topics": [
+                  "hacktoberfest",
+                  "javascript",
+                  "mutation-testing",
+                  "stryker",
+                  "test-automation",
+                  "testing",
+                  "testing-tools",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -502,12 +757,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All tests are green. That's exactly the problem. Detects pull requests that weaken your tests instead of fixing your code, via before/after mutation testing.",
+                "homepage": null,
                 "id": 1347438586,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:13:48Z",
+                "open_issues": 0,
                 "owner": "T4LEL",
                 "repo": "testtruth",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "ai",
+                  "ci",
+                  "claude-code",
+                  "code-review",
+                  "codex",
+                  "coding-agent",
+                  "developer-tools",
+                  "mutation-testing",
+                  "testing",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -525,12 +796,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A mutation testing tool for kotlin",
+                "homepage": null,
                 "id": 603864986,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-11-06T17:11:52Z",
+                "open_issues": 1,
                 "owner": "JosueMolinaMorales",
                 "repo": "mutant-kraken",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -541,12 +817,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutation testing inside your Kotlin tests. Compile once, catch gaps.",
+                "homepage": null,
                 "id": 1136514018,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T20:42:26Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T16:59:26Z",
+                "open_issues": 0,
                 "owner": "anschnapp",
                 "repo": "mutflow",
-                "stars": 24
+                "stars": 25,
+                "topics": [
+                  "compiler-plugin",
+                  "kotlin",
+                  "kotlin-compiler-plugin",
+                  "mutation-testing",
+                  "testing",
+                  "testing-library"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -564,12 +852,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutation testing system",
+                "homepage": "https://mutmut.readthedocs.io",
                 "id": 73606074,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-17T18:29:43Z",
+                "open_issues": 50,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1409
+                "stars": 1409,
+                "topics": [
+                  "mutation-testing",
+                  "python",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -580,12 +877,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutation testing for Python",
+                "homepage": null,
                 "id": 34157278,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-09T14:57:30Z",
+                "open_issues": 52,
                 "owner": "sixty-north",
                 "repo": "cosmic-ray",
-                "stars": 654
+                "stars": 654,
+                "topics": [
+                  "mutation-testing",
+                  "python",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -603,12 +909,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutation testing for R — measure test assertion quality, not just coverage",
+                "homepage": "https://jakubsob.github.io/muttest/",
                 "id": 961415566,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T12:36:16Z",
+                "open_issues": 2,
                 "owner": "jakubsob",
                 "repo": "muttest",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "mutation-testing",
+                  "r",
+                  "testing",
+                  "testing-tools",
+                  "testthat"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -619,12 +936,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated mutation testing tool for the R language",
+                "homepage": "https://prl-prg.github.io/mutator/",
                 "id": 886327982,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-04T00:06:56Z",
+                "open_issues": 2,
                 "owner": "PRL-PRG",
                 "repo": "mutator",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "mutation-testing",
+                  "r-language",
+                  "test-automation",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -642,12 +969,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutation testing for Ruby. AI writes your code. AI writes your tests. But who tests the tests?",
+                "homepage": null,
                 "id": 5152718,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T03:51:55Z",
+                "open_issues": 128,
                 "owner": "mbj",
                 "repo": "mutant",
-                "stars": 2186
+                "stars": 2186,
+                "topics": [
+                  "code-quality-analyzer",
+                  "code-review",
+                  "coverage",
+                  "dynamic-analysis",
+                  "minitest",
+                  "mutant",
+                  "mutation-testing",
+                  "rspec",
+                  "ruby",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -658,12 +1001,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "fork of mutant with inline disable comments and a few different mutations.",
+                "homepage": null,
                 "id": 80176976,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-08-23T00:42:01Z",
+                "open_issues": 26,
                 "owner": "dgollahon",
                 "repo": "mutest",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "lint",
+                  "mutation-testing",
+                  "quality-control",
+                  "rspec",
+                  "ruby",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -681,12 +1036,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":zombie: Inject bugs and see if your tests catch them!",
+                "homepage": "https://mutants.rs/",
                 "id": 404409118,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-23T15:20:59Z",
+                "open_issues": 100,
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1275
+                "stars": 1276,
+                "topics": [
+                  "cargo",
+                  "cargo-plugin",
+                  "cargo-subcommand",
+                  "mutation-testing",
+                  "mutations",
+                  "rust",
+                  "rust-lang",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -697,12 +1066,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Breaking your Rust code for fun and profit",
+                "homepage": null,
                 "id": 121277752,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-29T04:59:10Z",
+                "open_issues": 39,
                 "owner": "llogiq",
                 "repo": "mutagen",
-                "stars": 642
+                "stars": 642,
+                "topics": [
+                  "hacktoberfest",
+                  "mutation-testing",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -720,12 +1098,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutation testing for Scala",
+                "homepage": null,
                 "id": 86269540,
                 "language": "Scala",
+                "license": "GPL-3.0",
                 "last_commit": "2017-12-11T15:49:45Z",
+                "open_issues": 4,
                 "owner": "sugakandrey",
                 "repo": "scalamu",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "compiler-plugin",
+                  "mutation-testing",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -743,12 +1130,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutation Testing in Pharo Smalltalk",
+                "homepage": null,
                 "id": 92093362,
                 "language": "Smalltalk",
+                "license": "MIT",
                 "last_commit": "2026-04-13T09:49:46Z",
+                "open_issues": 7,
                 "owner": "pharo-contributions",
                 "repo": "mutalk",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "pharo"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -771,24 +1165,56 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Simulink Model Mutation Testing project provides a framework for generating mutants, and CSV file as an output. It utilizes the MATLAB environment to load the model, apply mutations, and collect outputs.",
+                    "homepage": null,
                     "id": 644449906,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-04-29T11:03:11Z",
+                    "open_issues": 0,
                     "owner": "haliliceylan",
                     "repo": "MUT4SLX",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "ase2023",
+                      "matlab",
+                      "mutation-analysis",
+                      "mutation-coverage",
+                      "mutation-testing",
+                      "publication-code",
+                      "python",
+                      "simulink",
+                      "simulink-model",
+                      "simulink-python"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:35:54.671Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "The Simulink Model Mutation Testing project provides a framework for generating mutants, and CSV file as an output. It utilizes the MATLAB environment to load the model, apply mutations, and collect outputs.",
+                "homepage": null,
                 "id": 644449906,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-29T11:03:11Z",
+                "open_issues": 0,
                 "owner": "haliliceylan",
                 "repo": "MUT4SLX",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "ase2023",
+                  "matlab",
+                  "mutation-analysis",
+                  "mutation-coverage",
+                  "mutation-testing",
+                  "publication-code",
+                  "python",
+                  "simulink",
+                  "simulink-model",
+                  "simulink-python"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -806,12 +1232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Using mutations to improve specs and test suites",
+                "homepage": null,
                 "id": 566004537,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-12T19:15:15Z",
+                "open_issues": 11,
                 "owner": "Certora",
                 "repo": "gambit",
-                "stars": 209
+                "stars": 209,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -822,12 +1253,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutation Testing for Ethereum Smart Contracts",
+                "homepage": null,
                 "id": 202979470,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2023-11-21T01:12:29Z",
+                "open_issues": 17,
                 "owner": "JoranHonig",
                 "repo": "vertigo",
-                "stars": 208
+                "stars": 208,
+                "topics": [
+                  "ethereum",
+                  "mutation-testing",
+                  "mutations",
+                  "security",
+                  "solidity",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -838,12 +1281,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutation Testing for Ethereum Smart Contracts, support for Foundry",
+                "homepage": null,
                 "id": 610146026,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2024-09-05T08:15:41Z",
+                "open_issues": 6,
                 "owner": "RareSkills",
                 "repo": "vertigo-rs",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -861,12 +1309,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔎 Automated mutation testing for Swift  🕳️",
+                "homepage": null,
                 "id": 147972300,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-07-21T16:15:30Z",
+                "open_issues": 36,
                 "owner": "muter-mutation-testing",
                 "repo": "muter",
-                "stars": 561
+                "stars": 561,
+                "topics": [
+                  "automated-testing",
+                  "mutation-testing",
+                  "muter",
+                  "swift",
+                  "test",
+                  "test-suite"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -884,12 +1344,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An OCaml mutation tester",
+                "homepage": null,
                 "id": 420277722,
                 "language": "OCaml",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-11-24T23:41:59Z",
+                "open_issues": 12,
                 "owner": "jmid",
                 "repo": "mutaml",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -907,12 +1372,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutation testing for Lean4",
+                "homepage": null,
                 "id": 1265057351,
                 "language": "Lean",
+                "license": null,
                 "last_commit": "2026-06-24T08:32:01Z",
+                "open_issues": 0,
                 "owner": "jubnzv",
                 "repo": "Mutate.lean",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "formal-verification",
+                  "lean4",
+                  "llm",
+                  "mutation",
+                  "mutation-testing"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -930,12 +1406,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source, Language Agnostic Mutation Testing",
+                "homepage": null,
                 "id": 818429323,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-04-17T15:46:03Z",
+                "open_issues": 2,
                 "owner": "codeintegrity-ai",
                 "repo": "mutahunter",
-                "stars": 299
+                "stars": 299,
+                "topics": [
+                  "artificial-intelligence",
+                  "automated-testing",
+                  "mutation-testing",
+                  "software-testing",
+                  "static-code-analysis",
+                  "test-automation",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -946,12 +1435,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Regexp based tool for mutating generic source code across numerous languages",
+                "homepage": null,
                 "id": 109420715,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-20T18:55:49Z",
+                "open_issues": 6,
                 "owner": "agroce",
                 "repo": "universalmutator",
-                "stars": 162
+                "stars": 162,
+                "topics": [
+                  "c",
+                  "cpp",
+                  "fe-language",
+                  "golang",
+                  "golang-tools",
+                  "java",
+                  "language",
+                  "multi-language",
+                  "mutant",
+                  "mutation",
+                  "mutation-testing",
+                  "mutations",
+                  "python",
+                  "regexp",
+                  "rust",
+                  "solidity-language",
+                  "swift",
+                  "testing",
+                  "vyper"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -962,12 +1476,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WIP: Lightweight, extensible, language-independent mutation testing.",
+                "homepage": null,
                 "id": 113636045,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-01-09T20:47:57Z",
+                "open_issues": 9,
                 "owner": "squaresLab",
                 "repo": "boggart",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "bugzoo",
+                  "docker",
+                  "mutation",
+                  "mutation-testing"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             },
@@ -978,12 +1502,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A polyglot incremental mutation tester",
+                "homepage": "https://bough.codeenplace.dev/",
                 "id": 1175601213,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-04-10T22:02:42Z",
+                "open_issues": 33,
                 "owner": "CodeEnPlace",
                 "repo": "bough",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "mutation-testing",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -1002,12 +1534,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualization tool for mutation testing.",
+            "homepage": "http://www.sqrlab.ca",
             "id": 10456891,
             "language": "Java",
+            "license": null,
             "last_commit": "2013-08-14T20:34:34Z",
+            "open_issues": 0,
             "owner": "seer-lab",
             "repo": "VisMAn",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "java",
+              "mutation-testing",
+              "testing-tools",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T14:35:54.671Z"
         }
@@ -1024,12 +1566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Practical examples of software and testing patterns related to mutation testing",
+            "homepage": "http://mutation-testing-patterns.rtfd.io",
             "id": 65906941,
             "language": "Python",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2018-12-14T20:28:21Z",
+            "open_issues": 0,
             "owner": "atodorov",
             "repo": "mutation-testing-in-patterns",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:54.671Z"
         }
@@ -1046,12 +1593,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Introduction to Mutation Testing",
+            "homepage": null,
             "id": 260514186,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-01T06:53:42Z",
+            "open_issues": 15,
             "owner": "sualeh",
             "repo": "introduction-to-mutation-testing",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "coverage",
+              "coverage-testing",
+              "java",
+              "mutation-analysis",
+              "mutation-test",
+              "mutation-testing",
+              "pit",
+              "pitest",
+              "tutorial",
+              "tutorial-exercises"
+            ]
           },
           "first_seen": "2026-08-28T14:35:54.671Z"
         }
@@ -1060,15 +1623,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:35:54.671Z",
+    "last_updated": "2026-08-29T04:48:25.428Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Mutation testing resources: how to make better code by introducing bugs",
+      "homepage": null,
       "id": 93941603,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-27T13:01:32Z",
+      "open_issues": 2,
       "owner": "theofidry",
       "repo": "awesome-mutation-testing",
-      "stars": 469
+      "stars": 469,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "mutation-analysis",
+        "mutation-testing"
+      ]
     },
     "original_repository_sha": "baeedd11d683578e22c5e7e7f32ebe5601d01f00",
     "enhanced_repository": "enhansome/enhansome-mutation-testing",

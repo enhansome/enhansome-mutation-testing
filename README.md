@@ -36,7 +36,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [MuCPP](https://neptuno.uca.es/redmine/projects/mucpp-mutation-tool/wiki)
     * [Assessment of Class Mutation Operators for C++ with the MuCPP Mutation System](https://pdfs.semanticscholar.org/05d5/2ba68ed4ba8505cc92e4f27ad68c1b944842.pdf)
 * C#
-  * [stryker-mutator/stryker-net](https://github.com/stryker-mutator/stryker-net) ⭐ 2,065 | 🐛 194 | 🌐 C# | 📅 2026-08-28
+  * [stryker-mutator/stryker-net](https://github.com/stryker-mutator/stryker-net) ⭐ 2,065 | 🐛 193 | 🌐 C# | 📅 2026-08-28
   * [Testura.Mutation](https://github.com/Testura/Testura.Mutation) ⭐ 106 | 🐛 23 | 🌐 C# | 📅 2022-12-08
   * [ComparetheMarket/fettle](https://github.com/ComparetheMarket/fettle) ⚠️ Archived
   * [Faultify](https://github.com/Faultify/Faultify) ⭐ 21 | 🐛 8 | 🌐 C# | 📅 2021-12-06
@@ -49,14 +49,14 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 * Erlang
   * [parsifal-47/muterl](https://github.com/parsifal-47/muterl) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2022-11-04
 * Go
-  * [go-gremlins](https://github.com/go-gremlins/gremlins) ⭐ 395 | 🐛 43 | 🌐 Go | 📅 2026-06-26
-  * [Ooze](https://github.com/gtramontina/ooze) ⭐ 286 | 🐛 13 | 🌐 Go | 📅 2026-08-28
+  * [go-gremlins](https://github.com/go-gremlins/gremlins) ⭐ 397 | 🐛 43 | 🌐 Go | 📅 2026-06-26
+  * [Ooze](https://github.com/gtramontina/ooze) ⭐ 286 | 🐛 12 | 🌐 Go | 📅 2026-08-29
   * [jonbaldie/go-mutesting](https://github.com/jonbaldie/go-mutesting) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2026-08-27
 * Haskell
   * [rudymatela/fitspec](https://github.com/rudymatela/fitspec) ⭐ 78 | 🐛 0 | 🌐 Haskell | 📅 2025-01-30
   * [mucheck](https://hackage.haskell.org/package/MuCheck)
 * Java/JVM
-  * [hcoles/pitest](https://github.com/hcoles/pitest) ⭐ 1,855 | 🐛 318 | 🌐 Java | 📅 2026-08-27
+  * [hcoles/pitest](https://github.com/hcoles/pitest) ⭐ 1,856 | 🐛 318 | 🌐 Java | 📅 2026-08-28
     \* [PIT : A Practical Mutation Testing Tool for Java (Demo)](https://dl.acm.org/citation.cfm?id=2948707)
     \* [An Experimental Evaluation of PIT’s Mutation Operators](http://www.diva-portal.org/smash/get/diva2:1161760/FULLTEXT01.pdf)
     * [Introduction to Mutation Testing](https://blog.frankel.ch/introduction-to-mutation-testing/)
@@ -72,7 +72,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [T4LEL/testtruth](https://github.com/T4LEL/testtruth) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-26 - Scores the same mutants against the old and new test files of a git diff, so a pull request that weakens the tests cannot hide behind green CI (TypeScript/JavaScript).
 * Kotlin
   * [mutant-kraken](https://github.com/JosueMolinaMorales/mutant-kraken) ⭐ 30 | 🐛 1 | 🌐 Rust | 📅 2025-11-06
-  * [mutflow](https://github.com/anschnapp/mutflow) ⭐ 24 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-27
+  * [mutflow](https://github.com/anschnapp/mutflow) ⭐ 25 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-28
 * PHP
   * [infection/infection](https://github.com/infection)
   * [PEST PHP](https://pestphp.com/docs/mutation-testing)
@@ -87,7 +87,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
     * [Kill all the mutants - a deep dive into mutation testing and how the Mutant gem works](https://troessner.svbtle.com/kill-all-the-mutants-a-deep-dive-into-mutation-testing-and-how-the-mutant-gem-works)
   * [backus/mutest](https://github.com/backus/mutest) ⚠️ Archived
 * Rust
-  * [sourcefrog/cargo-mutants](https://github.com/sourcefrog/cargo-mutants) ⭐ 1,275 | 🐛 100 | 🌐 Rust | 📅 2026-08-23
+  * [sourcefrog/cargo-mutants](https://github.com/sourcefrog/cargo-mutants) ⭐ 1,276 | 🐛 100 | 🌐 Rust | 📅 2026-08-23
   * [llogiq/mutagen](https://github.com/llogiq/mutagen) ⭐ 642 | 🐛 39 | 🌐 Rust | 📅 2023-05-29
 * Scala
   * [sugakandrey/scalamu](https://github.com/sugakandrey/scalamu) ⭐ 44 | 🐛 4 | 🌐 Scala | 📅 2017-12-11
@@ -200,4 +200,4 @@ Mutation testing is the practice of making better code by introducing bugs. As o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
