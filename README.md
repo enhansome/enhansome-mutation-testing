@@ -21,7 +21,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [MuAlloy](https://github.com/kaiyuanw/MuAlloy) ⭐ 8 | 🐛 0 | 🌐 Alloy | 📅 2018-06-14
     * [MuAlloy papers](https://github.com/kaiyuanw/MuAlloy#publications) ⭐ 8 | 🐛 0 | 🌐 Alloy | 📅 2018-06-14
 * C/C++
-  * [mull-project/mull](https://github.com/mull-project/mull) ⭐ 833 | 🐛 23 | 🌐 C++ | 📅 2026-07-31
+  * [mull-project/mull](https://github.com/mull-project/mull) ⭐ 834 | 🐛 23 | 🌐 C++ | 📅 2026-07-31
   * [mutate\_cpp](https://github.com/nlohmann/mutate_cpp) ⭐ 194 | 🐛 10 | 🌐 CSS | 📅 2024-06-30
   * [Dextool Mutate](https://github.com/joakim-brannstrom/dextool/tree/master/plugin/mutate) ⭐ 112 | 🐛 16 | 🌐 D | 📅 2026-04-20
   * [MART](https://github.com/thierry-tct/mart) ⭐ 26 | 🐛 0 | 🌐 C++ | 📅 2022-07-25
@@ -83,7 +83,7 @@ Mutation testing is the practice of making better code by introducing bugs. As o
   * [jakubsob/muttest](https://github.com/jakubsob/muttest) ⭐ 26 | 🐛 2 | 🌐 R | 📅 2026-07-21
   * [PRL-PRG/mutator](https://github.com/PRL-PRG/mutator) ⭐ 9 | 🐛 2 | 🌐 R | 📅 2026-08-04
 * Ruby
-  * [mbj/mutant](https://github.com/mbj/mutant) ⭐ 2,186 | 🐛 128 | 🌐 Ruby | 📅 2026-08-24
+  * [mbj/mutant](https://github.com/mbj/mutant) ⭐ 2,187 | 🐛 128 | 🌐 Ruby | 📅 2026-08-24
     * [Kill all the mutants - a deep dive into mutation testing and how the Mutant gem works](https://troessner.svbtle.com/kill-all-the-mutants-a-deep-dive-into-mutation-testing-and-how-the-mutant-gem-works)
   * [backus/mutest](https://github.com/backus/mutest) ⚠️ Archived
 * Rust

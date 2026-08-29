@@ -90,7 +90,7 @@
                 "open_issues": 23,
                 "owner": "mull-project",
                 "repo": "mull",
-                "stars": 833,
+                "stars": 834,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -558,7 +558,7 @@
                 "id": 570722499,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-29T04:46:15Z",
+                "last_commit": "2026-08-29T05:25:22Z",
                 "open_issues": 12,
                 "owner": "gtramontina",
                 "repo": "ooze",
@@ -978,7 +978,7 @@
                 "open_issues": 128,
                 "owner": "mbj",
                 "repo": "mutant",
-                "stars": 2186,
+                "stars": 2187,
                 "topics": [
                   "code-quality-analyzer",
                   "code-review",
@@ -1623,7 +1623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:48:25.428Z",
+    "last_updated": "2026-08-29T09:23:27.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
