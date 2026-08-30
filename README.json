@@ -90,7 +90,7 @@
                 "open_issues": 23,
                 "owner": "mull-project",
                 "repo": "mull",
-                "stars": 834,
+                "stars": 835,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -531,10 +531,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-26T02:32:33Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 397,
+                "stars": 399,
                 "topics": [
                   "go",
                   "golang",
@@ -736,7 +736,7 @@
                 "open_issues": 99,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3060,
+                "stars": 3061,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -861,7 +861,7 @@
                 "open_issues": 50,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1409,
+                "stars": 1410,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -1045,7 +1045,7 @@
                 "open_issues": 100,
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1276,
+                "stars": 1277,
                 "topics": [
                   "cargo",
                   "cargo-plugin",
@@ -1623,7 +1623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:23:27.725Z",
+    "last_updated": "2026-08-30T08:32:59.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
@@ -1635,7 +1635,7 @@
       "open_issues": 2,
       "owner": "theofidry",
       "repo": "awesome-mutation-testing",
-      "stars": 469,
+      "stars": 470,
       "topics": [
         "awesome",
         "awesome-list",
