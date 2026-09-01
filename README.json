@@ -308,7 +308,7 @@
                 "open_issues": 195,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2066,
+                "stars": 2064,
                 "topics": [
                   "dotnet-core",
                   "dotnet-framework",
@@ -558,7 +558,7 @@
                 "id": 570722499,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-29T05:25:22Z",
+                "last_commit": "2026-08-31T09:07:54Z",
                 "open_issues": 12,
                 "owner": "gtramontina",
                 "repo": "ooze",
@@ -658,7 +658,7 @@
                 "open_issues": 318,
                 "owner": "hcoles",
                 "repo": "pitest",
-                "stars": 1856,
+                "stars": 1858,
                 "topics": [
                   "coverage",
                   "java",
@@ -732,11 +732,11 @@
                 "id": 51588320,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T08:13:44Z",
-                "open_issues": 99,
+                "last_commit": "2026-08-31T19:53:18Z",
+                "open_issues": 101,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3064,
+                "stars": 3067,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -822,7 +822,7 @@
                 "id": 1136514018,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T20:00:59Z",
+                "last_commit": "2026-08-31T18:50:30Z",
                 "open_issues": 1,
                 "owner": "anschnapp",
                 "repo": "mutflow",
@@ -861,7 +861,7 @@
                 "open_issues": 49,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1411,
+                "stars": 1412,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -1045,7 +1045,7 @@
                 "open_issues": 101,
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1279,
+                "stars": 1281,
                 "topics": [
                   "cargo",
                   "cargo-plugin",
@@ -1241,7 +1241,7 @@
                 "open_issues": 11,
                 "owner": "Certora",
                 "repo": "gambit",
-                "stars": 209,
+                "stars": 210,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
@@ -1290,7 +1290,7 @@
                 "open_issues": 6,
                 "owner": "RareSkills",
                 "repo": "vertigo-rs",
-                "stars": 128,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
@@ -1318,7 +1318,7 @@
                 "open_issues": 36,
                 "owner": "muter-mutation-testing",
                 "repo": "muter",
-                "stars": 562,
+                "stars": 563,
                 "topics": [
                   "automated-testing",
                   "mutation-testing",
@@ -1598,8 +1598,8 @@
             "id": 260514186,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-01T06:53:42Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-01T06:56:11Z",
+            "open_issues": 30,
             "owner": "sualeh",
             "repo": "introduction-to-mutation-testing",
             "stars": 23,
@@ -1623,7 +1623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:54:38.289Z",
+    "last_updated": "2026-09-01T07:59:04.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
