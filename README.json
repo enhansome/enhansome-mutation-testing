@@ -305,10 +305,10 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-30T14:32:20Z",
-                "open_issues": 195,
+                "open_issues": 196,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2064,
+                "stars": 2065,
                 "topics": [
                   "dotnet-core",
                   "dotnet-framework",
@@ -534,7 +534,7 @@
                 "open_issues": 44,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 401,
+                "stars": 402,
                 "topics": [
                   "go",
                   "golang",
@@ -591,7 +591,7 @@
                 "id": 1238659541,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-27T16:19:23Z",
+                "last_commit": "2026-09-01T19:31:27Z",
                 "open_issues": 0,
                 "owner": "jonbaldie",
                 "repo": "go-mutesting",
@@ -732,11 +732,11 @@
                 "id": 51588320,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T19:53:18Z",
-                "open_issues": 101,
+                "last_commit": "2026-09-01T20:07:38Z",
+                "open_issues": 102,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3067,
+                "stars": 3071,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -861,7 +861,7 @@
                 "open_issues": 49,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1412,
+                "stars": 1415,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -1045,7 +1045,7 @@
                 "open_issues": 101,
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1281,
+                "stars": 1283,
                 "topics": [
                   "cargo",
                   "cargo-plugin",
@@ -1623,7 +1623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T07:59:04.111Z",
+    "last_updated": "2026-09-02T07:19:50.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
@@ -1635,7 +1635,7 @@
       "open_issues": 2,
       "owner": "theofidry",
       "repo": "awesome-mutation-testing",
-      "stars": 470,
+      "stars": 471,
       "topics": [
         "awesome",
         "awesome-list",
