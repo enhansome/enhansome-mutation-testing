@@ -304,8 +304,8 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T14:32:20Z",
-                "open_issues": 196,
+                "last_commit": "2026-09-03T05:07:43Z",
+                "open_issues": 197,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
                 "stars": 2065,
@@ -531,10 +531,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-26T02:32:33Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 402,
+                "stars": 403,
                 "topics": [
                   "go",
                   "golang",
@@ -595,7 +595,7 @@
                 "open_issues": 0,
                 "owner": "jonbaldie",
                 "repo": "go-mutesting",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
@@ -708,7 +708,7 @@
                 "open_issues": 1,
                 "owner": "SpoonLabs",
                 "repo": "metamutator",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
@@ -732,11 +732,11 @@
                 "id": 51588320,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T20:07:38Z",
+                "last_commit": "2026-09-02T23:14:14Z",
                 "open_issues": 102,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3071,
+                "stars": 3073,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -857,11 +857,11 @@
                 "id": 73606074,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-17T18:29:43Z",
-                "open_issues": 49,
+                "last_commit": "2026-09-03T03:14:57Z",
+                "open_issues": 52,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1415,
+                "stars": 1417,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -886,7 +886,7 @@
                 "open_issues": 52,
                 "owner": "sixty-north",
                 "repo": "cosmic-ray",
-                "stars": 654,
+                "stars": 655,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -974,8 +974,8 @@
                 "id": 5152718,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-24T03:51:55Z",
-                "open_issues": 129,
+                "last_commit": "2026-09-03T05:15:47Z",
+                "open_issues": 125,
                 "owner": "mbj",
                 "repo": "mutant",
                 "stars": 2187,
@@ -1318,7 +1318,7 @@
                 "open_issues": 36,
                 "owner": "muter-mutation-testing",
                 "repo": "muter",
-                "stars": 563,
+                "stars": 562,
                 "topics": [
                   "automated-testing",
                   "mutation-testing",
@@ -1623,7 +1623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:19:50.852Z",
+    "last_updated": "2026-09-03T07:23:08.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
