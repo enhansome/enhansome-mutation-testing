@@ -76,8 +76,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "mull-project/mull",
-              "description": null,
+              "title": "Mull",
+              "description": "An LLVM-based mutation-testing and fault-injection tool for C and C++.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -106,7 +106,7 @@
             },
             {
               "node_type": "item",
-              "title": "mutate_cpp",
+              "title": "Mutate++",
               "description": null,
               "children": [],
               "repo_info": {
@@ -131,7 +131,7 @@
             {
               "node_type": "item",
               "title": "Dextool Mutate",
-              "description": null,
+              "description": "A mutation-testing plug-in in the LLVM- and Clang-based Dextool suite.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -164,7 +164,7 @@
             {
               "node_type": "item",
               "title": "MART",
-              "description": null,
+              "description": "A configurable mutation-testing framework based on LLVM.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -197,8 +197,8 @@
             },
             {
               "node_type": "item",
-              "title": "Frama-C plugin",
-              "description": null,
+              "title": "Frama-C Mutation",
+              "description": "A Frama-C plug-in for generating mutant C programs.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -222,7 +222,7 @@
             {
               "node_type": "item",
               "title": "MUSIC",
-              "description": null,
+              "description": "A configurable and extensible mutation-analysis tool for C programs.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -243,7 +243,7 @@
             {
               "node_type": "item",
               "title": "SRCIROR",
-              "description": "A mutation tool for source and IR",
+              "description": "A mutation tool for C source code and LLVM IR.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -263,8 +263,8 @@
             },
             {
               "node_type": "item",
-              "title": "accmut",
-              "description": null,
+              "title": "AccMut",
+              "description": "An LLVM IR-based framework for accelerating mutation testing.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -294,8 +294,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "stryker-mutator/stryker-net",
-              "description": null,
+              "title": "Stryker.NET",
+              "description": "A mutation-testing tool for .NET Framework and .NET.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -304,11 +304,11 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T06:48:40Z",
+                "last_commit": "2026-09-05T04:45:44Z",
                 "open_issues": 197,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2065,
+                "stars": 2066,
                 "topics": [
                   "dotnet-core",
                   "dotnet-framework",
@@ -343,8 +343,8 @@
             },
             {
               "node_type": "item",
-              "title": "ComparetheMarket/fettle",
-              "description": null,
+              "title": "Fettle",
+              "description": "An experimental mutation-testing tool for C#.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -368,7 +368,7 @@
             {
               "node_type": "item",
               "title": "Faultify",
-              "description": null,
+              "description": "A bytecode-level mutation-testing tool for .NET.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -464,7 +464,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "JordiPolo/mutation",
+              "title": "Mutation",
               "description": null,
               "children": [],
               "repo_info": {
@@ -492,7 +492,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "parsifal-47/muterl",
+              "title": "Muterl",
               "description": null,
               "children": [],
               "repo_info": {
@@ -520,7 +520,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "go-gremlins",
+              "title": "Gremlins",
               "description": null,
               "children": [],
               "repo_info": {
@@ -531,7 +531,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-26T02:32:33Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
                 "stars": 403,
@@ -581,7 +581,7 @@
             },
             {
               "node_type": "item",
-              "title": "jonbaldie/go-mutesting",
+              "title": "go-mutesting",
               "description": null,
               "children": [],
               "repo_info": {
@@ -609,8 +609,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "rudymatela/fitspec",
-              "description": null,
+              "title": "FitSpec",
+              "description": "A tool that uses mutations to refine properties for testing Haskell programs.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -644,8 +644,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "hcoles/pitest",
-              "description": "* PIT : A Practical Mutation Testing Tool for Java (Demo) * An Experimental Evaluation of PIT’s Mutation Operators",
+              "title": "PIT",
+              "description": "A bytecode-level mutation-testing system for the JVM.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -658,7 +658,7 @@
                 "open_issues": 318,
                 "owner": "hcoles",
                 "repo": "pitest",
-                "stars": 1858,
+                "stars": 1859,
                 "topics": [
                   "coverage",
                   "java",
@@ -673,8 +673,8 @@
             },
             {
               "node_type": "item",
-              "title": "aliparsai/LittleDarwin",
-              "description": null,
+              "title": "LittleDarwin",
+              "description": "A Java mutation-testing framework implemented in Python.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -695,7 +695,7 @@
             {
               "node_type": "item",
               "title": "metamutator",
-              "description": null,
+              "description": "A Java mutation engine based on mutant schemata and metaprogramming.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -722,8 +722,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "stryker-mutator/stryker",
-              "description": null,
+              "title": "StrykerJS",
+              "description": "A mutation-testing framework for JavaScript and TypeScript.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -732,11 +732,11 @@
                 "id": 51588320,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T23:14:14Z",
-                "open_issues": 103,
+                "last_commit": "2026-09-04T10:26:33Z",
+                "open_issues": 105,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3078,
+                "stars": 3083,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -752,8 +752,8 @@
             },
             {
               "node_type": "item",
-              "title": "T4LEL/testtruth",
-              "description": "Scores the same mutants against the old and new test files of a git diff, so a pull request that weakens the tests cannot hide behind green CI (TypeScript/JavaScript).",
+              "title": "testtruth",
+              "description": "A tool that compares mutation results before and after a Git diff to detect weakened JavaScript and TypeScript tests.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -791,7 +791,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "mutant-kraken",
+              "title": "Mutant Kraken",
               "description": null,
               "children": [],
               "repo_info": {
@@ -813,7 +813,7 @@
             {
               "node_type": "item",
               "title": "mutflow",
-              "description": null,
+              "description": "A Kotlin library that performs mutation testing within the test suite after a single compilation.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -847,7 +847,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "boxed/mutmut",
+              "title": "mutmut",
               "description": null,
               "children": [],
               "repo_info": {
@@ -857,11 +857,11 @@
                 "id": 73606074,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-03T23:33:29Z",
-                "open_issues": 52,
+                "last_commit": "2026-09-05T03:12:45Z",
+                "open_issues": 53,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1420,
+                "stars": 1423,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -872,7 +872,7 @@
             },
             {
               "node_type": "item",
-              "title": "sixty-north/cosmic-ray",
+              "title": "Cosmic Ray",
               "description": null,
               "children": [],
               "repo_info": {
@@ -886,7 +886,7 @@
                 "open_issues": 52,
                 "owner": "sixty-north",
                 "repo": "cosmic-ray",
-                "stars": 655,
+                "stars": 656,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -904,8 +904,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "jakubsob/muttest",
-              "description": null,
+              "title": "muttest",
+              "description": "A mutation-testing tool for assessing test assertions in R.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -931,7 +931,7 @@
             },
             {
               "node_type": "item",
-              "title": "PRL-PRG/mutator",
+              "title": "mutator",
               "description": null,
               "children": [],
               "repo_info": {
@@ -964,7 +964,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "mbj/mutant",
+              "title": "Mutant",
               "description": null,
               "children": [],
               "repo_info": {
@@ -975,10 +975,10 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T14:02:22Z",
-                "open_issues": 124,
+                "open_issues": 125,
                 "owner": "mbj",
                 "repo": "mutant",
-                "stars": 2187,
+                "stars": 2188,
                 "topics": [
                   "code-quality-analyzer",
                   "code-review",
@@ -996,8 +996,8 @@
             },
             {
               "node_type": "item",
-              "title": "backus/mutest",
-              "description": null,
+              "title": "mutest",
+              "description": "A fork of Mutant with additional mutations and inline disable comments.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1031,8 +1031,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "sourcefrog/cargo-mutants",
-              "description": null,
+              "title": "cargo-mutants",
+              "description": "A Cargo-based mutation-testing tool for Rust.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1061,8 +1061,8 @@
             },
             {
               "node_type": "item",
-              "title": "llogiq/mutagen",
-              "description": null,
+              "title": "mutagen",
+              "description": "A mutation-testing plug-in for Rust.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1093,7 +1093,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "sugakandrey/scalamu",
+              "title": "Scalamu",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1125,8 +1125,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "pavel-krivanek/mutalk",
-              "description": null,
+              "title": "MuTalk",
+              "description": "A mutation-testing tool for Pharo Smalltalk.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1156,7 +1156,7 @@
             {
               "node_type": "item",
               "title": "MUT4SLX",
-              "description": "An open-source, model-based mutation testing tool for Simulink and Stateflow (MATLAB) models. Applies principles of shift-left testing.",
+              "description": "A model-based mutation-testing framework for Simulink and Stateflow models in MATLAB.",
               "children": [
                 {
                   "node_type": "item",
@@ -1227,8 +1227,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Certora/gambit",
-              "description": null,
+              "title": "Gambit",
+              "description": "A mutation generator for improving specifications and test suites for Solidity contracts.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1248,7 +1248,7 @@
             },
             {
               "node_type": "item",
-              "title": "JoranHonig/vertigo",
+              "title": "vertigo",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1276,8 +1276,8 @@
             },
             {
               "node_type": "item",
-              "title": "RareSkills/vertigo-rs",
-              "description": null,
+              "title": "vertigo-rs",
+              "description": "A mutation-testing tool for Ethereum smart contracts using Foundry.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1304,7 +1304,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "muter-mutation-testing/muter",
+              "title": "Muter",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1339,7 +1339,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "mutaml",
+              "title": "Mutaml",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1401,8 +1401,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "codeintegrity-ai/mutahunter",
-              "description": null,
+              "title": "Mutahunter",
+              "description": "An open-source, language-agnostic mutation-testing tool.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1430,8 +1430,8 @@
             },
             {
               "node_type": "item",
-              "title": "agroce/universalmutator",
-              "description": null,
+              "title": "Universal Mutator",
+              "description": "A regular-expression-based mutation tool for source code in multiple languages.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1471,8 +1471,8 @@
             },
             {
               "node_type": "item",
-              "title": "squaresLab/boggart",
-              "description": null,
+              "title": "boggart",
+              "description": "A lightweight, extensible, language-independent mutation-testing framework.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1497,8 +1497,8 @@
             },
             {
               "node_type": "item",
-              "title": "bough",
-              "description": null,
+              "title": "Bough",
+              "description": "A polyglot incremental mutation-testing tool.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1522,14 +1522,14 @@
           ]
         }
       ],
-      "title": "Existing libraries"
+      "title": "Tools"
     },
     {
       "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "sqrlab/VisMAn",
+          "title": "VisMAn",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1554,7 +1554,7 @@
           "first_seen": "2026-08-28T14:35:54.671Z"
         }
       ],
-      "title": "Visualization Tool"
+      "title": "Visualisation tools"
     },
     {
       "description": null,
@@ -1581,7 +1581,7 @@
           "first_seen": "2026-08-28T14:35:54.671Z"
         }
       ],
-      "title": "Friendly resources"
+      "title": "Examples and practical resources"
     },
     {
       "description": null,
@@ -1623,7 +1623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T07:25:30.641Z",
+    "last_updated": "2026-09-05T07:07:06.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
@@ -1631,7 +1631,7 @@
       "id": 93941603,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-27T13:01:32Z",
+      "last_commit": "2026-09-04T15:19:04Z",
       "open_issues": 2,
       "owner": "theofidry",
       "repo": "awesome-mutation-testing",
@@ -1643,9 +1643,9 @@
         "mutation-testing"
       ]
     },
-    "original_repository_sha": "baeedd11d683578e22c5e7e7f32ebe5601d01f00",
+    "original_repository_sha": "be6ba5c80f9b120b264219cecffb461720e96ef9",
     "enhanced_repository": "enhansome/enhansome-mutation-testing",
     "enhanced_repository_description": null,
-    "title": "Awesome Mutation testing with stars"
+    "title": "Awesome Mutation Testing with stars"
   }
 }
