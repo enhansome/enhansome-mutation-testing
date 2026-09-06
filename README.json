@@ -304,11 +304,11 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T04:45:44Z",
+                "last_commit": "2026-09-05T16:51:39Z",
                 "open_issues": 197,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2066,
+                "stars": 2067,
                 "topics": [
                   "dotnet-core",
                   "dotnet-framework",
@@ -658,7 +658,7 @@
                 "open_issues": 318,
                 "owner": "hcoles",
                 "repo": "pitest",
-                "stars": 1859,
+                "stars": 1860,
                 "topics": [
                   "coverage",
                   "java",
@@ -733,10 +733,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T10:26:33Z",
-                "open_issues": 105,
+                "open_issues": 107,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3083,
+                "stars": 3086,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -861,7 +861,7 @@
                 "open_issues": 53,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1423,
+                "stars": 1424,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -1623,7 +1623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T07:07:06.991Z",
+    "last_updated": "2026-09-06T07:18:47.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
