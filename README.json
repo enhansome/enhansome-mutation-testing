@@ -86,11 +86,11 @@
                 "id": 58879166,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-31T17:32:40Z",
-                "open_issues": 25,
+                "last_commit": "2026-09-13T15:34:25Z",
+                "open_issues": 23,
                 "owner": "mull-project",
                 "repo": "mull",
-                "stars": 836,
+                "stars": 837,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -304,11 +304,11 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T22:11:13Z",
-                "open_issues": 196,
+                "last_commit": "2026-09-14T07:20:12Z",
+                "open_issues": 201,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2074,
+                "stars": 2077,
                 "topics": [
                   "dotnet-core",
                   "dotnet-framework",
@@ -534,7 +534,7 @@
                 "open_issues": 46,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 410,
+                "stars": 412,
                 "topics": [
                   "go",
                   "golang",
@@ -562,7 +562,7 @@
                 "open_issues": 13,
                 "owner": "gtramontina",
                 "repo": "ooze",
-                "stars": 286,
+                "stars": 287,
                 "topics": [
                   "go",
                   "golang",
@@ -732,11 +732,11 @@
                 "id": 51588320,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T10:20:41Z",
+                "last_commit": "2026-09-13T14:06:32Z",
                 "open_issues": 109,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3112,
+                "stars": 3118,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -823,7 +823,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-10T18:48:39Z",
-                "open_issues": 6,
+                "open_issues": 9,
                 "owner": "anschnapp",
                 "repo": "mutflow",
                 "stars": 28,
@@ -864,7 +864,7 @@
                 "open_issues": 56,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1436,
+                "stars": 1437,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -981,7 +981,7 @@
                 "open_issues": 126,
                 "owner": "mbj",
                 "repo": "mutant",
-                "stars": 2189,
+                "stars": 2190,
                 "topics": [
                   "code-quality-analyzer",
                   "code-review",
@@ -1048,7 +1048,7 @@
                 "open_issues": 103,
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1294,
+                "stars": 1297,
                 "topics": [
                   "cargo",
                   "cargo-plugin",
@@ -1626,7 +1626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T07:39:38.176Z",
+    "last_updated": "2026-09-14T08:07:04.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
