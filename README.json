@@ -90,7 +90,7 @@
                 "open_issues": 23,
                 "owner": "mull-project",
                 "repo": "mull",
-                "stars": 837,
+                "stars": 838,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -308,7 +308,7 @@
                 "open_issues": 193,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2080,
+                "stars": 2083,
                 "topics": [
                   "dotnet-core",
                   "dotnet-framework",
@@ -534,7 +534,7 @@
                 "open_issues": 46,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 417,
+                "stars": 419,
                 "topics": [
                   "go",
                   "golang",
@@ -558,8 +558,8 @@
                 "id": 570722499,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-14T09:08:33Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-17T09:05:21Z",
+                "open_issues": 15,
                 "owner": "gtramontina",
                 "repo": "ooze",
                 "stars": 288,
@@ -733,10 +733,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T00:15:06Z",
-                "open_issues": 110,
+                "open_issues": 111,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3130,
+                "stars": 3132,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -822,11 +822,11 @@
                 "id": 1136514018,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T18:48:39Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-17T19:18:15Z",
+                "open_issues": 7,
                 "owner": "anschnapp",
                 "repo": "mutflow",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "compiler-plugin",
                   "kotlin",
@@ -864,7 +864,7 @@
                 "open_issues": 57,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1442,
+                "stars": 1443,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -977,8 +977,8 @@
                 "id": 5152718,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T02:03:42Z",
-                "open_issues": 125,
+                "last_commit": "2026-09-17T22:13:53Z",
+                "open_issues": 124,
                 "owner": "mbj",
                 "repo": "mutant",
                 "stars": 2192,
@@ -1048,7 +1048,7 @@
                 "open_issues": 110,
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1303,
+                "stars": 1304,
                 "topics": [
                   "cargo",
                   "cargo-plugin",
@@ -1528,12 +1528,12 @@
       "title": "Tools"
     },
     {
-      "description": null,
+      "description": "Tools that are not mutation-testing tools themselves, but apply the same loop to a different subject.",
       "items": [
         {
           "node_type": "item",
           "title": "VisMAn",
-          "description": null,
+          "description": "A visualisation tool for mutation-testing results.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1555,9 +1555,43 @@
             ]
           },
           "first_seen": "2026-08-28T14:35:54.671Z"
+        },
+        {
+          "node_type": "item",
+          "title": "gatecheck",
+          "description": "A mutation-testing harness for validators and quality gates rather than for program code: it mutates the checker's input, reruns the checker for each mutant, and reports which mutations the gate fails to reject.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Other AIs prove they can work; this one proves it can be audited. A public audit log where every claim carries a rerunnable command — plus gatecheck, mutation testing for your quality gates.",
+            "homepage": null,
+            "id": 1372563728,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-17T11:51:14Z",
+            "open_issues": 0,
+            "owner": "simin-yuan",
+            "repo": "self-auditing-agent",
+            "stars": 2,
+            "topics": [
+              "agent-reliability",
+              "ai-agent",
+              "audit-log",
+              "gatecheck",
+              "github-actions",
+              "llm",
+              "mutation-testing",
+              "pre-commit",
+              "quality-gate",
+              "reproducibility",
+              "transparency",
+              "verifiable-claims"
+            ]
+          },
+          "first_seen": "2026-09-18T07:37:35.796Z"
         }
       ],
-      "title": "Visualisation tools"
+      "title": "Related tools"
     },
     {
       "description": null,
@@ -1626,7 +1660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:59:07.828Z",
+    "last_updated": "2026-09-18T07:37:35.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
@@ -1634,8 +1668,8 @@
       "id": 93941603,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-04T15:19:04Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-17T09:46:44Z",
+      "open_issues": 2,
       "owner": "theofidry",
       "repo": "awesome-mutation-testing",
       "stars": 473,
@@ -1646,7 +1680,7 @@
         "mutation-testing"
       ]
     },
-    "original_repository_sha": "be6ba5c80f9b120b264219cecffb461720e96ef9",
+    "original_repository_sha": "67b2efc91c0970b20685c8b75b4ed2d4aec4ff8e",
     "enhanced_repository": "enhansome/enhansome-mutation-testing",
     "enhanced_repository_description": null,
     "title": "Awesome Mutation Testing with stars"
