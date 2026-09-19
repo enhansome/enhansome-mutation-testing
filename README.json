@@ -90,7 +90,7 @@
                 "open_issues": 23,
                 "owner": "mull-project",
                 "repo": "mull",
-                "stars": 838,
+                "stars": 837,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -304,8 +304,8 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T12:26:17Z",
-                "open_issues": 193,
+                "last_commit": "2026-09-19T07:02:24Z",
+                "open_issues": 191,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
                 "stars": 2083,
@@ -534,7 +534,7 @@
                 "open_issues": 46,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 419,
+                "stars": 420,
                 "topics": [
                   "go",
                   "golang",
@@ -591,8 +591,8 @@
                 "id": 1238659541,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-15T16:05:57Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-19T03:54:18Z",
+                "open_issues": 1,
                 "owner": "jonbaldie",
                 "repo": "go-mutesting",
                 "stars": 5,
@@ -736,7 +736,7 @@
                 "open_issues": 111,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3132,
+                "stars": 3136,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -886,7 +886,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-09T14:57:30Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "sixty-north",
                 "repo": "cosmic-ray",
                 "stars": 658,
@@ -981,7 +981,7 @@
                 "open_issues": 124,
                 "owner": "mbj",
                 "repo": "mutant",
-                "stars": 2192,
+                "stars": 2193,
                 "topics": [
                   "code-quality-analyzer",
                   "code-review",
@@ -1048,7 +1048,7 @@
                 "open_issues": 110,
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1304,
+                "stars": 1308,
                 "topics": [
                   "cargo",
                   "cargo-plugin",
@@ -1660,7 +1660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:37:35.796Z",
+    "last_updated": "2026-09-19T07:33:03.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
