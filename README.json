@@ -90,7 +90,7 @@
                 "open_issues": 23,
                 "owner": "mull-project",
                 "repo": "mull",
-                "stars": 837,
+                "stars": 838,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -304,11 +304,11 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T07:02:24Z",
+                "last_commit": "2026-09-19T14:56:04Z",
                 "open_issues": 191,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2083,
+                "stars": 2084,
                 "topics": [
                   "dotnet-core",
                   "dotnet-framework",
@@ -534,7 +534,7 @@
                 "open_issues": 46,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 420,
+                "stars": 421,
                 "topics": [
                   "go",
                   "golang",
@@ -732,11 +732,11 @@
                 "id": 51588320,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T00:15:06Z",
-                "open_issues": 111,
+                "last_commit": "2026-09-19T12:21:46Z",
+                "open_issues": 112,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3136,
+                "stars": 3138,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -791,6 +791,37 @@
           "children": [
             {
               "node_type": "item",
+              "title": "mutflow",
+              "description": "A Kotlin library that performs mutation testing within the test suite after a single compilation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Mutation testing inside your Kotlin tests. Compile once, catch gaps.",
+                "homepage": null,
+                "id": 1136514018,
+                "language": "Kotlin",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-19T20:01:00Z",
+                "open_issues": 6,
+                "owner": "anschnapp",
+                "repo": "mutflow",
+                "stars": 31,
+                "topics": [
+                  "compiler-plugin",
+                  "kotlin",
+                  "kotlin-compiler-plugin",
+                  "kotlin-multiplatform",
+                  "kotlin-multiplatform-library",
+                  "kotlin-native",
+                  "mutation-testing",
+                  "testing",
+                  "testing-library"
+                ]
+              },
+              "first_seen": "2026-08-28T14:35:54.671Z"
+            },
+            {
+              "node_type": "item",
               "title": "Mutant Kraken",
               "description": null,
               "children": [],
@@ -807,37 +838,6 @@
                 "repo": "mutant-kraken",
                 "stars": 30,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T14:35:54.671Z"
-            },
-            {
-              "node_type": "item",
-              "title": "mutflow",
-              "description": "A Kotlin library that performs mutation testing within the test suite after a single compilation.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Mutation testing inside your Kotlin tests. Compile once, catch gaps.",
-                "homepage": null,
-                "id": 1136514018,
-                "language": "Kotlin",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-17T19:18:15Z",
-                "open_issues": 7,
-                "owner": "anschnapp",
-                "repo": "mutflow",
-                "stars": 29,
-                "topics": [
-                  "compiler-plugin",
-                  "kotlin",
-                  "kotlin-compiler-plugin",
-                  "kotlin-multiplatform",
-                  "kotlin-multiplatform-library",
-                  "kotlin-native",
-                  "mutation-testing",
-                  "testing",
-                  "testing-library"
-                ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
             }
@@ -864,7 +864,7 @@
                 "open_issues": 57,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1443,
+                "stars": 1444,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -1660,7 +1660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:33:03.957Z",
+    "last_updated": "2026-09-20T07:55:49.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
