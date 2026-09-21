@@ -120,7 +120,7 @@
                 "open_issues": 10,
                 "owner": "nlohmann",
                 "repo": "mutate_cpp",
-                "stars": 194,
+                "stars": 195,
                 "topics": [
                   "c-plus-plus",
                   "mutation-testing"
@@ -308,7 +308,7 @@
                 "open_issues": 191,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2084,
+                "stars": 2085,
                 "topics": [
                   "dotnet-core",
                   "dotnet-framework",
@@ -595,7 +595,7 @@
                 "open_issues": 1,
                 "owner": "jonbaldie",
                 "repo": "go-mutesting",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
@@ -732,11 +732,11 @@
                 "id": 51588320,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T12:21:46Z",
+                "last_commit": "2026-09-21T02:53:13Z",
                 "open_issues": 112,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3138,
+                "stars": 3139,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -801,11 +801,11 @@
                 "id": 1136514018,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T20:01:00Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-20T10:59:51Z",
+                "open_issues": 7,
                 "owner": "anschnapp",
                 "repo": "mutflow",
-                "stars": 31,
+                "stars": 32,
                 "topics": [
                   "compiler-plugin",
                   "kotlin",
@@ -864,7 +864,7 @@
                 "open_issues": 57,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1444,
+                "stars": 1446,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -981,7 +981,7 @@
                 "open_issues": 124,
                 "owner": "mbj",
                 "repo": "mutant",
-                "stars": 2193,
+                "stars": 2194,
                 "topics": [
                   "code-quality-analyzer",
                   "code-review",
@@ -1174,7 +1174,7 @@
                     "language": "HTML",
                     "license": "GPL-3.0",
                     "last_commit": "2025-04-29T11:03:11Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "haliliceylan",
                     "repo": "MUT4SLX",
                     "stars": 6,
@@ -1202,7 +1202,7 @@
                 "language": "HTML",
                 "license": "GPL-3.0",
                 "last_commit": "2025-04-29T11:03:11Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "haliliceylan",
                 "repo": "MUT4SLX",
                 "stars": 6,
@@ -1660,7 +1660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:55:49.200Z",
+    "last_updated": "2026-09-21T08:12:33.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
