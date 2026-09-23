@@ -40,7 +40,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
   * [MuCPP](https://neptuno.uca.es/redmine/projects/mucpp-mutation-tool/wiki) - A mutation system for applying class-level operators to C++ programs.
     * [Assessment of Class Mutation Operators for C++ with the MuCPP Mutation System](https://pdfs.semanticscholar.org/05d5/2ba68ed4ba8505cc92e4f27ad68c1b944842.pdf)
 * C#
-  * [Stryker.NET](https://github.com/stryker-mutator/stryker-net) ⭐ 2,086 | 🐛 192 | 🌐 C# | 📅 2026-09-22 - A mutation-testing tool for .NET Framework and .NET.
+  * [Stryker.NET](https://github.com/stryker-mutator/stryker-net) ⭐ 2,087 | 🐛 190 | 🌐 C# | 📅 2026-09-23 - A mutation-testing tool for .NET Framework and .NET.
   * [Testura.Mutation](https://github.com/Testura/Testura.Mutation) ⭐ 106 | 🐛 23 | 🌐 C# | 📅 2022-12-08
   * [Fettle](https://github.com/ComparetheMarket/fettle) ⚠️ Archived - An experimental mutation-testing tool for C#.
   * [Faultify](https://github.com/Faultify/Faultify) ⭐ 21 | 🐛 8 | 🌐 C# | 📅 2021-12-06 - A bytecode-level mutation-testing tool for .NET.
@@ -53,7 +53,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
 * Erlang
   * [Muterl](https://github.com/parsifal-47/muterl) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2022-11-04
 * Go
-  * [Gremlins](https://github.com/go-gremlins/gremlins) ⭐ 421 | 🐛 46 | 🌐 Go | 📅 2026-06-26
+  * [Gremlins](https://github.com/go-gremlins/gremlins) ⭐ 421 | 🐛 47 | 🌐 Go | 📅 2026-06-26
   * [Ooze](https://github.com/gtramontina/ooze) ⭐ 288 | 🐛 15 | 🌐 Go | 📅 2026-09-17
   * [go-mutesting](https://github.com/jonbaldie/go-mutesting) ⭐ 6 | 🐛 1 | 🌐 Go | 📅 2026-09-19
 * Haskell
@@ -71,32 +71,32 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
   * [Major](http://mutation-testing.org) - A compiler-integrated mutation-testing system for Java.
     * [Publications related to the Major mutation framework](http://mutation-testing.org/publ/)
 * JavaScript
-  * [StrykerJS](https://github.com/stryker-mutator/stryker) ⭐ 3,141 | 🐛 113 | 🌐 TypeScript | 📅 2026-09-21 - A mutation-testing framework for JavaScript and TypeScript.
+  * [StrykerJS](https://github.com/stryker-mutator/stryker) ⭐ 3,143 | 🐛 114 | 🌐 TypeScript | 📅 2026-09-21 - A mutation-testing framework for JavaScript and TypeScript.
   * [testtruth](https://github.com/T4LEL/testtruth) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-26 - A tool that compares mutation results before and after a Git diff to detect weakened JavaScript and TypeScript tests.
 * Kotlin
-  * [mutflow](https://github.com/anschnapp/mutflow) ⭐ 32 | 🐛 7 | 🌐 Kotlin | 📅 2026-09-21 - A Kotlin library that performs mutation testing within the test suite after a single compilation.
+  * [mutflow](https://github.com/anschnapp/mutflow) ⭐ 32 | 🐛 6 | 🌐 Kotlin | 📅 2026-09-22 - A Kotlin library that performs mutation testing within the test suite after a single compilation.
   * [Mutant Kraken](https://github.com/JosueMolinaMorales/mutant-kraken) ⭐ 30 | 🐛 1 | 🌐 Rust | 📅 2025-11-06
 * PHP
   * [Infection](https://github.com/infection)
   * [Pest PHP](https://pestphp.com/docs/mutation-testing) - Mutation testing integrated into the Pest PHP testing framework.
 * Python
-  * [mutmut](https://github.com/boxed/mutmut) ⭐ 1,446 | 🐛 57 | 🌐 Python | 📅 2026-09-12
+  * [mutmut](https://github.com/boxed/mutmut) ⭐ 1,449 | 🐛 57 | 🌐 Python | 📅 2026-09-12
   * [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) ⭐ 658 | 🐛 53 | 🌐 Python | 📅 2026-08-09
 * R
   * [muttest](https://github.com/jakubsob/muttest) ⭐ 26 | 🐛 2 | 🌐 R | 📅 2026-07-21 - A mutation-testing tool for assessing test assertions in R.
   * [mutator](https://github.com/PRL-PRG/mutator) ⭐ 10 | 🐛 2 | 🌐 R | 📅 2026-08-04
 * Ruby
-  * [Mutant](https://github.com/mbj/mutant) ⭐ 2,198 | 🐛 126 | 🌐 Ruby | 📅 2026-09-21
+  * [Mutant](https://github.com/mbj/mutant) ⭐ 2,198 | 🐛 126 | 🌐 Ruby | 📅 2026-09-22
     * [Kill all the mutants - a deep dive into mutation testing and how the Mutant gem works](https://troessner.svbtle.com/kill-all-the-mutants-a-deep-dive-into-mutation-testing-and-how-the-mutant-gem-works)
   * [mutest](https://github.com/backus/mutest) ⚠️ Archived - A fork of Mutant with additional mutations and inline disable comments.
 * Rust
-  * [cargo-mutants](https://github.com/sourcefrog/cargo-mutants) ⭐ 1,309 | 🐛 110 | 🌐 Rust | 📅 2026-08-23 - A Cargo-based mutation-testing tool for Rust.
+  * [cargo-mutants](https://github.com/sourcefrog/cargo-mutants) ⭐ 1,309 | 🐛 111 | 🌐 Rust | 📅 2026-09-22 - A Cargo-based mutation-testing tool for Rust.
   * [mutagen](https://github.com/llogiq/mutagen) ⭐ 642 | 🐛 39 | 🌐 Rust | 📅 2023-05-29 - A mutation-testing plug-in for Rust.
 * Scala
   * [Scalamu](https://github.com/sugakandrey/scalamu) ⭐ 44 | 🐛 4 | 🌐 Scala | 📅 2017-12-11
   * [Stryker4s](https://stryker-mutator.io/stryker4s/)
 * Smalltalk
-  * [MuTalk](https://github.com/pavel-krivanek/mutalk) ⭐ 25 | 🐛 7 | 🌐 Smalltalk | 📅 2026-04-13 - A mutation-testing tool for Pharo Smalltalk.
+  * [MuTalk](https://github.com/pavel-krivanek/mutalk) ⭐ 26 | 🐛 7 | 🌐 Smalltalk | 📅 2026-09-22 - A mutation-testing tool for Pharo Smalltalk.
 * Simulink
   * [MUT4SLX](https://github.com/haliliceylan/MUT4SLX) ⭐ 6 | 🐛 0 | 🌐 HTML | 📅 2025-04-29 - A model-based mutation-testing framework for Simulink and Stateflow models in MATLAB.
     * [Reproduction Package](https://github.com/haliliceylan/MUT4SLX/blob/main/Reproduction-Package-ASE-2023.md) ⭐ 6 | 🐛 0 | 🌐 HTML | 📅 2025-04-29
@@ -104,7 +104,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
     * [MUT4SLX: Extensions for Mutation Testing of Stateflow Models](https://ieeexplore.ieee.org/abstract/document/10621727)
 * Solidity / Smart Contracts
   * [Gambit](https://github.com/Certora/gambit) ⭐ 210 | 🐛 11 | 🌐 Rust | 📅 2026-08-12 - A mutation generator for improving specifications and test suites for Solidity contracts.
-  * [vertigo](https://github.com/JoranHonig/vertigo) ⭐ 208 | 🐛 17 | 🌐 Python | 📅 2023-11-21
+  * [vertigo](https://github.com/JoranHonig/vertigo) ⭐ 209 | 🐛 17 | 🌐 Python | 📅 2023-11-21
   * [vertigo-rs](https://github.com/RareSkills/vertigo-rs) ⭐ 127 | 🐛 6 | 🌐 Python | 📅 2024-09-05 - A mutation-testing tool for Ethereum smart contracts using Foundry.
 * Swift
   * [Muter](https://github.com/muter-mutation-testing/muter) ⭐ 563 | 🐛 36 | 🌐 Swift | 📅 2026-07-21
@@ -380,4 +380,4 @@ Publication titles retain their original spelling. Entries link to DOI or publis
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
