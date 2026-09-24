@@ -304,11 +304,11 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T06:15:00Z",
+                "last_commit": "2026-09-24T05:34:52Z",
                 "open_issues": 190,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2087,
+                "stars": 2089,
                 "topics": [
                   "dotnet-core",
                   "dotnet-framework",
@@ -534,7 +534,7 @@
                 "open_issues": 47,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 421,
+                "stars": 422,
                 "topics": [
                   "go",
                   "golang",
@@ -591,7 +591,7 @@
                 "id": 1238659541,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-19T03:54:18Z",
+                "last_commit": "2026-09-23T08:27:11Z",
                 "open_issues": 1,
                 "owner": "jonbaldie",
                 "repo": "go-mutesting",
@@ -658,7 +658,7 @@
                 "open_issues": 318,
                 "owner": "hcoles",
                 "repo": "pitest",
-                "stars": 1868,
+                "stars": 1870,
                 "topics": [
                   "coverage",
                   "java",
@@ -736,7 +736,7 @@
                 "open_issues": 114,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3143,
+                "stars": 3145,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -801,11 +801,11 @@
                 "id": 1136514018,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T17:46:16Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-23T19:29:05Z",
+                "open_issues": 5,
                 "owner": "anschnapp",
                 "repo": "mutflow",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "compiler-plugin",
                   "kotlin",
@@ -861,10 +861,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-12T22:05:54Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1449,
+                "stars": 1450,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -1078,7 +1078,7 @@
                 "open_issues": 39,
                 "owner": "llogiq",
                 "repo": "mutagen",
-                "stars": 642,
+                "stars": 641,
                 "topics": [
                   "hacktoberfest",
                   "mutation-testing",
@@ -1245,7 +1245,7 @@
                 "open_issues": 11,
                 "owner": "Certora",
                 "repo": "gambit",
-                "stars": 210,
+                "stars": 211,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
@@ -1667,7 +1667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T07:58:33.469Z",
+    "last_updated": "2026-09-24T07:49:29.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
@@ -1675,8 +1675,8 @@
       "id": 93941603,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-22T07:13:19Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-23T10:08:29Z",
+      "open_issues": 2,
       "owner": "theofidry",
       "repo": "awesome-mutation-testing",
       "stars": 473,
@@ -1687,7 +1687,7 @@
         "mutation-testing"
       ]
     },
-    "original_repository_sha": "8564b939df03af5444c0fc9dda52975181248a0c",
+    "original_repository_sha": "4acce410e65ae54942407a7af550cfa44ec7cb48",
     "enhanced_repository": "enhansome/enhansome-mutation-testing",
     "enhanced_repository_description": null,
     "title": "Awesome Mutation Testing with stars"
