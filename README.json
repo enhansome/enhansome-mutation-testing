@@ -304,7 +304,7 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T02:02:38Z",
+                "last_commit": "2026-09-25T21:32:45Z",
                 "open_issues": 190,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
@@ -534,7 +534,7 @@
                 "open_issues": 47,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 422,
+                "stars": 423,
                 "topics": [
                   "go",
                   "golang",
@@ -591,7 +591,7 @@
                 "id": 1238659541,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-24T08:45:21Z",
+                "last_commit": "2026-09-26T02:12:11Z",
                 "open_issues": 1,
                 "owner": "jonbaldie",
                 "repo": "go-mutesting",
@@ -732,11 +732,11 @@
                 "id": 51588320,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T20:22:11Z",
+                "last_commit": "2026-09-26T07:36:58Z",
                 "open_issues": 116,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3145,
+                "stars": 3147,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -805,7 +805,7 @@
                 "open_issues": 4,
                 "owner": "anschnapp",
                 "repo": "mutflow",
-                "stars": 33,
+                "stars": 34,
                 "topics": [
                   "compiler-plugin",
                   "kotlin",
@@ -836,7 +836,7 @@
                 "open_issues": 1,
                 "owner": "JosueMolinaMorales",
                 "repo": "mutant-kraken",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
@@ -864,7 +864,7 @@
                 "open_issues": 58,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1451,
+                "stars": 1453,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -1044,11 +1044,11 @@
                 "id": 404409118,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-22T14:57:28Z",
-                "open_issues": 112,
+                "last_commit": "2026-09-26T01:30:35Z",
+                "open_issues": 111,
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1311,
+                "stars": 1312,
                 "topics": [
                   "cargo",
                   "cargo-plugin",
@@ -1601,31 +1601,128 @@
       "title": "Related tools"
     },
     {
+      "description": "Publication titles retain their original spelling. Entries link to DOI or publisher pages or to locally archived copies when redistribution is permitted.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nico Jansen, Jan-Jelle Kester (2026) Kill all mutants with Stryker — University of Amsterdam guest lecture slides and lab",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The mother repo for all presentations",
+                "homepage": null,
+                "id": 150384042,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2026-09-11T12:51:53Z",
+                "open_issues": 0,
+                "owner": "nicojs",
+                "repo": "presentations",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-09-26T08:00:00.607Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Nico Jansen, Rinse van Hees (2024) Kill all mutants with Stryker — University of Twente guest lecture slides",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The mother repo for all presentations",
+                "homepage": null,
+                "id": 150384042,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2026-09-11T12:51:53Z",
+                "open_issues": 0,
+                "owner": "nicojs",
+                "repo": "presentations",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-09-26T08:00:00.607Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Course material"
+        }
+      ],
+      "title": "Publications"
+    },
+    {
       "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "atodorov/mutation-testing-in-patterns",
+          "title": "FOSDEM 2024: Who's testing the tests? Mutation testing with StrykerJS • Nico Jansen",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Practical examples of software and testing patterns related to mutation testing",
-            "homepage": "http://mutation-testing-patterns.rtfd.io",
-            "id": 65906941,
-            "language": "Python",
-            "license": "CC-BY-SA-4.0",
-            "last_commit": "2018-12-14T20:28:21Z",
+            "description": "The mother repo for all presentations",
+            "homepage": null,
+            "id": 150384042,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-09-11T12:51:53Z",
             "open_issues": 0,
-            "owner": "atodorov",
-            "repo": "mutation-testing-in-patterns",
-            "stars": 23,
+            "owner": "nicojs",
+            "repo": "presentations",
+            "stars": 1,
             "topics": []
           },
-          "first_seen": "2026-08-28T14:35:54.671Z"
+          "first_seen": "2026-09-26T08:00:00.607Z"
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub 2021: Development with Bicycles for Brains • Markus Schirp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A talk on developer efficiency gains through mutation testing.",
+            "homepage": null,
+            "id": 329203295,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2021-01-23T15:39:13Z",
+            "open_issues": 0,
+            "owner": "mbj",
+            "repo": "developers-bicycles",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-26T08:00:00.607Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Mutation testing: a practitioners perspective • Henry Coles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 84211685,
+            "language": null,
+            "license": null,
+            "last_commit": "2017-03-08T13:18:31Z",
+            "open_issues": 0,
+            "owner": "hcoles",
+            "repo": "slides",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-26T08:00:00.607Z"
         }
       ],
-      "title": "Examples and practical resources"
+      "title": "Conference presentations"
     },
     {
       "description": null,
@@ -1661,13 +1758,34 @@
             ]
           },
           "first_seen": "2026-08-28T14:35:54.671Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Mutation Testing Workshop with mutmut (Python)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 225366615,
+            "language": "Shell",
+            "license": "BSD-3-Clause",
+            "last_commit": "2020-05-21T14:54:33Z",
+            "open_issues": 0,
+            "owner": "boxed",
+            "repo": "mutation-testing-workshop",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-26T08:00:00.607Z"
         }
       ],
       "title": "Tutorials"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T08:11:26.559Z",
+    "last_updated": "2026-09-26T08:00:00.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
@@ -1675,7 +1793,7 @@
       "id": 93941603,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-23T10:08:29Z",
+      "last_commit": "2026-09-25T16:04:42Z",
       "open_issues": 2,
       "owner": "theofidry",
       "repo": "awesome-mutation-testing",
@@ -1687,7 +1805,7 @@
         "mutation-testing"
       ]
     },
-    "original_repository_sha": "4acce410e65ae54942407a7af550cfa44ec7cb48",
+    "original_repository_sha": "48af8a8ba8e0ef9e561e084458d76b1fcaeade76",
     "enhanced_repository": "enhansome/enhansome-mutation-testing",
     "enhanced_repository_description": null,
     "title": "Awesome Mutation Testing with stars"
