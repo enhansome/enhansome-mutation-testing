@@ -40,7 +40,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
   * [MuCPP](https://neptuno.uca.es/redmine/projects/mucpp-mutation-tool/wiki) - A mutation system for applying class-level operators to C++ programs.
     * [Assessment of Class Mutation Operators for C++ with the MuCPP Mutation System](https://pdfs.semanticscholar.org/05d5/2ba68ed4ba8505cc92e4f27ad68c1b944842.pdf)
 * C#
-  * [Stryker.NET](https://github.com/stryker-mutator/stryker-net) ⭐ 2,095 | 🐛 192 | 🌐 C# | 📅 2026-09-28 - A mutation-testing tool for .NET Framework and .NET.
+  * [Stryker.NET](https://github.com/stryker-mutator/stryker-net) ⭐ 2,095 | 🐛 196 | 🌐 C# | 📅 2026-09-29 - A mutation-testing tool for .NET Framework and .NET.
   * [Testura.Mutation](https://github.com/Testura/Testura.Mutation) ⭐ 106 | 🐛 23 | 🌐 C# | 📅 2022-12-08
   * [Fettle](https://github.com/ComparetheMarket/fettle) ⚠️ Archived - An experimental mutation-testing tool for C#.
   * [Faultify](https://github.com/Faultify/Faultify) ⭐ 21 | 🐛 8 | 🌐 C# | 📅 2021-12-06 - A bytecode-level mutation-testing tool for .NET.
@@ -53,16 +53,16 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
 * Erlang
   * [Muterl](https://github.com/parsifal-47/muterl) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2022-11-04
 * Go
-  * [Gremlins](https://github.com/go-gremlins/gremlins) ⭐ 432 | 🐛 47 | 🌐 Go | 📅 2026-06-26
+  * [Gremlins](https://github.com/go-gremlins/gremlins) ⭐ 434 | 🐛 47 | 🌐 Go | 📅 2026-06-26
   * [Ooze](https://github.com/gtramontina/ooze) ⭐ 290 | 🐛 15 | 🌐 Go | 📅 2026-09-17
-  * [go-mutesting](https://github.com/jonbaldie/go-mutesting) ⭐ 6 | 🐛 1 | 🌐 Go | 📅 2026-09-26
+  * [go-mutesting](https://github.com/jonbaldie/go-mutesting) ⭐ 6 | 🐛 1 | 🌐 Go | 📅 2026-09-29
 * Groovy
   * [Arcmutate](https://docs.arcmutate.com/docs/groovy.html) - Commercial extension to PIT that adds support for Groovy Lang
 * Haskell
   * [FitSpec](https://github.com/rudymatela/fitspec) ⭐ 78 | 🐛 0 | 🌐 Haskell | 📅 2025-01-30 - A tool that uses mutations to refine properties for testing Haskell programs.
   * [MuCheck](https://hackage.haskell.org/package/MuCheck)
 * Java/JVM
-  * [PIT](https://github.com/hcoles/pitest) ⭐ 1,870 | 🐛 318 | 🌐 Java | 📅 2026-08-28 - A bytecode-level mutation-testing system for the JVM.
+  * [PIT](https://github.com/hcoles/pitest) ⭐ 1,871 | 🐛 318 | 🌐 Java | 📅 2026-08-28 - A bytecode-level mutation-testing system for the JVM.
     * [PIT: A Practical Mutation Testing Tool for Java (Demo)](https://dl.acm.org/citation.cfm?id=2948707)
     * [An Experimental Evaluation of PIT’s Mutation Operators](http://www.diva-portal.org/smash/get/diva2:1161760/FULLTEXT01.pdf)
     * [Introduction to Mutation Testing](https://blog.frankel.ch/introduction-to-mutation-testing/)
@@ -74,7 +74,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
     * [Publications related to the Major mutation framework](http://mutation-testing.org/publ/)
   * [Arcmutate](https://www.arcmutate.com) Commerical extensions to PIT included extended Java operators
 * JavaScript
-  * [StrykerJS](https://github.com/stryker-mutator/stryker) ⭐ 3,150 | 🐛 118 | 🌐 TypeScript | 📅 2026-09-27 - A mutation-testing framework for JavaScript and TypeScript.
+  * [StrykerJS](https://github.com/stryker-mutator/stryker) ⭐ 3,153 | 🐛 120 | 🌐 TypeScript | 📅 2026-09-28 - A mutation-testing framework for JavaScript and TypeScript.
   * [testtruth](https://github.com/T4LEL/testtruth) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-26 - A tool that compares mutation results before and after a Git diff to detect weakened JavaScript and TypeScript tests.
 * Kotlin
   * [mutflow](https://github.com/anschnapp/mutflow) ⭐ 34 | 🐛 4 | 🌐 Kotlin | 📅 2026-09-27 - A Kotlin library that performs mutation testing within the test suite after a single compilation.
@@ -84,13 +84,13 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
   * [Infection](https://github.com/infection)
   * [Pest PHP](https://pestphp.com/docs/mutation-testing) - Mutation testing integrated into the Pest PHP testing framework.
 * Python
-  * [mutmut](https://github.com/boxed/mutmut) ⭐ 1,454 | 🐛 61 | 🌐 Python | 📅 2026-09-12
-  * [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) ⭐ 659 | 🐛 53 | 🌐 Python | 📅 2026-08-09
+  * [mutmut](https://github.com/boxed/mutmut) ⭐ 1,456 | 🐛 61 | 🌐 Python | 📅 2026-09-12
+  * [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) ⭐ 660 | 🐛 53 | 🌐 Python | 📅 2026-08-09
 * R
   * [muttest](https://github.com/jakubsob/muttest) ⭐ 26 | 🐛 2 | 🌐 R | 📅 2026-07-21 - A mutation-testing tool for assessing test assertions in R.
   * [mutator](https://github.com/PRL-PRG/mutator) ⭐ 10 | 🐛 2 | 🌐 R | 📅 2026-08-04
 * Ruby
-  * [Mutant](https://github.com/mbj/mutant) ⭐ 2,199 | 🐛 126 | 🌐 Ruby | 📅 2026-09-24
+  * [Mutant](https://github.com/mbj/mutant) ⭐ 2,201 | 🐛 126 | 🌐 Ruby | 📅 2026-09-28
     * [Kill all the mutants - a deep dive into mutation testing and how the Mutant gem works](https://troessner.svbtle.com/kill-all-the-mutants-a-deep-dive-into-mutation-testing-and-how-the-mutant-gem-works)
   * [mutest](https://github.com/backus/mutest) ⚠️ Archived - A fork of Mutant with additional mutations and inline disable comments.
 * Rust
@@ -107,7 +107,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
     * [MUT4SLX: Fast mutant generation for Simulink](https://ieeexplore.ieee.org/abstract/document/10298490)
     * [MUT4SLX: Extensions for Mutation Testing of Stateflow Models](https://ieeexplore.ieee.org/abstract/document/10621727)
 * Solidity / Smart Contracts
-  * [Gambit](https://github.com/Certora/gambit) ⭐ 211 | 🐛 11 | 🌐 Rust | 📅 2026-08-12 - A mutation generator for improving specifications and test suites for Solidity contracts.
+  * [Gambit](https://github.com/Certora/gambit) ⭐ 212 | 🐛 11 | 🌐 Rust | 📅 2026-08-12 - A mutation generator for improving specifications and test suites for Solidity contracts.
   * [vertigo](https://github.com/JoranHonig/vertigo) ⭐ 209 | 🐛 17 | 🌐 Python | 📅 2023-11-21
   * [vertigo-rs](https://github.com/RareSkills/vertigo-rs) ⭐ 127 | 🐛 6 | 🌐 Python | 📅 2024-09-05 - A mutation-testing tool for Ethereum smart contracts using Foundry.
 * Swift
@@ -305,8 +305,8 @@ Publication titles retain their original spelling. Entries link to DOI or publis
 
 ### Course material
 
-* [Nico Jansen, Jan-Jelle Kester (2026) *Kill all mutants with Stryker* — University of Amsterdam guest lecture slides and lab](https://github.com/nicojs/presentations/tree/master/uva-2026) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-11
-* [Nico Jansen, Rinse van Hees (2024) *Kill all mutants with Stryker* — University of Twente guest lecture slides](https://github.com/nicojs/presentations/tree/master/tu-twente-2024) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-11
+* [Nico Jansen, Jan-Jelle Kester (2026) *Kill all mutants with Stryker* — University of Amsterdam guest lecture slides and lab](https://github.com/nicojs/presentations/tree/master/uva-2026) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-28
+* [Nico Jansen, Rinse van Hees (2024) *Kill all mutants with Stryker* — University of Twente guest lecture slides](https://github.com/nicojs/presentations/tree/master/tu-twente-2024) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-28
 * [Gordon Fraser (2010) *Mutation Testing* — university course slides](documents/Mutation%20Testing%20\(2010\).pdf)
 
 ## Blogs/Posts
@@ -341,7 +341,7 @@ Publication titles retain their original spelling. Entries link to DOI or publis
 
 ## Conference presentations
 
-* [FOSDEM 2024: Who's testing the tests? Mutation testing with StrykerJS • Nico Jansen](https://github.com/nicojs/presentations/tree/master/fosdem-2024) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-11
+* [FOSDEM 2024: Who's testing the tests? Mutation testing with StrykerJS • Nico Jansen](https://github.com/nicojs/presentations/tree/master/fosdem-2024) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-28
 * [GitHub 2021: Development with Bicycles for Brains • Markus Schirp](https://github.com/mbj/developers-bicycles) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2021-01-23
 * [Mutation testing: a practitioners perspective • Henry Coles](https://github.com/hcoles/slides/blob/master/slides.pdf) ⭐ 0 | 🐛 0 | 📅 2017-03-08
 * [Speaker Deck 2026: Would Your Tests Catch This Bug? A Mutation Testing Story • Szymon Fiedler](https://speakerdeck.com/szymonfiedler/would-your-tests-catch-this-bug-a-mutation-testing-story)
@@ -391,4 +391,4 @@ Publication titles retain their original spelling. Entries link to DOI or publis
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
