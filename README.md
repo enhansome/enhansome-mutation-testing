@@ -74,7 +74,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
     * [Publications related to the Major mutation framework](http://mutation-testing.org/publ/)
   * [Arcmutate](https://www.arcmutate.com) Commerical extensions to PIT included extended Java operators
 * JavaScript
-  * [StrykerJS](https://github.com/stryker-mutator/stryker) ⭐ 3,163 | 🐛 125 | 🌐 TypeScript | 📅 2026-10-01 - A mutation-testing framework for JavaScript and TypeScript.
+  * [StrykerJS](https://github.com/stryker-mutator/stryker) ⭐ 3,164 | 🐛 125 | 🌐 TypeScript | 📅 2026-10-01 - A mutation-testing framework for JavaScript and TypeScript.
   * [testtruth](https://github.com/T4LEL/testtruth) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-26 - A tool that compares mutation results before and after a Git diff to detect weakened JavaScript and TypeScript tests.
 * Kotlin
   * [mutflow](https://github.com/anschnapp/mutflow) ⭐ 36 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-02 - A Kotlin library that performs mutation testing within the test suite after a single compilation.

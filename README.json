@@ -736,7 +736,7 @@
                 "open_issues": 125,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3163,
+                "stars": 3164,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -1785,7 +1785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:59:22.665Z",
+    "last_updated": "2026-10-03T08:34:12.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
