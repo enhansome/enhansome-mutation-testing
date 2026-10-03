@@ -11,12 +11,12 @@
             {
               "node_type": "item",
               "title": "MuAlloy",
-              "description": null,
+              "description": "kaiyuanw/MuAlloy",
               "children": [
                 {
                   "node_type": "item",
                   "title": "MuAlloy papers",
-                  "description": null,
+                  "description": "kaiyuanw/MuAlloy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -90,7 +90,7 @@
                 "open_issues": 23,
                 "owner": "mull-project",
                 "repo": "mull",
-                "stars": 842,
+                "stars": 843,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -107,7 +107,7 @@
             {
               "node_type": "item",
               "title": "Mutate++",
-              "description": null,
+              "description": "nlohmann/mutate_cpp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -304,8 +304,8 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T01:28:49Z",
-                "open_issues": 199,
+                "last_commit": "2026-10-02T22:28:26Z",
+                "open_issues": 198,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
                 "stars": 2093,
@@ -323,7 +323,7 @@
             {
               "node_type": "item",
               "title": "Testura.Mutation",
-              "description": null,
+              "description": "Testura/Testura.Mutation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -403,7 +403,7 @@
             {
               "node_type": "item",
               "title": "mutant",
-              "description": null,
+              "description": "jstepien/mutant",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -431,7 +431,7 @@
             {
               "node_type": "item",
               "title": "crytic",
-              "description": null,
+              "description": "hanneskaeufler/crytic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -465,7 +465,7 @@
             {
               "node_type": "item",
               "title": "Mutation",
-              "description": null,
+              "description": "JordiPolo/mutation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -493,7 +493,7 @@
             {
               "node_type": "item",
               "title": "Muterl",
-              "description": null,
+              "description": "parsifal-47/muterl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -521,7 +521,7 @@
             {
               "node_type": "item",
               "title": "Gremlins",
-              "description": null,
+              "description": "go-gremlins/gremlins",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -531,7 +531,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-26T02:32:33Z",
-                "open_issues": 47,
+                "open_issues": 48,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
                 "stars": 434,
@@ -549,7 +549,7 @@
             {
               "node_type": "item",
               "title": "Ooze",
-              "description": null,
+              "description": "gtramontina/ooze",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -582,7 +582,7 @@
             {
               "node_type": "item",
               "title": "go-mutesting",
-              "description": null,
+              "description": "jonbaldie/go-mutesting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -591,8 +591,8 @@
                 "id": 1238659541,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T08:16:50Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-02T09:03:49Z",
+                "open_issues": 1,
                 "owner": "jonbaldie",
                 "repo": "go-mutesting",
                 "stars": 6,
@@ -733,10 +733,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T19:28:35Z",
-                "open_issues": 123,
+                "open_issues": 125,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3161,
+                "stars": 3163,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -801,11 +801,11 @@
                 "id": 1136514018,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T10:33:26Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-02T19:20:10Z",
+                "open_issues": 6,
                 "owner": "anschnapp",
                 "repo": "mutflow",
-                "stars": 35,
+                "stars": 36,
                 "topics": [
                   "compiler-plugin",
                   "kotlin",
@@ -823,7 +823,7 @@
             {
               "node_type": "item",
               "title": "Mutant Kraken",
-              "description": null,
+              "description": "JosueMolinaMorales/mutant-kraken",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -836,7 +836,7 @@
                 "open_issues": 1,
                 "owner": "JosueMolinaMorales",
                 "repo": "mutant-kraken",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
@@ -851,7 +851,7 @@
             {
               "node_type": "item",
               "title": "mutmut",
-              "description": null,
+              "description": "boxed/mutmut",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -861,10 +861,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-12T22:05:54Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1463,
+                "stars": 1466,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -876,7 +876,7 @@
             {
               "node_type": "item",
               "title": "Cosmic Ray",
-              "description": null,
+              "description": "sixty-north/cosmic-ray",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -921,7 +921,7 @@
                 "open_issues": 2,
                 "owner": "jakubsob",
                 "repo": "muttest",
-                "stars": 26,
+                "stars": 27,
                 "topics": [
                   "mutation-testing",
                   "r",
@@ -935,7 +935,7 @@
             {
               "node_type": "item",
               "title": "mutator",
-              "description": null,
+              "description": "PRL-PRG/mutator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -968,7 +968,7 @@
             {
               "node_type": "item",
               "title": "Mutant",
-              "description": null,
+              "description": "mbj/mutant",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -977,11 +977,11 @@
                 "id": 5152718,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T21:58:11Z",
-                "open_issues": 125,
+                "last_commit": "2026-10-02T21:53:15Z",
+                "open_issues": 127,
                 "owner": "mbj",
                 "repo": "mutant",
-                "stars": 2202,
+                "stars": 2204,
                 "topics": [
                   "code-quality-analyzer",
                   "code-review",
@@ -1048,7 +1048,7 @@
                 "open_issues": 112,
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1319,
+                "stars": 1322,
                 "topics": [
                   "cargo",
                   "cargo-plugin",
@@ -1097,7 +1097,7 @@
             {
               "node_type": "item",
               "title": "Scalamu",
-              "description": null,
+              "description": "sugakandrey/scalamu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1165,7 +1165,7 @@
                 {
                   "node_type": "item",
                   "title": "Reproduction Package",
-                  "description": null,
+                  "description": "haliliceylan/MUT4SLX",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1253,7 +1253,7 @@
             {
               "node_type": "item",
               "title": "vertigo",
-              "description": null,
+              "description": "JoranHonig/vertigo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1309,7 +1309,7 @@
             {
               "node_type": "item",
               "title": "Muter",
-              "description": null,
+              "description": "muter-mutation-testing/muter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1319,7 +1319,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-07-21T16:15:30Z",
-                "open_issues": 41,
+                "open_issues": 43,
                 "owner": "muter-mutation-testing",
                 "repo": "muter",
                 "stars": 564,
@@ -1344,7 +1344,7 @@
             {
               "node_type": "item",
               "title": "Mutaml",
-              "description": null,
+              "description": "jmid/mutaml",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1372,7 +1372,7 @@
             {
               "node_type": "item",
               "title": "Mutate.lean",
-              "description": null,
+              "description": "jubnzv/Mutate.lean",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1608,7 +1608,7 @@
             {
               "node_type": "item",
               "title": "Nico Jansen, Jan-Jelle Kester (2026) Kill all mutants with Stryker — University of Amsterdam guest lecture slides and lab",
-              "description": null,
+              "description": "nicojs/presentations",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1629,7 +1629,7 @@
             {
               "node_type": "item",
               "title": "Nico Jansen, Rinse van Hees (2024) Kill all mutants with Stryker — University of Twente guest lecture slides",
-              "description": null,
+              "description": "nicojs/presentations",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1661,7 +1661,7 @@
         {
           "node_type": "item",
           "title": "FOSDEM 2024: Who's testing the tests? Mutation testing with StrykerJS • Nico Jansen",
-          "description": null,
+          "description": "nicojs/presentations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1682,7 +1682,7 @@
         {
           "node_type": "item",
           "title": "GitHub 2021: Development with Bicycles for Brains • Markus Schirp",
-          "description": null,
+          "description": "mbj/developers-bicycles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1703,7 +1703,7 @@
         {
           "node_type": "item",
           "title": "Mutation testing: a practitioners perspective • Henry Coles",
-          "description": null,
+          "description": "hcoles/slides",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1730,7 +1730,7 @@
         {
           "node_type": "item",
           "title": "Introduction to Mutation Testing with PIT (Java)",
-          "description": null,
+          "description": "sualeh/introduction-to-mutation-testing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1762,7 +1762,7 @@
         {
           "node_type": "item",
           "title": "Mutation Testing Workshop with mutmut (Python)",
-          "description": null,
+          "description": "boxed/mutation-testing-workshop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1785,7 +1785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:01:23.053Z",
+    "last_updated": "2026-10-03T04:59:22.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
