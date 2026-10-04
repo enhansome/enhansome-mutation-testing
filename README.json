@@ -304,7 +304,7 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T22:28:26Z",
+                "last_commit": "2026-10-03T16:37:33Z",
                 "open_issues": 198,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
@@ -534,7 +534,7 @@
                 "open_issues": 48,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 434,
+                "stars": 438,
                 "topics": [
                   "go",
                   "golang",
@@ -732,11 +732,11 @@
                 "id": 51588320,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T19:28:35Z",
-                "open_issues": 125,
+                "last_commit": "2026-10-03T17:15:07Z",
+                "open_issues": 124,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3164,
+                "stars": 3165,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -861,10 +861,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-12T22:05:54Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1466,
+                "stars": 1465,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -1048,7 +1048,7 @@
                 "open_issues": 112,
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1322,
+                "stars": 1323,
                 "topics": [
                   "cargo",
                   "cargo-plugin",
@@ -1078,7 +1078,7 @@
                 "open_issues": 39,
                 "owner": "llogiq",
                 "repo": "mutagen",
-                "stars": 641,
+                "stars": 642,
                 "topics": [
                   "hacktoberfest",
                   "mutation-testing",
@@ -1785,7 +1785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T08:34:12.272Z",
+    "last_updated": "2026-10-04T08:49:26.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
