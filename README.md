@@ -40,7 +40,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
   * [MuCPP](https://neptuno.uca.es/redmine/projects/mucpp-mutation-tool/wiki) - A mutation system for applying class-level operators to C++ programs.
     * [Assessment of Class Mutation Operators for C++ with the MuCPP Mutation System](https://pdfs.semanticscholar.org/05d5/2ba68ed4ba8505cc92e4f27ad68c1b944842.pdf)
 * C#
-  * [Stryker.NET](https://github.com/stryker-mutator/stryker-net) ⭐ 2,095 | 🐛 196 | 🌐 C# | 📅 2026-10-04 - A mutation-testing tool for .NET Framework and .NET.
+  * [Stryker.NET](https://github.com/stryker-mutator/stryker-net) ⭐ 2,095 | 🐛 194 | 🌐 C# | 📅 2026-10-06 - A mutation-testing tool for .NET Framework and .NET.
   * [Testura.Mutation](https://github.com/Testura/Testura.Mutation) ⭐ 106 | 🐛 23 | 🌐 C# | 📅 2022-12-08
   * [Fettle](https://github.com/ComparetheMarket/fettle) ⚠️ Archived - An experimental mutation-testing tool for C#.
   * [Faultify](https://github.com/Faultify/Faultify) ⭐ 21 | 🐛 8 | 🌐 C# | 📅 2021-12-06 - A bytecode-level mutation-testing tool for .NET.
@@ -84,13 +84,13 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
   * [Infection](https://github.com/infection)
   * [Pest PHP](https://pestphp.com/docs/mutation-testing) - Mutation testing integrated into the Pest PHP testing framework.
 * Python
-  * [mutmut](https://github.com/boxed/mutmut) ⭐ 1,466 | 🐛 65 | 🌐 Python | 📅 2026-09-12
+  * [mutmut](https://github.com/boxed/mutmut) ⭐ 1,467 | 🐛 65 | 🌐 Python | 📅 2026-09-12
   * [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) ⭐ 660 | 🐛 53 | 🌐 Python | 📅 2026-08-09
 * R
   * [muttest](https://github.com/jakubsob/muttest) ⭐ 27 | 🐛 2 | 🌐 R | 📅 2026-07-21 - A mutation-testing tool for assessing test assertions in R.
   * [mutator](https://github.com/PRL-PRG/mutator) ⭐ 10 | 🐛 3 | 🌐 R | 📅 2026-10-06
 * Ruby
-  * [Mutant](https://github.com/mbj/mutant) ⭐ 2,206 | 🐛 127 | 🌐 Ruby | 📅 2026-10-02
+  * [Mutant](https://github.com/mbj/mutant) ⭐ 2,207 | 🐛 127 | 🌐 Ruby | 📅 2026-10-02
     * [Kill all the mutants - a deep dive into mutation testing and how the Mutant gem works](https://troessner.svbtle.com/kill-all-the-mutants-a-deep-dive-into-mutation-testing-and-how-the-mutant-gem-works)
   * [mutest](https://github.com/backus/mutest) ⚠️ Archived - A fork of Mutant with additional mutations and inline disable comments.
 * Rust

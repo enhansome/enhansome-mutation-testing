@@ -304,8 +304,8 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T13:02:21Z",
-                "open_issues": 196,
+                "last_commit": "2026-10-06T10:13:23Z",
+                "open_issues": 194,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
                 "stars": 2095,
@@ -864,7 +864,7 @@
                 "open_issues": 65,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1466,
+                "stars": 1467,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -981,7 +981,7 @@
                 "open_issues": 127,
                 "owner": "mbj",
                 "repo": "mutant",
-                "stars": 2206,
+                "stars": 2207,
                 "topics": [
                   "code-quality-analyzer",
                   "code-review",
@@ -1827,7 +1827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T09:26:06.162Z",
+    "last_updated": "2026-10-06T11:06:50.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
