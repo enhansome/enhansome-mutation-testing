@@ -144,7 +144,7 @@
                 "open_issues": 16,
                 "owner": "joakim-brannstrom",
                 "repo": "dextool",
-                "stars": 112,
+                "stars": 113,
                 "topics": [
                   "clang",
                   "cpp",
@@ -304,8 +304,8 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T05:04:42Z",
-                "open_issues": 196,
+                "last_commit": "2026-10-09T04:38:14Z",
+                "open_issues": 197,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
                 "stars": 2097,
@@ -591,7 +591,7 @@
                 "id": 1238659541,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-08T09:03:11Z",
+                "last_commit": "2026-10-08T17:22:43Z",
                 "open_issues": 2,
                 "owner": "jonbaldie",
                 "repo": "go-mutesting",
@@ -658,7 +658,7 @@
                 "open_issues": 319,
                 "owner": "hcoles",
                 "repo": "pitest",
-                "stars": 1872,
+                "stars": 1873,
                 "topics": [
                   "coverage",
                   "java",
@@ -736,7 +736,7 @@
                 "open_issues": 130,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3183,
+                "stars": 3189,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -864,7 +864,7 @@
                 "open_issues": 65,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1470,
+                "stars": 1471,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -944,7 +944,7 @@
                 "id": 886327982,
                 "language": "R",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T06:06:31Z",
+                "last_commit": "2026-10-09T07:32:01Z",
                 "open_issues": 3,
                 "owner": "PRL-PRG",
                 "repo": "mutator",
@@ -1044,11 +1044,11 @@
                 "id": 404409118,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-01T15:46:58Z",
-                "open_issues": 113,
+                "last_commit": "2026-10-08T15:02:02Z",
+                "open_issues": 111,
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1325,
+                "stars": 1326,
                 "topics": [
                   "cargo",
                   "cargo-plugin",
@@ -1078,7 +1078,7 @@
                 "open_issues": 39,
                 "owner": "llogiq",
                 "repo": "mutagen",
-                "stars": 641,
+                "stars": 642,
                 "topics": [
                   "hacktoberfest",
                   "mutation-testing",
@@ -1322,7 +1322,7 @@
                 "open_issues": 45,
                 "owner": "muter-mutation-testing",
                 "repo": "muter",
-                "stars": 564,
+                "stars": 565,
                 "topics": [
                   "automated-testing",
                   "mutation-testing",
@@ -1543,11 +1543,11 @@
             "id": 1343957927,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-08T09:07:46Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-09T09:12:35Z",
+            "open_issues": 1,
             "owner": "supercorp-ai",
             "repo": "supercov",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -1606,7 +1606,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Mutation testing as a hook: blocks coding agents until their tests catch the bugs",
+            "description": "Mutation-tests every test your coding agent writes and blocks 'done' until the score passes (default 80%, up to two rounds). Claude Code, Codex, OpenCode, Pi. Java, Kotlin, Python, TS/JS, Go, C#.",
             "homepage": null,
             "id": 1407250892,
             "language": "JavaScript",
@@ -1618,13 +1618,18 @@
             "stars": 2,
             "topics": [
               "agent-skills",
+              "ai-agents",
               "claude-code",
               "codex",
+              "developer-tools",
+              "hooks",
               "mutation-testing",
               "mutmut",
+              "opencode",
               "pitest",
               "quality-gate",
-              "stryker"
+              "stryker",
+              "test-quality"
             ]
           },
           "first_seen": "2026-10-07T09:18:34.491Z"
@@ -1857,7 +1862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T09:29:21.759Z",
+    "last_updated": "2026-10-09T09:39:07.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
@@ -1869,7 +1874,7 @@
       "open_issues": 2,
       "owner": "theofidry",
       "repo": "awesome-mutation-testing",
-      "stars": 474,
+      "stars": 475,
       "topics": [
         "awesome",
         "awesome-list",
