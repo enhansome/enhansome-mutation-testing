@@ -90,7 +90,7 @@
                 "open_issues": 24,
                 "owner": "mull-project",
                 "repo": "mull",
-                "stars": 845,
+                "stars": 846,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -304,11 +304,11 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T06:35:46Z",
-                "open_issues": 199,
+                "last_commit": "2026-10-13T04:56:33Z",
+                "open_issues": 200,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2101,
+                "stars": 2102,
                 "topics": [
                   "dotnet-core",
                   "dotnet-framework",
@@ -336,7 +336,7 @@
                 "open_issues": 23,
                 "owner": "Testura",
                 "repo": "Testura.Mutation",
-                "stars": 106,
+                "stars": 107,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
@@ -534,7 +534,7 @@
                 "open_issues": 62,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 439,
+                "stars": 441,
                 "topics": [
                   "go",
                   "golang",
@@ -558,7 +558,7 @@
                 "id": 570722499,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-17T09:05:21Z",
+                "last_commit": "2026-10-13T01:43:03Z",
                 "open_issues": 15,
                 "owner": "gtramontina",
                 "repo": "ooze",
@@ -654,8 +654,8 @@
                 "id": 15717393,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T09:22:34Z",
-                "open_issues": 320,
+                "last_commit": "2026-10-13T09:40:12Z",
+                "open_issues": 319,
                 "owner": "hcoles",
                 "repo": "pitest",
                 "stars": 1874,
@@ -736,7 +736,7 @@
                 "open_issues": 126,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3199,
+                "stars": 3203,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -864,7 +864,7 @@
                 "open_issues": 68,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1474,
+                "stars": 1476,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -1048,7 +1048,7 @@
                 "open_issues": 111,
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1328,
+                "stars": 1329,
                 "topics": [
                   "cargo",
                   "cargo-plugin",
@@ -1419,7 +1419,7 @@
                 "open_issues": 2,
                 "owner": "codeintegrity-ai",
                 "repo": "mutahunter",
-                "stars": 301,
+                "stars": 303,
                 "topics": [
                   "artificial-intelligence",
                   "automated-testing",
@@ -1448,7 +1448,7 @@
                 "open_issues": 6,
                 "owner": "agroce",
                 "repo": "universalmutator",
-                "stars": 164,
+                "stars": 165,
                 "topics": [
                   "c",
                   "cpp",
@@ -1543,11 +1543,11 @@
             "id": 1343957927,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-11T11:18:46Z",
+            "last_commit": "2026-10-13T00:33:47Z",
             "open_issues": 0,
             "owner": "supercorp-ai",
             "repo": "supercov",
-            "stars": 153,
+            "stars": 154,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -1862,7 +1862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T09:46:45.450Z",
+    "last_updated": "2026-10-13T09:45:07.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",

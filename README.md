@@ -25,7 +25,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
   * [MuAlloy](https://github.com/kaiyuanw/MuAlloy) ⭐ 8 | 🐛 0 | 🌐 Alloy | 📅 2018-06-14
     * [MuAlloy papers](https://github.com/kaiyuanw/MuAlloy#publications) ⭐ 8 | 🐛 0 | 🌐 Alloy | 📅 2018-06-14
 * C/C++
-  * [Mull](https://github.com/mull-project/mull) ⭐ 845 | 🐛 24 | 🌐 C++ | 📅 2026-09-13 - An LLVM-based mutation-testing and fault-injection tool for C and C++.
+  * [Mull](https://github.com/mull-project/mull) ⭐ 846 | 🐛 24 | 🌐 C++ | 📅 2026-09-13 - An LLVM-based mutation-testing and fault-injection tool for C and C++.
   * [Mutate++](https://github.com/nlohmann/mutate_cpp) ⭐ 195 | 🐛 10 | 🌐 CSS | 📅 2024-06-30
   * [Dextool Mutate](https://github.com/joakim-brannstrom/dextool/tree/master/plugin/mutate) ⭐ 113 | 🐛 16 | 🌐 D | 📅 2026-04-20 - A mutation-testing plug-in in the LLVM- and Clang-based Dextool suite.
   * [MART](https://github.com/thierry-tct/mart) ⭐ 26 | 🐛 0 | 🌐 C++ | 📅 2022-07-25 - A configurable mutation-testing framework based on LLVM.
@@ -40,8 +40,8 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
   * [MuCPP](https://neptuno.uca.es/redmine/projects/mucpp-mutation-tool/wiki) - A mutation system for applying class-level operators to C++ programs.
     * [Assessment of Class Mutation Operators for C++ with the MuCPP Mutation System](https://pdfs.semanticscholar.org/05d5/2ba68ed4ba8505cc92e4f27ad68c1b944842.pdf)
 * C#
-  * [Stryker.NET](https://github.com/stryker-mutator/stryker-net) ⭐ 2,101 | 🐛 199 | 🌐 C# | 📅 2026-10-12 - A mutation-testing tool for .NET Framework and .NET.
-  * [Testura.Mutation](https://github.com/Testura/Testura.Mutation) ⭐ 106 | 🐛 23 | 🌐 C# | 📅 2022-12-08
+  * [Stryker.NET](https://github.com/stryker-mutator/stryker-net) ⭐ 2,102 | 🐛 200 | 🌐 C# | 📅 2026-10-13 - A mutation-testing tool for .NET Framework and .NET.
+  * [Testura.Mutation](https://github.com/Testura/Testura.Mutation) ⭐ 107 | 🐛 23 | 🌐 C# | 📅 2022-12-08
   * [Fettle](https://github.com/ComparetheMarket/fettle) ⚠️ Archived - An experimental mutation-testing tool for C#.
   * [Faultify](https://github.com/Faultify/Faultify) ⭐ 21 | 🐛 8 | 🌐 C# | 📅 2021-12-06 - A bytecode-level mutation-testing tool for .NET.
 * Clojure
@@ -53,8 +53,8 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
 * Erlang
   * [Muterl](https://github.com/parsifal-47/muterl) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2022-11-04
 * Go
-  * [Gremlins](https://github.com/go-gremlins/gremlins) ⭐ 439 | 🐛 62 | 🌐 Go | 📅 2026-06-26
-  * [Ooze](https://github.com/gtramontina/ooze) ⭐ 289 | 🐛 15 | 🌐 Go | 📅 2026-09-17
+  * [Gremlins](https://github.com/go-gremlins/gremlins) ⭐ 441 | 🐛 62 | 🌐 Go | 📅 2026-06-26
+  * [Ooze](https://github.com/gtramontina/ooze) ⭐ 289 | 🐛 15 | 🌐 Go | 📅 2026-10-13
   * [go-mutesting](https://github.com/jonbaldie/go-mutesting) ⭐ 6 | 🐛 2 | 🌐 Go | 📅 2026-10-10
 * Groovy
   * [Arcmutate](https://docs.arcmutate.com/docs/groovy.html) - Commercial extension to PIT that adds support for Groovy Lang
@@ -62,7 +62,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
   * [FitSpec](https://github.com/rudymatela/fitspec) ⭐ 78 | 🐛 0 | 🌐 Haskell | 📅 2025-01-30 - A tool that uses mutations to refine properties for testing Haskell programs.
   * [MuCheck](https://hackage.haskell.org/package/MuCheck)
 * Java/JVM
-  * [PIT](https://github.com/hcoles/pitest) ⭐ 1,874 | 🐛 320 | 🌐 Java | 📅 2026-10-12 - A bytecode-level mutation-testing system for the JVM.
+  * [PIT](https://github.com/hcoles/pitest) ⭐ 1,874 | 🐛 319 | 🌐 Java | 📅 2026-10-13 - A bytecode-level mutation-testing system for the JVM.
     * [PIT: A Practical Mutation Testing Tool for Java (Demo)](https://dl.acm.org/citation.cfm?id=2948707)
     * [An Experimental Evaluation of PIT’s Mutation Operators](http://www.diva-portal.org/smash/get/diva2:1161760/FULLTEXT01.pdf)
     * [Introduction to Mutation Testing](https://blog.frankel.ch/introduction-to-mutation-testing/)
@@ -74,7 +74,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
     * [Publications related to the Major mutation framework](http://mutation-testing.org/publ/)
   * [Arcmutate](https://www.arcmutate.com) Commerical extensions to PIT included extended Java operators
 * JavaScript
-  * [StrykerJS](https://github.com/stryker-mutator/stryker) ⭐ 3,199 | 🐛 126 | 🌐 TypeScript | 📅 2026-10-10 - A mutation-testing framework for JavaScript and TypeScript.
+  * [StrykerJS](https://github.com/stryker-mutator/stryker) ⭐ 3,203 | 🐛 126 | 🌐 TypeScript | 📅 2026-10-10 - A mutation-testing framework for JavaScript and TypeScript.
   * [testtruth](https://github.com/T4LEL/testtruth) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-26 - A tool that compares mutation results before and after a Git diff to detect weakened JavaScript and TypeScript tests.
 * Kotlin
   * [mutflow](https://github.com/anschnapp/mutflow) ⭐ 38 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-07 - A Kotlin library that performs mutation testing within the test suite after a single compilation.
@@ -84,7 +84,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
   * [Infection](https://github.com/infection)
   * [Pest PHP](https://pestphp.com/docs/mutation-testing) - Mutation testing integrated into the Pest PHP testing framework.
 * Python
-  * [mutmut](https://github.com/boxed/mutmut) ⭐ 1,474 | 🐛 68 | 🌐 Python | 📅 2026-09-12
+  * [mutmut](https://github.com/boxed/mutmut) ⭐ 1,476 | 🐛 68 | 🌐 Python | 📅 2026-09-12
   * [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) ⭐ 660 | 🐛 57 | 🌐 Python | 📅 2026-08-09
 * R
   * [muttest](https://github.com/jakubsob/muttest) ⭐ 27 | 🐛 2 | 🌐 R | 📅 2026-07-21 - A mutation-testing tool for assessing test assertions in R.
@@ -94,7 +94,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
     * [Kill all the mutants - a deep dive into mutation testing and how the Mutant gem works](https://troessner.svbtle.com/kill-all-the-mutants-a-deep-dive-into-mutation-testing-and-how-the-mutant-gem-works)
   * [mutest](https://github.com/backus/mutest) ⚠️ Archived - A fork of Mutant with additional mutations and inline disable comments.
 * Rust
-  * [cargo-mutants](https://github.com/sourcefrog/cargo-mutants) ⭐ 1,328 | 🐛 111 | 🌐 Rust | 📅 2026-10-08 - A Cargo-based mutation-testing tool for Rust.
+  * [cargo-mutants](https://github.com/sourcefrog/cargo-mutants) ⭐ 1,329 | 🐛 111 | 🌐 Rust | 📅 2026-10-08 - A Cargo-based mutation-testing tool for Rust.
   * [mutagen](https://github.com/llogiq/mutagen) ⭐ 641 | 🐛 39 | 🌐 Rust | 📅 2023-05-29 - A mutation-testing plug-in for Rust.
 * Scala
   * [Scalamu](https://github.com/sugakandrey/scalamu) ⭐ 44 | 🐛 4 | 🌐 Scala | 📅 2017-12-11
@@ -117,8 +117,8 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
 * Lean
   * [Mutate.lean](https://github.com/jubnzv/Mutate.lean) ⭐ 4 | 🐛 0 | 🌐 Lean | 📅 2026-09-11
 * Other
-  * [Mutahunter](https://github.com/codeintegrity-ai/mutahunter) ⭐ 301 | 🐛 2 | 🌐 Python | 📅 2025-04-17 - An open-source, language-agnostic mutation-testing tool.
-  * [Universal Mutator](https://github.com/agroce/universalmutator) ⭐ 164 | 🐛 6 | 🌐 Python | 📅 2026-05-20 - A regular-expression-based mutation tool for source code in multiple languages.
+  * [Mutahunter](https://github.com/codeintegrity-ai/mutahunter) ⭐ 303 | 🐛 2 | 🌐 Python | 📅 2025-04-17 - An open-source, language-agnostic mutation-testing tool.
+  * [Universal Mutator](https://github.com/agroce/universalmutator) ⭐ 165 | 🐛 6 | 🌐 Python | 📅 2026-05-20 - A regular-expression-based mutation tool for source code in multiple languages.
   * [boggart](https://github.com/squaresLab/boggart) ⭐ 2 | 🐛 9 | 🌐 Python | 📅 2019-01-09 - A lightweight, extensible, language-independent mutation-testing framework.
   * [Bough](https://github.com/CodeEnPlace/bough) ⭐ 1 | 🐛 33 | 🌐 Rust | 📅 2026-04-10 - A polyglot incremental mutation-testing tool.
 
@@ -126,7 +126,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
 
 Tools that are not mutation-testing tools themselves, but apply the same loop to a different subject.
 
-* [Supercov](https://github.com/supercorp-ai/supercov) ⭐ 153 | 🐛 0 | 🌐 Rust | 📅 2026-10-11 - A coverage tool that estimates, test by test, which executed statements a test would catch if changed, by asking a decision model instead of running mutants. Needs a TypeSafe API key.
+* [Supercov](https://github.com/supercorp-ai/supercov) ⭐ 154 | 🐛 0 | 🌐 Rust | 📅 2026-10-13 - A coverage tool that estimates, test by test, which executed statements a test would catch if changed, by asking a decision model instead of running mutants. Needs a TypeSafe API key.
 * [VisMAn](https://github.com/sqrlab/VisMAn) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2013-08-14 - A visualisation tool for mutation-testing results.
 * [greencheck](https://github.com/simin-yuan/greencheck) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-09 - A mutation-testing harness for validators and quality gates rather than for program code: it mutates the checker's input, reruns the checker for each mutant, and reports which mutations the gate fails to reject.
 * [mutagate](https://github.com/keyboardsamurai/mutagate) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-07 - An agent skill that runs PIT, StrykerJS, mutmut, gomutants or Stryker.NET on the code a coding agent's new test covers, and blocks the agent's task completion while the mutation score is below a threshold.
@@ -393,4 +393,4 @@ Publication titles retain their original spelling. Entries link to DOI or publis
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
