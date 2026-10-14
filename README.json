@@ -304,8 +304,8 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T04:56:33Z",
-                "open_issues": 200,
+                "last_commit": "2026-10-14T06:05:21Z",
+                "open_issues": 201,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
                 "stars": 2102,
@@ -534,7 +534,7 @@
                 "open_issues": 62,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 441,
+                "stars": 442,
                 "topics": [
                   "go",
                   "golang",
@@ -654,11 +654,11 @@
                 "id": 15717393,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T09:40:12Z",
+                "last_commit": "2026-10-14T07:18:37Z",
                 "open_issues": 319,
                 "owner": "hcoles",
                 "repo": "pitest",
-                "stars": 1874,
+                "stars": 1875,
                 "topics": [
                   "coverage",
                   "java",
@@ -736,7 +736,7 @@
                 "open_issues": 126,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3203,
+                "stars": 3205,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -766,7 +766,7 @@
                 "open_issues": 0,
                 "owner": "T4LEL",
                 "repo": "testtruth",
-                "stars": 0,
+                "stars": 1,
                 "topics": [
                   "ai",
                   "ci",
@@ -861,10 +861,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-12T22:05:54Z",
-                "open_issues": 68,
+                "open_issues": 72,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1476,
+                "stars": 1477,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -977,7 +977,7 @@
                 "id": 5152718,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-11T21:02:50Z",
+                "last_commit": "2026-10-14T06:15:57Z",
                 "open_issues": 126,
                 "owner": "mbj",
                 "repo": "mutant",
@@ -1044,11 +1044,11 @@
                 "id": 404409118,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-08T15:02:02Z",
-                "open_issues": 111,
+                "last_commit": "2026-10-13T15:45:46Z",
+                "open_issues": 112,
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1329,
+                "stars": 1336,
                 "topics": [
                   "cargo",
                   "cargo-plugin",
@@ -1448,7 +1448,7 @@
                 "open_issues": 6,
                 "owner": "agroce",
                 "repo": "universalmutator",
-                "stars": 165,
+                "stars": 166,
                 "topics": [
                   "c",
                   "cpp",
@@ -1543,7 +1543,7 @@
             "id": 1343957927,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-13T00:33:47Z",
+            "last_commit": "2026-10-14T04:17:12Z",
             "open_issues": 0,
             "owner": "supercorp-ai",
             "repo": "supercov",
@@ -1601,6 +1601,41 @@
         },
         {
           "node_type": "item",
+          "title": "mutagate",
+          "description": "An agent skill that runs PIT, StrykerJS, mutmut, gomutants or Stryker.NET on the code a coding agent's new test covers, and blocks the agent's task completion while the mutation score is below a threshold.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Mutation-tests every test your coding agent writes and blocks 'done' until the score passes (default 80%, up to two rounds). Claude Code, Codex, OpenCode, Pi. Java, Kotlin, Python, TS/JS, Go, C#.",
+            "homepage": null,
+            "id": 1407250892,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-07T10:45:32Z",
+            "open_issues": 0,
+            "owner": "keyboardsamurai",
+            "repo": "mutagate",
+            "stars": 4,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "claude-code",
+              "codex",
+              "developer-tools",
+              "hooks",
+              "mutation-testing",
+              "mutmut",
+              "opencode",
+              "pitest",
+              "quality-gate",
+              "stryker",
+              "test-quality"
+            ]
+          },
+          "first_seen": "2026-10-07T09:18:34.491Z"
+        },
+        {
+          "node_type": "item",
           "title": "greencheck",
           "description": "A mutation-testing harness for validators and quality gates rather than for program code: it mutates the checker's input, reruns the checker for each mutant, and reports which mutations the gate fails to reject.",
           "children": [],
@@ -1638,41 +1673,6 @@
             ]
           },
           "first_seen": "2026-09-22T07:57:14.956Z"
-        },
-        {
-          "node_type": "item",
-          "title": "mutagate",
-          "description": "An agent skill that runs PIT, StrykerJS, mutmut, gomutants or Stryker.NET on the code a coding agent's new test covers, and blocks the agent's task completion while the mutation score is below a threshold.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Mutation-tests every test your coding agent writes and blocks 'done' until the score passes (default 80%, up to two rounds). Claude Code, Codex, OpenCode, Pi. Java, Kotlin, Python, TS/JS, Go, C#.",
-            "homepage": null,
-            "id": 1407250892,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-10-07T10:45:32Z",
-            "open_issues": 0,
-            "owner": "keyboardsamurai",
-            "repo": "mutagate",
-            "stars": 2,
-            "topics": [
-              "agent-skills",
-              "ai-agents",
-              "claude-code",
-              "codex",
-              "developer-tools",
-              "hooks",
-              "mutation-testing",
-              "mutmut",
-              "opencode",
-              "pitest",
-              "quality-gate",
-              "stryker",
-              "test-quality"
-            ]
-          },
-          "first_seen": "2026-10-07T09:18:34.491Z"
         }
       ],
       "title": "Related tools"
@@ -1862,7 +1862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T09:45:07.435Z",
+    "last_updated": "2026-10-14T08:02:13.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
@@ -1874,7 +1874,7 @@
       "open_issues": 2,
       "owner": "theofidry",
       "repo": "awesome-mutation-testing",
-      "stars": 476,
+      "stars": 477,
       "topics": [
         "awesome",
         "awesome-list",
