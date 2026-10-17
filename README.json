@@ -562,7 +562,7 @@
                 "open_issues": 15,
                 "owner": "gtramontina",
                 "repo": "ooze",
-                "stars": 289,
+                "stars": 290,
                 "topics": [
                   "go",
                   "golang",
@@ -591,7 +591,7 @@
                 "id": 1238659541,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-15T17:23:48Z",
+                "last_commit": "2026-10-16T10:34:32Z",
                 "open_issues": 2,
                 "owner": "jonbaldie",
                 "repo": "go-mutesting",
@@ -658,7 +658,7 @@
                 "open_issues": 319,
                 "owner": "hcoles",
                 "repo": "pitest",
-                "stars": 1875,
+                "stars": 1877,
                 "topics": [
                   "coverage",
                   "java",
@@ -736,7 +736,7 @@
                 "open_issues": 128,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3230,
+                "stars": 3235,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -861,7 +861,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-15T20:20:31Z",
-                "open_issues": 71,
+                "open_issues": 72,
                 "owner": "boxed",
                 "repo": "mutmut",
                 "stars": 1486,
@@ -977,7 +977,7 @@
                 "id": 5152718,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T06:15:57Z",
+                "last_commit": "2026-10-16T21:53:23Z",
                 "open_issues": 126,
                 "owner": "mbj",
                 "repo": "mutant",
@@ -1448,7 +1448,7 @@
                 "open_issues": 6,
                 "owner": "agroce",
                 "repo": "universalmutator",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "c",
                   "cpp",
@@ -1543,11 +1543,11 @@
             "id": 1343957927,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-16T04:41:46Z",
+            "last_commit": "2026-10-17T00:26:06Z",
             "open_issues": 0,
             "owner": "supercorp-ai",
             "repo": "supercov",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -1862,7 +1862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T07:32:11.814Z",
+    "last_updated": "2026-10-17T07:12:25.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
