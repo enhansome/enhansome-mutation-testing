@@ -90,7 +90,7 @@
                 "open_issues": 23,
                 "owner": "mull-project",
                 "repo": "mull",
-                "stars": 846,
+                "stars": 848,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -304,7 +304,7 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T04:42:31Z",
+                "last_commit": "2026-10-21T22:53:51Z",
                 "open_issues": 218,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
@@ -591,8 +591,8 @@
                 "id": 1201371987,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-20T17:48:46Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-21T16:43:20Z",
+                "open_issues": 2,
                 "owner": "gomutants",
                 "repo": "gomutants",
                 "stars": 13,
@@ -625,6 +625,65 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Gooze",
+              "description": "gooze-dev/gooze",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Gooze Language Server",
+                  "description": "gooze-dev/goozels",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Language Server Protocol (LSP) support for Gooze, enabling autocompletion, diagnostics, and editor integration.",
+                    "homepage": "https://gooze.dev/docs/editor-support/",
+                    "id": 1145333903,
+                    "language": "Go",
+                    "license": "MIT",
+                    "last_commit": "2026-10-22T07:36:07Z",
+                    "open_issues": 3,
+                    "owner": "gooze-dev",
+                    "repo": "goozels",
+                    "stars": 0,
+                    "topics": [
+                      "go",
+                      "golang",
+                      "language-server",
+                      "lsp",
+                      "mutation-testing"
+                    ]
+                  },
+                  "first_seen": "2026-10-22T07:58:11.716Z"
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "description": "Mutation testing for Go: incremental cache, CI sharding, OCI baselines",
+                "homepage": "https://gooze.dev",
+                "id": 1132152769,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-10-22T07:37:46Z",
+                "open_issues": 18,
+                "owner": "gooze-dev",
+                "repo": "gooze",
+                "stars": 3,
+                "topics": [
+                  "ci",
+                  "code-quality",
+                  "go",
+                  "golang",
+                  "mutation",
+                  "mutation-testing",
+                  "test",
+                  "test-automation",
+                  "testing"
+                ]
+              },
+              "first_seen": "2026-10-22T07:58:11.716Z"
             }
           ]
         },
@@ -681,7 +740,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-14T07:18:37Z",
-                "open_issues": 321,
+                "open_issues": 322,
                 "owner": "hcoles",
                 "repo": "pitest",
                 "stars": 1877,
@@ -762,7 +821,7 @@
                 "open_issues": 134,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3258,
+                "stars": 3265,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -915,7 +974,7 @@
                 "open_issues": 52,
                 "owner": "sixty-north",
                 "repo": "cosmic-ray",
-                "stars": 661,
+                "stars": 662,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -970,7 +1029,7 @@
                 "id": 886327982,
                 "language": "R",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-20T16:38:55Z",
+                "last_commit": "2026-10-21T18:15:04Z",
                 "open_issues": 1,
                 "owner": "PRL-PRG",
                 "repo": "mutator",
@@ -1003,11 +1062,11 @@
                 "id": 5152718,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T04:25:44Z",
+                "last_commit": "2026-10-21T21:53:17Z",
                 "open_issues": 126,
                 "owner": "mbj",
                 "repo": "mutant",
-                "stars": 2207,
+                "stars": 2208,
                 "topics": [
                   "code-quality-analyzer",
                   "code-review",
@@ -1074,7 +1133,7 @@
                 "open_issues": 111,
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1347,
+                "stars": 1350,
                 "topics": [
                   "cargo",
                   "cargo-plugin",
@@ -1474,7 +1533,7 @@
                 "open_issues": 6,
                 "owner": "agroce",
                 "repo": "universalmutator",
-                "stars": 168,
+                "stars": 169,
                 "topics": [
                   "c",
                   "cpp",
@@ -1888,7 +1947,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T08:00:05.975Z",
+    "last_updated": "2026-10-22T07:58:11.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
@@ -1896,7 +1955,7 @@
       "id": 93941603,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-20T22:50:45Z",
+      "last_commit": "2026-10-21T14:44:52Z",
       "open_issues": 2,
       "owner": "theofidry",
       "repo": "awesome-mutation-testing",
@@ -1908,7 +1967,7 @@
         "mutation-testing"
       ]
     },
-    "original_repository_sha": "ba84a1e30e0a146d71b29a7fc09a2b64b78b619a",
+    "original_repository_sha": "0176ae00800b2ed72c78e2018960eaa06bb0d07c",
     "enhanced_repository": "enhansome/enhansome-mutation-testing",
     "enhanced_repository_description": null,
     "title": "Awesome Mutation Testing with stars"
