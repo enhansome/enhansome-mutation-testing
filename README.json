@@ -86,11 +86,11 @@
                 "id": 58879166,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T07:20:10Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-29T23:32:44Z",
+                "open_issues": 18,
                 "owner": "mull-project",
                 "repo": "mull",
-                "stars": 849,
+                "stars": 850,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -304,11 +304,11 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T07:34:09Z",
+                "last_commit": "2026-10-30T07:57:47Z",
                 "open_issues": 222,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2116,
+                "stars": 2118,
                 "topics": [
                   "dotnet-core",
                   "dotnet-framework",
@@ -531,10 +531,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-26T02:32:33Z",
-                "open_issues": 65,
+                "open_issues": 66,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 454,
+                "stars": 455,
                 "topics": [
                   "go",
                   "golang",
@@ -591,11 +591,11 @@
                 "id": 1201371987,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-28T21:45:23Z",
+                "last_commit": "2026-10-29T22:49:44Z",
                 "open_issues": 7,
                 "owner": "gomutants",
                 "repo": "gomutants",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "go",
                   "golang",
@@ -743,7 +743,7 @@
                 "open_issues": 320,
                 "owner": "hcoles",
                 "repo": "pitest",
-                "stars": 1881,
+                "stars": 1884,
                 "topics": [
                   "coverage",
                   "java",
@@ -817,11 +817,11 @@
                 "id": 51588320,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T04:57:01Z",
-                "open_issues": 130,
+                "last_commit": "2026-10-30T02:27:41Z",
+                "open_issues": 136,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3293,
+                "stars": 3300,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -946,10 +946,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-28T08:41:44Z",
-                "open_issues": 67,
+                "open_issues": 71,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1514,
+                "stars": 1517,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -1062,8 +1062,8 @@
                 "id": 5152718,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T21:53:55Z",
-                "open_issues": 128,
+                "last_commit": "2026-10-29T21:54:03Z",
+                "open_issues": 127,
                 "owner": "mbj",
                 "repo": "mutant",
                 "stars": 2211,
@@ -1133,7 +1133,7 @@
                 "open_issues": 111,
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1364,
+                "stars": 1367,
                 "topics": [
                   "cargo",
                   "cargo-plugin",
@@ -1326,7 +1326,7 @@
                 "id": 566004537,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-08-12T19:15:15Z",
+                "last_commit": "2026-10-29T18:26:41Z",
                 "open_issues": 11,
                 "owner": "Certora",
                 "repo": "gambit",
@@ -1407,7 +1407,7 @@
                 "open_issues": 46,
                 "owner": "muter-mutation-testing",
                 "repo": "muter",
-                "stars": 569,
+                "stars": 570,
                 "topics": [
                   "automated-testing",
                   "mutation-testing",
@@ -1466,11 +1466,11 @@
                 "id": 1265057351,
                 "language": "Lean",
                 "license": null,
-                "last_commit": "2026-09-11T18:26:41Z",
+                "last_commit": "2026-10-29T13:36:54Z",
                 "open_issues": 0,
                 "owner": "jubnzv",
                 "repo": "Mutate.lean",
-                "stars": 5,
+                "stars": 6,
                 "topics": [
                   "formal-verification",
                   "lean4",
@@ -1480,6 +1480,34 @@
                 ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Mojo",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Despell",
+              "description": "boxed/despell",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A mutation tester for Mojo",
+                "homepage": null,
+                "id": 1433950294,
+                "language": "Mojo",
+                "license": null,
+                "last_commit": "2026-10-29T18:07:15Z",
+                "open_issues": 0,
+                "owner": "boxed",
+                "repo": "despell",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-30T09:01:18.791Z"
             }
           ]
         },
@@ -1628,11 +1656,11 @@
             "id": 1343957927,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-29T08:42:00Z",
+            "last_commit": "2026-10-29T22:23:24Z",
             "open_issues": 3,
             "owner": "supercorp-ai",
             "repo": "supercov",
-            "stars": 157,
+            "stars": 159,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -1731,7 +1759,7 @@
             "id": 1380318047,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-25T16:20:53Z",
+            "last_commit": "2026-10-30T05:59:32Z",
             "open_issues": 0,
             "owner": "simin-yuan",
             "repo": "greencheck",
@@ -1947,7 +1975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T08:55:46.447Z",
+    "last_updated": "2026-10-30T09:01:18.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
@@ -1955,8 +1983,8 @@
       "id": 93941603,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-21T14:44:52Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-29T12:02:26Z",
+      "open_issues": 4,
       "owner": "theofidry",
       "repo": "awesome-mutation-testing",
       "stars": 480,
@@ -1967,7 +1995,7 @@
         "mutation-testing"
       ]
     },
-    "original_repository_sha": "0176ae00800b2ed72c78e2018960eaa06bb0d07c",
+    "original_repository_sha": "42f2df19e4ef5453c1ae63e68ae502089441454e",
     "enhanced_repository": "enhansome/enhansome-mutation-testing",
     "enhanced_repository_description": null,
     "title": "Awesome Mutation Testing with stars"
