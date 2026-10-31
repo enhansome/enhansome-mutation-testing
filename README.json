@@ -90,7 +90,7 @@
                 "open_issues": 18,
                 "owner": "mull-project",
                 "repo": "mull",
-                "stars": 850,
+                "stars": 851,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -304,8 +304,8 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T07:57:47Z",
-                "open_issues": 222,
+                "last_commit": "2026-10-30T22:02:44Z",
+                "open_issues": 232,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
                 "stars": 2118,
@@ -644,7 +644,7 @@
                     "language": "Go",
                     "license": "MIT",
                     "last_commit": "2026-10-24T12:40:59Z",
-                    "open_issues": 0,
+                    "open_issues": 3,
                     "owner": "gooze-dev",
                     "repo": "goozels",
                     "stars": 0,
@@ -667,10 +667,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-25T09:29:03Z",
-                "open_issues": 0,
+                "open_issues": 40,
                 "owner": "gooze-dev",
                 "repo": "gooze",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "ci",
                   "code-quality",
@@ -821,7 +821,7 @@
                 "open_issues": 136,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3300,
+                "stars": 3302,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -946,10 +946,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-28T08:41:44Z",
-                "open_issues": 71,
+                "open_issues": 73,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1517,
+                "stars": 1519,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -971,7 +971,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-15T10:07:00Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "sixty-north",
                 "repo": "cosmic-ray",
                 "stars": 664,
@@ -1066,7 +1066,7 @@
                 "open_issues": 127,
                 "owner": "mbj",
                 "repo": "mutant",
-                "stars": 2211,
+                "stars": 2212,
                 "topics": [
                   "code-quality-analyzer",
                   "code-review",
@@ -1133,7 +1133,7 @@
                 "open_issues": 111,
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1367,
+                "stars": 1368,
                 "topics": [
                   "cargo",
                   "cargo-plugin",
@@ -1656,8 +1656,8 @@
             "id": 1343957927,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-29T22:23:24Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-30T17:28:20Z",
+            "open_issues": 0,
             "owner": "supercorp-ai",
             "repo": "supercov",
             "stars": 159,
@@ -1699,7 +1699,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-27T16:16:00Z",
-            "open_issues": 4,
+            "open_issues": 26,
             "owner": "keyboardsamurai",
             "repo": "mutagate",
             "stars": 7,
@@ -1786,6 +1786,36 @@
             ]
           },
           "first_seen": "2026-09-22T07:57:14.956Z"
+        },
+        {
+          "node_type": "item",
+          "title": "delivery-verifier",
+          "description": "Checks whether a regression test fails with the actual code change reverted and passes with it applied, using separate Git worktrees rather than generated mutants. CLI and GitHub Action for pytest, unittest, node:test and Vitest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Local regression proof and commit-bound review gates for coding-agent changes.",
+            "homepage": null,
+            "id": 1433298197,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-28T08:12:40Z",
+            "open_issues": 0,
+            "owner": "clean99",
+            "repo": "delivery-verifier",
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "cli",
+              "code-review",
+              "coding-agents",
+              "developer-tools",
+              "python",
+              "regression-testing",
+              "testing"
+            ]
+          },
+          "first_seen": "2026-10-31T08:54:20.277Z"
         }
       ],
       "title": "Related tools"
@@ -1975,7 +2005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T09:01:18.791Z",
+    "last_updated": "2026-10-31T08:54:20.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
@@ -1983,8 +2013,8 @@
       "id": 93941603,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-29T12:02:26Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-30T23:14:46Z",
+      "open_issues": 3,
       "owner": "theofidry",
       "repo": "awesome-mutation-testing",
       "stars": 480,
@@ -1995,7 +2025,7 @@
         "mutation-testing"
       ]
     },
-    "original_repository_sha": "42f2df19e4ef5453c1ae63e68ae502089441454e",
+    "original_repository_sha": "3640865e3e24368bbf64a70ef48301b35ee8b1ce",
     "enhanced_repository": "enhansome/enhansome-mutation-testing",
     "enhanced_repository_description": null,
     "title": "Awesome Mutation Testing with stars"
