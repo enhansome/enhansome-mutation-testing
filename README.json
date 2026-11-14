@@ -304,11 +304,11 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T22:01:36Z",
-                "open_issues": 236,
+                "last_commit": "2026-11-14T08:53:01Z",
+                "open_issues": 238,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2136,
+                "stars": 2137,
                 "topics": [
                   "dotnet-core",
                   "dotnet-framework",
@@ -534,7 +534,7 @@
                 "open_issues": 68,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 464,
+                "stars": 465,
                 "topics": [
                   "go",
                   "golang",
@@ -666,8 +666,8 @@
                 "id": 1132152769,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-10T11:18:08Z",
-                "open_issues": 73,
+                "last_commit": "2026-11-13T17:39:59Z",
+                "open_issues": 78,
                 "owner": "gooze-dev",
                 "repo": "gooze",
                 "stars": 4,
@@ -743,7 +743,7 @@
                 "open_issues": 320,
                 "owner": "hcoles",
                 "repo": "pitest",
-                "stars": 1891,
+                "stars": 1892,
                 "topics": [
                   "coverage",
                   "java",
@@ -821,7 +821,7 @@
                 "open_issues": 142,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3366,
+                "stars": 3368,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -946,10 +946,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-07T16:47:06Z",
-                "open_issues": 87,
+                "open_issues": 88,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1539,
+                "stars": 1542,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -1062,7 +1062,7 @@
                 "id": 5152718,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T21:53:47Z",
+                "last_commit": "2026-11-13T21:53:56Z",
                 "open_issues": 128,
                 "owner": "mbj",
                 "repo": "mutant",
@@ -1642,6 +1642,73 @@
       "title": "Tools"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VisMAn",
+          "description": "A visualisation tool for mutation-testing results.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Visualization tool for mutation testing.",
+            "homepage": "http://www.sqrlab.ca",
+            "id": 10456891,
+            "language": "Java",
+            "license": null,
+            "last_commit": "2013-08-14T20:34:34Z",
+            "open_issues": 0,
+            "owner": "seer-lab",
+            "repo": "VisMAn",
+            "stars": 6,
+            "topics": [
+              "java",
+              "mutation-testing",
+              "testing-tools",
+              "visualization"
+            ]
+          },
+          "first_seen": "2026-08-28T14:35:54.671Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Marv",
+          "description": "An interactive tool for visualising and reviewing the results of mutation analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An interactive tool for visualising and reviewing the results of mutation analysis.",
+            "homepage": null,
+            "id": 1162536119,
+            "language": "Go",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-11-14T00:42:29Z",
+            "open_issues": 4,
+            "owner": "SecretSheppy",
+            "repo": "marv",
+            "stars": 6,
+            "topics": [
+              "analysis",
+              "cross-language",
+              "framework-agnostic",
+              "go",
+              "golang",
+              "mutation",
+              "mutation-analysis",
+              "mutation-review",
+              "mutation-testing",
+              "mutation-visualization",
+              "review",
+              "testing",
+              "visualization"
+            ]
+          },
+          "first_seen": "2026-11-14T09:26:27.951Z"
+        }
+      ],
+      "title": "Visualisation Tools"
+    },
+    {
       "description": "Tools that are not mutation-testing tools themselves, but apply the same loop to a different subject.",
       "items": [
         {
@@ -1723,32 +1790,6 @@
         },
         {
           "node_type": "item",
-          "title": "VisMAn",
-          "description": "A visualisation tool for mutation-testing results.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Visualization tool for mutation testing.",
-            "homepage": "http://www.sqrlab.ca",
-            "id": 10456891,
-            "language": "Java",
-            "license": null,
-            "last_commit": "2013-08-14T20:34:34Z",
-            "open_issues": 0,
-            "owner": "seer-lab",
-            "repo": "VisMAn",
-            "stars": 6,
-            "topics": [
-              "java",
-              "mutation-testing",
-              "testing-tools",
-              "visualization"
-            ]
-          },
-          "first_seen": "2026-08-28T14:35:54.671Z"
-        },
-        {
-          "node_type": "item",
           "title": "greencheck",
           "description": "A mutation-testing harness for validators and quality gates rather than for program code: it mutates the checker's input, reruns the checker for each mutant, and reports which mutations the gate fails to reject.",
           "children": [],
@@ -1786,6 +1827,42 @@
             ]
           },
           "first_seen": "2026-09-22T07:57:14.956Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Bite",
+          "description": "Takes each recent bug-fix commit back out of a copy of the project and runs its tests, reporting which fixes no test notices. Works with pytest, npm test, cargo, go, dotnet, Maven and Gradle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Checks whether the \"fixed\" in your AI coding agent's commits is true. It takes each fix back out and runs your tests. Free, with no key.",
+            "homepage": "https://pypi.org/project/bite-check/",
+            "id": 1434718296,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-14T06:30:11Z",
+            "open_issues": 17,
+            "owner": "connabyss",
+            "repo": "bite",
+            "stars": 3,
+            "topics": [
+              "ai-agents",
+              "ai-coding",
+              "claude-code",
+              "cli",
+              "code-quality",
+              "coding-agents",
+              "developer-tools",
+              "github-actions",
+              "good-first-issue",
+              "mutation-testing",
+              "pytest",
+              "python",
+              "regression-testing",
+              "testing-python"
+            ]
+          },
+          "first_seen": "2026-11-14T09:26:27.951Z"
         },
         {
           "node_type": "item",
@@ -2014,7 +2091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T10:01:13.966Z",
+    "last_updated": "2026-11-14T09:26:27.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
@@ -2022,8 +2099,8 @@
       "id": 93941603,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-30T23:14:46Z",
-      "open_issues": 4,
+      "last_commit": "2026-11-13T22:41:29Z",
+      "open_issues": 3,
       "owner": "theofidry",
       "repo": "awesome-mutation-testing",
       "stars": 484,
@@ -2034,7 +2111,7 @@
         "mutation-testing"
       ]
     },
-    "original_repository_sha": "3640865e3e24368bbf64a70ef48301b35ee8b1ce",
+    "original_repository_sha": "60242db639e94733f9fa30ac180f0a37e19ca16b",
     "enhanced_repository": "enhansome/enhansome-mutation-testing",
     "enhanced_repository_description": null,
     "title": "Awesome Mutation Testing with stars"
