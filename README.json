@@ -86,11 +86,11 @@
                 "id": 58879166,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T17:54:46Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-19T00:18:30Z",
+                "open_issues": 14,
                 "owner": "mull-project",
                 "repo": "mull",
-                "stars": 861,
+                "stars": 863,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -304,11 +304,11 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T07:09:29Z",
-                "open_issues": 228,
+                "last_commit": "2026-11-19T06:58:37Z",
+                "open_issues": 231,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2142,
+                "stars": 2143,
                 "topics": [
                   "dotnet-core",
                   "dotnet-framework",
@@ -534,7 +534,7 @@
                 "open_issues": 69,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 470,
+                "stars": 471,
                 "topics": [
                   "go",
                   "golang",
@@ -666,11 +666,11 @@
                 "id": 1132152769,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-17T19:08:12Z",
-                "open_issues": 75,
+                "last_commit": "2026-11-18T20:03:36Z",
+                "open_issues": 72,
                 "owner": "gooze-dev",
                 "repo": "gooze",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "ci",
                   "code-quality",
@@ -743,7 +743,7 @@
                 "open_issues": 320,
                 "owner": "hcoles",
                 "repo": "pitest",
-                "stars": 1893,
+                "stars": 1895,
                 "topics": [
                   "coverage",
                   "java",
@@ -818,10 +818,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-16T22:22:17Z",
-                "open_issues": 153,
+                "open_issues": 154,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3391,
+                "stars": 3398,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -946,10 +946,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-07T16:47:06Z",
-                "open_issues": 89,
+                "open_issues": 91,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1546,
+                "stars": 1548,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -974,7 +974,7 @@
                 "open_issues": 55,
                 "owner": "sixty-north",
                 "repo": "cosmic-ray",
-                "stars": 667,
+                "stars": 668,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -1066,7 +1066,7 @@
                 "open_issues": 128,
                 "owner": "mbj",
                 "repo": "mutant",
-                "stars": 2213,
+                "stars": 2214,
                 "topics": [
                   "code-quality-analyzer",
                   "code-review",
@@ -1133,7 +1133,7 @@
                 "open_issues": 118,
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
-                "stars": 1400,
+                "stars": 1403,
                 "topics": [
                   "cargo",
                   "cargo-plugin",
@@ -1727,7 +1727,7 @@
             "open_issues": 2,
             "owner": "supercorp-ai",
             "repo": "supercov",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -2091,7 +2091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T10:45:21.776Z",
+    "last_updated": "2026-11-19T10:45:50.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
