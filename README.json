@@ -86,8 +86,8 @@
                 "id": 58879166,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T00:18:30Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-20T07:16:18Z",
+                "open_issues": 13,
                 "owner": "mull-project",
                 "repo": "mull",
                 "stars": 863,
@@ -304,11 +304,11 @@
                 "id": 136282301,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T06:58:37Z",
-                "open_issues": 231,
+                "last_commit": "2026-11-20T09:35:10Z",
+                "open_issues": 233,
                 "owner": "stryker-mutator",
                 "repo": "stryker-net",
-                "stars": 2143,
+                "stars": 2141,
                 "topics": [
                   "dotnet-core",
                   "dotnet-framework",
@@ -534,7 +534,7 @@
                 "open_issues": 69,
                 "owner": "go-gremlins",
                 "repo": "gremlins",
-                "stars": 471,
+                "stars": 472,
                 "topics": [
                   "go",
                   "golang",
@@ -591,8 +591,8 @@
                 "id": 1201371987,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-12T19:44:24Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-20T02:44:19Z",
+                "open_issues": 4,
                 "owner": "gomutants",
                 "repo": "gomutants",
                 "stars": 19,
@@ -617,7 +617,7 @@
                 "id": 1238659541,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-16T12:49:42Z",
+                "last_commit": "2026-11-19T23:00:50Z",
                 "open_issues": 2,
                 "owner": "jonbaldie",
                 "repo": "go-mutesting",
@@ -740,10 +740,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-16T11:22:39Z",
-                "open_issues": 320,
+                "open_issues": 321,
                 "owner": "hcoles",
                 "repo": "pitest",
-                "stars": 1895,
+                "stars": 1893,
                 "topics": [
                   "coverage",
                   "java",
@@ -821,7 +821,7 @@
                 "open_issues": 154,
                 "owner": "stryker-mutator",
                 "repo": "stryker-js",
-                "stars": 3398,
+                "stars": 3400,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -866,6 +866,39 @@
                 ]
               },
               "first_seen": "2026-08-28T14:35:54.671Z"
+            },
+            {
+              "node_type": "item",
+              "title": "oxmutate",
+              "description": "A mutation-testing tool for JavaScript and TypeScript on the oxc engine that runs mutants inside the project's own Vitest and reads an existing Stryker configuration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Everything a CLI needs that isn't your CLI: one declaration gives help, --json, --schema, MCP and completions. Drop-in for commander, yargs and meow. An Interlace project.",
+                "homepage": "https://burgee.interlace.tools",
+                "id": 1360723146,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-20T10:26:40Z",
+                "open_issues": 1,
+                "owner": "ofri-peretz",
+                "repo": "burgee",
+                "stars": 1,
+                "topics": [
+                  "ai-agents",
+                  "cli",
+                  "cli-framework",
+                  "command-line",
+                  "commander",
+                  "interlace",
+                  "mcp",
+                  "model-context-protocol",
+                  "nodejs",
+                  "typescript",
+                  "yargs"
+                ]
+              },
+              "first_seen": "2026-11-20T10:32:18.850Z"
             }
           ]
         },
@@ -945,11 +978,11 @@
                 "id": 73606074,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-07T16:47:06Z",
-                "open_issues": 91,
+                "last_commit": "2026-11-19T12:00:54Z",
+                "open_issues": 97,
                 "owner": "boxed",
                 "repo": "mutmut",
-                "stars": 1548,
+                "stars": 1550,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -974,7 +1007,7 @@
                 "open_issues": 55,
                 "owner": "sixty-north",
                 "repo": "cosmic-ray",
-                "stars": 668,
+                "stars": 667,
                 "topics": [
                   "mutation-testing",
                   "python",
@@ -1130,7 +1163,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-19T15:43:07Z",
-                "open_issues": 118,
+                "open_issues": 119,
                 "owner": "sourcefrog",
                 "repo": "cargo-mutants",
                 "stars": 1403,
@@ -1163,7 +1196,7 @@
                 "open_issues": 39,
                 "owner": "llogiq",
                 "repo": "mutagen",
-                "stars": 644,
+                "stars": 643,
                 "topics": [
                   "hacktoberfest",
                   "mutation-testing",
@@ -1407,7 +1440,7 @@
                 "open_issues": 46,
                 "owner": "muter-mutation-testing",
                 "repo": "muter",
-                "stars": 571,
+                "stars": 572,
                 "topics": [
                   "automated-testing",
                   "mutation-testing",
@@ -1532,7 +1565,7 @@
                 "open_issues": 2,
                 "owner": "codeintegrity-ai",
                 "repo": "mutahunter",
-                "stars": 306,
+                "stars": 305,
                 "topics": [
                   "artificial-intelligence",
                   "automated-testing",
@@ -1646,6 +1679,41 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Marv",
+          "description": "An interactive tool for visualising and reviewing the results of mutation analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An interactive tool for visualising and reviewing the results of mutation analysis.",
+            "homepage": null,
+            "id": 1162536119,
+            "language": "Go",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-11-14T00:42:29Z",
+            "open_issues": 4,
+            "owner": "SecretSheppy",
+            "repo": "marv",
+            "stars": 7,
+            "topics": [
+              "analysis",
+              "cross-language",
+              "framework-agnostic",
+              "go",
+              "golang",
+              "mutation",
+              "mutation-analysis",
+              "mutation-review",
+              "mutation-testing",
+              "mutation-visualization",
+              "review",
+              "testing",
+              "visualization"
+            ]
+          },
+          "first_seen": "2026-11-14T09:26:27.951Z"
+        },
+        {
+          "node_type": "item",
           "title": "VisMAn",
           "description": "A visualisation tool for mutation-testing results.",
           "children": [],
@@ -1669,41 +1737,6 @@
             ]
           },
           "first_seen": "2026-08-28T14:35:54.671Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Marv",
-          "description": "An interactive tool for visualising and reviewing the results of mutation analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An interactive tool for visualising and reviewing the results of mutation analysis.",
-            "homepage": null,
-            "id": 1162536119,
-            "language": "Go",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-11-14T00:42:29Z",
-            "open_issues": 4,
-            "owner": "SecretSheppy",
-            "repo": "marv",
-            "stars": 6,
-            "topics": [
-              "analysis",
-              "cross-language",
-              "framework-agnostic",
-              "go",
-              "golang",
-              "mutation",
-              "mutation-analysis",
-              "mutation-review",
-              "mutation-testing",
-              "mutation-visualization",
-              "review",
-              "testing",
-              "visualization"
-            ]
-          },
-          "first_seen": "2026-11-14T09:26:27.951Z"
         }
       ],
       "title": "Visualisation Tools"
@@ -1840,8 +1873,8 @@
             "id": 1434718296,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T02:07:59Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-20T05:12:54Z",
+            "open_issues": 20,
             "owner": "connabyss",
             "repo": "bite",
             "stars": 3,
@@ -2091,7 +2124,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T10:45:50.837Z",
+    "last_updated": "2026-11-20T10:32:18.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mutation testing resources: how to make better code by introducing bugs",
@@ -2099,11 +2132,11 @@
       "id": 93941603,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-13T22:41:29Z",
+      "last_commit": "2026-11-20T10:07:26Z",
       "open_issues": 3,
       "owner": "theofidry",
       "repo": "awesome-mutation-testing",
-      "stars": 486,
+      "stars": 485,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2111,7 +2144,7 @@
         "mutation-testing"
       ]
     },
-    "original_repository_sha": "60242db639e94733f9fa30ac180f0a37e19ca16b",
+    "original_repository_sha": "c17e9dd152a699c59e40567e152db4b27d46d2cb",
     "enhanced_repository": "enhansome/enhansome-mutation-testing",
     "enhanced_repository_description": null,
     "title": "Awesome Mutation Testing with stars"
