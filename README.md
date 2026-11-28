@@ -54,9 +54,9 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
 * Erlang
   * [Muterl](https://github.com/parsifal-47/muterl) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2022-11-04
 * Go
-  * [Gremlins](https://github.com/go-gremlins/gremlins) ⭐ 480 | 🐛 69 | 🌐 Go | 📅 2026-06-26
+  * [Gremlins](https://github.com/go-gremlins/gremlins) ⭐ 483 | 🐛 69 | 🌐 Go | 📅 2026-06-26
   * [Ooze](https://github.com/gtramontina/ooze) ⭐ 291 | 🐛 15 | 🌐 Go | 📅 2026-11-10
-  * [gomutants](https://github.com/gomutants/gomutants) ⭐ 19 | 🐛 9 | 🌐 Go | 📅 2026-11-21
+  * [gomutants](https://github.com/gomutants/gomutants) ⭐ 19 | 🐛 9 | 🌐 Go | 📅 2026-11-28
   * [go-mutesting](https://github.com/jonbaldie/go-mutesting) ⭐ 6 | 🐛 2 | 🌐 Go | 📅 2026-11-27
   * [Gooze](https://github.com/gooze-dev/gooze) ⭐ 6 | 🐛 72 | 🌐 Go | 📅 2026-11-18
     * [Gooze Language Server](https://github.com/gooze-dev/goozels) ⭐ 0 | 🐛 3 | 🌐 Go | 📅 2026-11-17
@@ -79,7 +79,7 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
     * [Publications related to the Major mutation framework](http://mutation-testing.org/publ/)
   * [Arcmutate](https://www.arcmutate.com) Commerical extensions to PIT included extended Java operators
 * JavaScript
-  * [StrykerJS](https://github.com/stryker-mutator/stryker) ⭐ 3,437 | 🐛 159 | 🌐 TypeScript | 📅 2026-11-25 - A mutation-testing framework for JavaScript and TypeScript.
+  * [StrykerJS](https://github.com/stryker-mutator/stryker) ⭐ 3,438 | 🐛 159 | 🌐 TypeScript | 📅 2026-11-28 - A mutation-testing framework for JavaScript and TypeScript.
   * [testtruth](https://github.com/T4LEL/testtruth) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-26 - A tool that compares mutation results before and after a Git diff to detect weakened JavaScript and TypeScript tests.
   * [oxmutate](https://github.com/ofri-peretz/burgee/tree/main/packages/oxmutate) ⭐ 1 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-27 - A mutation-testing tool for JavaScript and TypeScript on the oxc engine that runs mutants inside the project's own Vitest and reads an existing Stryker configuration.
 * Kotlin
@@ -90,13 +90,13 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
   * [Infection](https://github.com/infection)
   * [Pest PHP](https://pestphp.com/docs/mutation-testing) - Mutation testing integrated into the Pest PHP testing framework.
 * Python
-  * [mutmut](https://github.com/boxed/mutmut) ⭐ 1,595 | 🐛 97 | 🌐 Python | 📅 2026-11-26
+  * [mutmut](https://github.com/boxed/mutmut) ⭐ 1,603 | 🐛 72 | 🌐 Python | 📅 2026-11-28
   * [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) ⭐ 667 | 🐛 53 | 🌐 Python | 📅 2026-11-26
 * R
   * [muttest](https://github.com/jakubsob/muttest) ⭐ 28 | 🐛 4 | 🌐 R | 📅 2026-07-21 - A mutation-testing tool for assessing test assertions in R.
   * [mutator](https://github.com/PRL-PRG/mutator) ⭐ 11 | 🐛 1 | 🌐 R | 📅 2026-11-17
 * Ruby
-  * [Mutant](https://github.com/mbj/mutant) ⭐ 2,215 | 🐛 128 | 🌐 Ruby | 📅 2026-11-26
+  * [Mutant](https://github.com/mbj/mutant) ⭐ 2,215 | 🐛 128 | 🌐 Ruby | 📅 2026-11-27
     * [Kill all the mutants - a deep dive into mutation testing and how the Mutant gem works](https://troessner.svbtle.com/kill-all-the-mutants-a-deep-dive-into-mutation-testing-and-how-the-mutant-gem-works)
   * [mutest](https://github.com/backus/mutest) ⚠️ Archived - A fork of Mutant with additional mutations and inline disable comments.
 * Rust
@@ -117,11 +117,11 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
   * [vertigo](https://github.com/JoranHonig/vertigo) ⭐ 209 | 🐛 17 | 🌐 Python | 📅 2023-11-21
   * [vertigo-rs](https://github.com/RareSkills/vertigo-rs) ⭐ 127 | 🐛 6 | 🌐 Python | 📅 2024-09-05 - A mutation-testing tool for Ethereum smart contracts using Foundry.
 * Swift
-  * [Muter](https://github.com/muter-mutation-testing/muter) ⭐ 576 | 🐛 4 | 🌐 Swift | 📅 2026-11-27
+  * [Muter](https://github.com/muter-mutation-testing/muter) ⭐ 577 | 🐛 4 | 🌐 Swift | 📅 2026-11-28
 * OCaml
   * [Mutaml](https://github.com/jmid/mutaml) ⭐ 75 | 🐛 11 | 🌐 OCaml | 📅 2026-11-04
 * Lean
-  * [Mutate.lean](https://github.com/jubnzv/Mutate.lean) ⭐ 6 | 🐛 0 | 🌐 Lean | 📅 2026-10-29
+  * [Mutate.lean](https://github.com/jubnzv/Mutate.lean) ⭐ 7 | 🐛 0 | 🌐 Lean | 📅 2026-10-29
 * Mojo
   * [Despell](https://github.com/boxed/despell) ⭐ 0 | 🐛 0 | 🌐 Mojo | 📅 2026-10-29
 * Other
@@ -140,10 +140,10 @@ This repository catalogues mutation-testing tools, publications, talks, tutorial
 
 Tools that are not mutation-testing tools themselves, but apply the same loop to a different subject.
 
-* [Supercov](https://github.com/supercorp-ai/supercov) ⭐ 173 | 🐛 2 | 🌐 Rust | 📅 2026-11-27 - A coverage tool that estimates, test by test, which executed statements a test would catch if changed, by asking a decision model instead of running mutants. Needs a TypeSafe API key.
+* [Supercov](https://github.com/supercorp-ai/supercov) ⭐ 173 | 🐛 25 | 🌐 Rust | 📅 2026-11-28 - A coverage tool that estimates, test by test, which executed statements a test would catch if changed, by asking a decision model instead of running mutants. Needs a TypeSafe API key.
 * [mutagate](https://github.com/keyboardsamurai/mutagate) ⭐ 9 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-24 - An agent skill that runs PIT, StrykerJS, mutmut, gomutants or Stryker.NET on the code a coding agent's new test covers, and blocks the agent's task completion while the mutation score is below a threshold.
 * [greencheck](https://github.com/simin-yuan/greencheck) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-11-11 - A mutation-testing harness for validators and quality gates rather than for program code: it mutates the checker's input, reruns the checker for each mutant, and reports which mutations the gate fails to reject.
-* [Bite](https://github.com/connabyss/bite) ⭐ 3 | 🐛 16 | 🌐 Python | 📅 2026-11-27 - Takes each recent bug-fix commit back out of a copy of the project and runs its tests, reporting which fixes no test notices. Works with pytest, npm test, cargo, go, dotnet, Maven and Gradle.
+* [Bite](https://github.com/connabyss/bite) ⭐ 3 | 🐛 14 | 🌐 Python | 📅 2026-11-28 - Takes each recent bug-fix commit back out of a copy of the project and runs its tests, reporting which fixes no test notices. Works with pytest, npm test, cargo, go, dotnet, Maven and Gradle.
 * [delivery-verifier](https://github.com/clean99/delivery-verifier) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-28 - Checks whether a regression test fails with the actual code change reverted and passes with it applied, using separate Git worktrees rather than generated mutants. CLI and GitHub Action for pytest, unittest, node:test and Vitest.
 
 ## Publications
@@ -408,4 +408,4 @@ Publication titles retain their original spelling. Entries link to DOI or publis
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
